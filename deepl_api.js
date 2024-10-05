@@ -1,11 +1,11 @@
+require('dotenv').config()
 const fs = require('fs');
 const csv = require('csvtojson');
-const csvFilePath = `${__dirname}/backup/verbs.csv`;
-const deeplKey = process.env.DEEPL_KEY;
+const csvFilePath = `${__dirname}/backup/nouns.csv`;
 
 // DEEPL
 const deepl = require('deepl-node');
-const authKey = deeplKey; // Replace with your key
+const authKey = process.env.DEEPL_KEY;
 const translator = new deepl.Translator(authKey);
 
 csv()
@@ -13,13 +13,13 @@ csv()
 .then(async (jsonObj) => {
     const stream = fs.createWriteStream(`${__dirname}/translated.csv`, {flags:'a'});
     try {
-        for (let i = 0; i < jsonObj.length; i++) {
+        for (let i = 929; i < jsonObj.length; i++) {
             const sentences = [];
-            const result = await translator.translateText(jsonObj[i].german.replace(/\(|\)/g, ""), 'de', 'en-US');
+            const result = await translator.translateText(jsonObj[i].german, 'de', 'en-US');
             const englishTranslation = result.text;
             
             for (const [key, value] of Object.entries(jsonObj[i])) {
-                if (key == "german" || key == "german_full") continue;
+                if (key == "german" || key == "german_full" || !value) continue;
                 try {
                 const result = await translator.translateText(value, 'de', 'en-US');
                 const sentenceTranslation = result.text;
@@ -30,7 +30,7 @@ csv()
                 }
             }
 
-            stream.write(`${jsonObj[i].german},"${jsonObj[i].german_full}",to ${englishTranslation},`);
+            stream.write(`${ jsonObj[i].german.includes(',') ? '"' : ''}${jsonObj[i].german}${ jsonObj[i].german.includes(',') ? '"' : ''},${ englishTranslation.includes(',') ? '"' : ''}${englishTranslation.toLowerCase()}${ englishTranslation.includes(',') ? '"' : ''},${ jsonObj[i].german_full.includes(',') ? '"' : ''}${jsonObj[i].german_full}${ jsonObj[i].german_full.includes(',') ? '"' : ''},`);
             for (let j = 0; j < sentences.length; j++) {
                 stream.write(`${sentences[j][0].includes(',') ? '"' : ''}${sentences[j][0]}${sentences[j][0].includes(',') ? '"' : ''},${sentences[j][1].includes(',') ? '"' : ''}${sentences[j][1]}${sentences[j][1].includes(',') ? '"' : ''}${j + 1 == sentences.length ? '\n' : ','}`);
             }
