@@ -1,0 +1,3 @@
+- Finish checking other.ods
+- Create anki cards for the found verbs
+- Create audio for the noun Anki cards
