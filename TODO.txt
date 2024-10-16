@@ -1,2 +1,3 @@
-- Create anki cards for the found verbs, add (als) to gelten
+- Add in notes in verbs.csv
 - Create audio for the noun Anki cards
+- Create audio for the other Anki cards
