@@ -1,3 +1,2 @@
-- Finish checking other.ods
 - Create anki cards for the found verbs, add (als) to gelten
 - Create audio for the noun Anki cards
