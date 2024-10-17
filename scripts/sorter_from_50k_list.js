@@ -1,12 +1,11 @@
 const fs = require('fs');
 const csv = require('csvtojson');
 const paths = ["complete_list.csv", "nouns.csv", "other.csv", "verbs.csv"];
-const unsortedPath = `${__dirname}/../data/complete_list.csv`;
 const sortedPath = `${__dirname}/../data/50k_frequency_list.csv`;
 
 for (const path of paths) {
     csv()
-    .fromFile(`${__dirname}/../data/${path}`)
+    .fromFile(`${__dirname}/../data/og_order/${path}`)
     .then(async (unsortedObj) => {
         let exist = 0;
         let dont_exist = 0;
@@ -61,7 +60,9 @@ for (const path of paths) {
                 }
                 // Write out non existing words in another file
                 if (!exists) {
-                    unsortedStream.write(`${unsortedObj[i].german}\n`);
+                    if (path != "complete_list.csv") {
+                        unsortedStream.write(`${unsortedObj[i].german}\n`);
+                    }
                     dont_exist++;
                 }
             }

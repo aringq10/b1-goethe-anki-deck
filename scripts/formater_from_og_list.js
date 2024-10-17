@@ -2,10 +2,6 @@ const fs = require('fs');
 const csv = require('csvtojson');
 const csvFilePath = `${__dirname}/data/goethe-zertifikat-b1-wortliste.csv`;
 
-var isAlpha = function(ch){
-    return /^[A-Z]$/i.test(ch);
-}
-
 csv()
 .fromFile(csvFilePath)
 .then(async (jsonObj) => {

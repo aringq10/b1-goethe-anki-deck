@@ -1,12 +1,12 @@
 type,german,english,german_full,s1,t1,s2,t2,s3,t3,s4,t4,s5,t5,s6,t6,s7,t7,s8,t8,s9,t9,s10,t10
 other,ab,from,ab + Dativ,Die Fahrt kostet ab Hamburg 200 Euro.,The trip costs 200 euros from Hamburg.,Ab nächster Woche bleibt unser Geschäft samstags geschlossen.,Our store will be closed on Saturdays from next week.,Mein Bruder besucht uns ab und zu.,My brother visits us from time to time.
 other,aber,but,aber,"Heute kann ich nicht, aber morgen ganz bestimmt.","I can't today, but I definitely can tomorrow.","Es lag sehr viel Schnee, aber Enzo ist trotzdem mit dem Motorrad gefahren.","There was a lot of snow, but Enzo rode the bike anyway.","Wir haben nur eine kleine Wohnung, sind aber damit zufrieden.","We only have a small apartment, but we are happy with it.",Es war sehr schön. Jetzt muss ich aber gehen.,It was very nice. But now I have to go.,"Ich würde gerne kommen, aber es geht leider nicht.","I would love to come, but unfortunately I can't.","Darf ich dich zu einem Kaffee einladen? – Aber ja, sehr gern.","Can I buy you a coffee? - Why yes, I would love to.",Du spielst aber gut Klavier.,But you play the piano well.
-other,abhängig,dependent,abhängig von + Dativ,Gregor ist finanziell von seinen Eltern abhängig.,Gregor is financially dependent on his parents.
+other,abhängig,dependent,abhängig (von + Dativ),Gregor ist finanziell von seinen Eltern abhängig.,Gregor is financially dependent on his parents.
 other,absolut,absolute,absolut,"Was Sie da sagen, ist absolut falsch.",What you are saying is absolutely wrong.,Ich habe absolutes Vertrauen zu dir.,I have absolute confidence in you.
 other,abwärts,downwards,abwärts,Von dort führt der Weg abwärts ins Tal.,"From there, the path leads down into the valley."
 other,abwesend,absent,abwesend,Herr Huber ist bis zum 25. April abwesend.,Mr. Huber will be absent until April 25.
 other,Achtung!,Attention!,Achtung!,"Achtung, hier endet die Straße!","Attention, the road ends here!"
-other,ähnlich,similar,ähnlich,Emilia ist in einer ganz ähnlichen Situation wie ich.,Emilia is in a very similar situation to me.,Oleg sieht seinem Bruder sehr ähnlich.,Oleg looks a lot like his brother.
+other,ähnlich,similar,ähnlich + Dativ,Emilia ist in einer ganz ähnlichen Situation wie ich.,Emilia is in a very similar situation to me.,Oleg sieht seinem Bruder sehr ähnlich.,Oleg looks a lot like his brother.
 other,aktiv,active,aktiv,Ich bin sehr aktiv und mache viel Sport.,I am very active and do a lot of sport.
 other,aktuell,"current, topical",aktuell,Umweltschutz ist ein aktuelles Thema.,Environmental protection is a topical issue.
 other,all-,all,all-,Sind alle Kinder da?,Are all the children there?,"Sonst noch (et)was? – Nein, danke. Das ist alles.","Anything else? - No, thank you. That's all.",Alles Gute!,All the best!
@@ -297,7 +297,7 @@ other,insgesamt,in total,insgesamt,Insgesamt haben sich 20 Teilnehmer für die P
 other,intelligent,intelligent,intelligent,Maria ist sehr intelligent. Sie kann sehr gut rechnen.,Maria is very intelligent. She is very good at math.
 other,intensiv,intensive,intensiv,Ich möchte intensiv Deutsch lernen.,I would like to learn German intensively.
 other,interessant,interesting,interessant,Ich habe einen interessanten Bericht gelesen.,I read an interesting report.,Den Artikel über Brasilien finde ich sehr interessant.,I find the article about Brazil very interesting.
-other,interessiert,interested,interessiert,Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?,My neighbor is moving out next month. Are you still interested in the apartment?
+other,interessiert,interested (in),interessiert (an + Dativ),Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?,My neighbor is moving out next month. Are you still interested in the apartment?
 other,interkulturell,intercultural,interkulturell,Wir haben in der Sprachschule ein interkulturelles Fest gefeiert.,We celebrated an intercultural party at the language school.
 other,international,international,international,"Die Teilnehmenden in unserem Kurs sind ganz international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …","The participants in our course are very international: Silvana comes from Italy, Conchi from Spain, Yin from China ...",Der Professor war international bekannt.,The professor was internationally renowned.
 other,inzwischen,"meanwhile, in the meantime",inzwischen,Herr Müller kommt gleich zurück. Sie können inzwischen in seinem Büro warten.,Mr. Müller will be back shortly. You can wait in his office in the meantime.
@@ -364,7 +364,7 @@ other,mal,"sometimes, times",mal,"Mal bin ich glücklich, mal traurig.","Sometim
 other,man,"you, one",man,Wie schreibt man das?,How do you write that?,Hier darf man nicht parken.,You are not allowed to park here.
 other,manch-,some,manch-,Manche Nachbarn sind unfreundlich.,Some neighbors are unfriendly.,An manchen Tagen ist das Zugfahren billiger.,"On some days, train travel is cheaper."
 other,manchmal,sometimes,manchmal,Manchmal gehe ich mit meiner Frau ins Café.,Sometimes I go to the café with my wife.,Rauchen Sie? – Manchmal.,Do you smoke? - Sometimes.
-other,männlich,male,männlich,Kreuzen Sie bitte an: „weiblich“ oder „männlich“.,Please mark with a cross: "female" or "male".
+other,männlich,male,männlich,Kreuzen Sie bitte an: „weiblich“ oder „männlich“.,"Please mark with a cross: ""female"" or ""male""."
 other,maximal,maximum,maximal,Wie lange braucht ein Brief? – Maximal zwei Tage.,How long does a letter take? - A maximum of two days.,Wie schwer darf der Brief sein? – Maximal 20 g.,How heavy can the letter be? - Maximum 20 g.
 other,mehr,more,mehr,Ich habe diesmal mehr gelernt als bei der letzten Prüfung.,I learned more this time than in the last exam.,Mehr kann ich nicht essen!,That's all I can eat!
 other,mehrere,several,mehrere,Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.,I asked several people. But no one could help me.,Viele Wörter haben mehrere Bedeutungen.,Many words have several meanings.
@@ -633,7 +633,7 @@ other,verwandt,related,verwandt,Sind Sie mit Frau Meyer verwandt?,Are you relate
 other,viel/viele,"much/many, a lot",viel/viele,Ich habe schon viel gelernt.,I have already learned a lot.,Ich wünsche Ihnen viel Spaß.,I wish you a lot of fun.,Hier regnet es viel.,It rains a lot here.,Das ist mir viel zu teuer.,That's far too expensive for me.,Im Winter sind viele Leute erkältet.,Many people get colds in winter.
 other,vielleicht,"maybe, perhaps",vielleicht,Kommst du mit in die Stadt? - Ich weiß noch nicht. Vielleicht.,Are you coming into town? - I don't know yet. Maybe.,Vielleicht bekomme ich den Job.,Maybe I'll get the job.,Die Fahrkarte war vielleicht teuer!,The ticket may have been expensive!,Hast du vielleicht Kleingeld für mich?,Do you have any change for me?
 other,virtuell,virtual,virtuell,Auf dieser Website kann man an einer virtuellen Stadtrundfahrt teilnehmen.,You can take part in a virtual city tour on this website.
-other,voll,full,voll,Die Flasche ist noch ganz voll.,The bottle is still completely full.,Vor den Feiertagen sind die Züge immer sehr voll.,The trains are always very full before the holidays.,Bitte unterschreiben Sie mit Ihrem vollen Namen.,Please sign your full name.
+other,voll,full (of),voll (von + Dativ),Die Flasche ist noch ganz voll.,The bottle is still completely full.,Vor den Feiertagen sind die Züge immer sehr voll.,The trains are always very full before the holidays.,Bitte unterschreiben Sie mit Ihrem vollen Namen.,Please sign your full name.
 other,völlig,completely,völlig,Das halte ich für völlig ausgeschlossen.,I think that is completely out of the question.
 other,von,"from, of",von + Dativ,Ich komme gerade vom Zahnarzt.,I've just come from the dentist.,Emil ist ein Freund von mir.,Emil is a friend of mine.,Haben Sie noch eine Zeitung von heute?,Do you still have a newspaper from today?,Von jetzt an müssen wir sparen.,From now on we have to save money.,Das Büro ist von 13 bis 15 Uhr geschlossen.,The office is closed from 1 p.m. to 3 p.m.
 other,voneinander,from each other,voneinander,Wir haben lange nichts voneinander gehört.,We haven't heard from each other for a long time.
@@ -664,7 +664,7 @@ other,was für ein-,what kind of,was für ein-,Ich will mir ein Auto kaufen. –
 other,weder … noch,neither ... nor,weder … noch,Für Urlaub haben wir weder Zeit noch Geld.,We have neither time nor money for vacations.
 other,weg/weg-,"gone, away",weg/weg-,Meine Handtasche ist weg!,My handbag is gone!,Den Brief darfst du nicht wegwerfen.,You must not throw the letter away.
 other,wegen,"because of, due to",wegen + Dativ/Genitiv,Wegen Nebels konnte unser Flugzeug nicht landen.,Our plane was unable to land due to fog.,Ich rufe wegen meiner Tochter an.,I'm calling about my daughter.
-other,weiblich,female,weiblich,Kreuzen Sie bitte an: „weiblich“ oder „männlich“.,Please mark with a cross: "female" or "male".
+other,weiblich,female,weiblich,Kreuzen Sie bitte an: „weiblich“ oder „männlich“.,"Please mark with a cross: ""female"" or ""male""."
 other,weich,soft,weich,Ich möchte zum Frühstück ein weiches Ei.,I would like a soft egg for breakfast.,Das Bett im Hotel war mir zu weich.,The bed in the hotel was too soft for me.
 other,weil,because,weil,"Ich kann nicht kommen, weil ich krank bin.",I can't come because I'm ill.
 other,-weise,"-ly, -wise",-weise,War der Test schwierig? – Teilweise.,Was the test difficult? - Partly.,Das ist möglicherweise nicht so einfach.,This may possibly not be so easy.
@@ -706,7 +706,7 @@ other,ziemlich,"pretty, quite",ziemlich,Ich bin schon ziemlich müde. Ich gehe i
 other,zu,"to, at, too",zu + Dativ,Ich bringe Sie zum Bahnhof.,I'll take you to the station.,Wann sind Sie zu Hause?,When are you at home?,Am besten gehen Sie zu Fuß.,The best way to get there is on foot.,Gehen Ihre Kinder schon/noch zur Schule?,Do your children already/still go to school?,Das Kleid ist mir zu teuer.,The dress is too expensive for me.,Bitte zwanzig Briefmarken zu 55 Cent.,Twenty stamps at 55 cents please.,Ich trinke zum Essen ein Bier.,I drink a beer with my meal.,Unsere Mannschaft hat 2 zu 1 gewonnen.,Our team won 2 to 1.,"Ich habe vor, mir ein neues Auto zu kaufen.",I am planning to buy a new car.,Hast du etwas zu trinken für mich?,Do you have a drink for me?
 other,zuerst,(at) first,zuerst,Wer war zuerst? – Der Herr hier.,Who was first? - The gentleman here.,Zuerst gibt es Mittagessen. Dann könnt ihr Schokolade essen.,First there's lunch. Then you can eat chocolate.,Zuerst hat mir die Arbeit gar nicht gefallen. Jetzt geht es besser.,At first I didn't like the work at all. Now it's better.
 other,zufällig,"random, by chance",zufällig,Wir haben uns zufällig am Bahnhof getroffen.,We met by chance at the station.,Hast du zufällig meine Brille gesehen?,Did you happen to see my glasses?
-other,zufrieden,satisfied,zufrieden,Meine Kinder haben heute Zeugnisse bekommen. Ich bin zufrieden.,My children got their report cards today. I am satisfied.,"Ich bin mit der Wohnung zufrieden. Sie ist nicht so groß, aber sie hat einen Balkon.","I'm happy with the apartment. It's not that big, but it has a balcony."
+other,zufrieden,satisfied (with),zufrieden (mit + Dativ),Meine Kinder haben heute Zeugnisse bekommen. Ich bin zufrieden.,My children got their report cards today. I am satisfied.,"Ich bin mit der Wohnung zufrieden. Sie ist nicht so groß, aber sie hat einen Balkon.","I'm happy with the apartment. It's not that big, but it has a balcony."
 other,zugänglich,accessible,zugänglich,Der Park ist für alle zugänglich.,The park is accessible to all.
 other,zukünftig,"in the future, future",zukünftig,"Ich bitte dich, zukünftig früher zu kommen.",I would ask you to come earlier in future.
 other,zuletzt,(at) last,zuletzt,Die Kleider packen wir zuletzt ein.,We pack the clothes last.,Wir haben uns vor drei Jahren zuletzt gesehen.,We last saw each other three years ago.

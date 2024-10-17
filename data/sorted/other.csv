@@ -186,7 +186,7 @@ other,langsam,slow,langsam,Könnten Sie bitte etwas langsamer sprechen?,Could yo
 other,bereits,already,bereits,Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen.,Please get in touch with Ms. Kaiser. She has already called three times.
 other,leider,unfortunately,leider,Da kann ich Ihnen leider nicht helfen.,"Unfortunately, I can't help you there.",Hast du schon eine Antwort auf deinen Brief? – Leider nicht.,Have you received a reply to your letter yet? - Unfortunately not.,Leider kann ich nicht kommen. Ich muss zum Arzt.,"Unfortunately, I can't come. I have to see a doctor."
 other,trotzdem,nevertheless,trotzdem,Es war ziemlich kalt. Trotzdem bin ich schwimmen gegangen.,"It was pretty cold. Nevertheless, I went swimming."
-other,voll,full,voll,Die Flasche ist noch ganz voll.,The bottle is still completely full.,Vor den Feiertagen sind die Züge immer sehr voll.,The trains are always very full before the holidays.,Bitte unterschreiben Sie mit Ihrem vollen Namen.,Please sign your full name.
+other,voll,full (of),voll (von + Dativ),Die Flasche ist noch ganz voll.,The bottle is still completely full.,Vor den Feiertagen sind die Züge immer sehr voll.,The trains are always very full before the holidays.,Bitte unterschreiben Sie mit Ihrem vollen Namen.,Please sign your full name.
 other,überall,everywhere,überall,"Ich habe überall gesucht, aber meine Brille ist weg.","I've looked everywhere, but my glasses are gone."
 other,direkt,direct,direkt,Wir liefern Ihnen die Waren direkt ins Haus.,We deliver the goods directly to your home.,Das Dorf liegt direkt an der Autobahn.,The village is located directly on the highway.,Gibt es keinen direkten Zug nach Hamburg?,Is there no direct train to Hamburg?,Sie übertragen das Fußballspiel direkt.,They broadcast the soccer match directly.
 other,danach,"afterwards, then",danach,"Zuerst gehen wir einkaufen, danach grillen wir auf unserem Balkon.","First we go shopping, then we have a barbecue on our balcony."
@@ -203,7 +203,7 @@ other,total,total,total,Der Film war total langweilig.,The movie was totally bor
 other,damals,"then, at the time",damals,Mit 15 wollte ich gerne Klavier spielen lernen. Aber damals hatte ich kein Geld dafür.,"When I was 15, I wanted to learn to play the piano. But back then I didn't have the money."
 other,leicht,"light, easy",leicht,Der Koffer ist ganz leicht. Ich kann ihn allein tragen.,The suitcase is very light. I can carry it on my own.,"Es ist nicht leicht, bei diesem Arzt einen Termin zu bekommen.",It is not easy to get an appointment with this doctor.
 other,nachdem,after,nachdem,"Nachdem wir gegessen hatten, sind wir spazieren gegangen.","After we had eaten, we went for a walk."
-other,interessiert,interested,interessiert,Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?,My neighbor is moving out next month. Are you still interested in the apartment?
+other,interessiert,interested (in),interessiert (an + Dativ),Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?,My neighbor is moving out next month. Are you still interested in the apartment?
 other,genauso,just as/like,genauso,Katarina sieht genauso aus wie ihre Schwester.,Katarina looks just like her sister.
 other,drüben,over there,drüben,Dort drüben ist die Haltestelle.,The bus stop is over there.
 other,laut,"loud, according to",laut,Lass uns gehen. Hier ist es mir zu laut.,Let's go. It's too loud here.,Können Sie bitte etwas lauter sprechen?,Can you please speak a little louder?,Laut Wetterbericht gibt es morgen Regen.,"According to the weather forecast, it's going to rain tomorrow."
@@ -304,7 +304,7 @@ other,furchtbar,terrible,furchtbar,Dennis hat furchtbare Schmerzen.,Dennis is in
 other,übrig,left (over),übrig,Ist noch etwas zu essen übrig?,Is there any food left?
 other,gesund,healthy,gesund,Ich hatte Grippe. Jetzt bin ich wieder gesund.,I had the flu. Now I'm healthy again.,Zu viel Zucker ist nicht gesund.,Too much sugar is not healthy.
 other,pro,per,pro,Eintritt pro Person: zwei Euro.,Admission per person: two euros.
-other,zufrieden,satisfied,zufrieden,Meine Kinder haben heute Zeugnisse bekommen. Ich bin zufrieden.,My children got their report cards today. I am satisfied.,"Ich bin mit der Wohnung zufrieden. Sie ist nicht so groß, aber sie hat einen Balkon.","I'm happy with the apartment. It's not that big, but it has a balcony."
+other,zufrieden,satisfied (with),zufrieden (mit + Dativ),Meine Kinder haben heute Zeugnisse bekommen. Ich bin zufrieden.,My children got their report cards today. I am satisfied.,"Ich bin mit der Wohnung zufrieden. Sie ist nicht so groß, aber sie hat einen Balkon.","I'm happy with the apartment. It's not that big, but it has a balcony."
 other,worüber,what about,worüber,Worüber lachen Sie?,What are you laughing about?
 other,schließlich,finally,schließlich,Ich musste lange warten. Aber schließlich habe ich den Job doch noch bekommen.,I had to wait a long time. But I finally got the job after all.,Ich helfe dir natürlich. Du bist schließlich mein Freund.,"I'll help you, of course. After all, you're my friend."
 other,schwierig,difficult,schwierig,Die Prüfung war sehr schwierig.,The test was very difficult.
@@ -334,7 +334,7 @@ other,mindestens,at least,mindestens,Ein guter Fernsehapparat kostet mindestens 
 other,fair,fair,fair,"Ich finde, unsere Mannschaft hat sehr fair gespielt.",I think our team played very fairly.
 other,seitdem,since (then),seitdem,Ich bin vor zwei Jahren nach Deutschland gekommen. Seitdem lerne ich Deutsch.,I came to Germany two years ago. I've been learning German ever since.
 other,wahnsinnig,insane,wahnsinnig,Du fährst viel zu schnell. Bist du wahnsinnig?!,You're driving way too fast. Are you insane?!,Diese Musik gefällt mir wahnsinnig gut.,I really like this music.
-other,ähnlich,similar,ähnlich,Emilia ist in einer ganz ähnlichen Situation wie ich.,Emilia is in a very similar situation to me.,Oleg sieht seinem Bruder sehr ähnlich.,Oleg looks a lot like his brother.
+other,ähnlich,similar,ähnlich + Dativ,Emilia ist in einer ganz ähnlichen Situation wie ich.,Emilia is in a very similar situation to me.,Oleg sieht seinem Bruder sehr ähnlich.,Oleg looks a lot like his brother.
 other,langweilig,boring,langweilig,Der Film war sehr langweilig.,The movie was very boring.
 other,nachher,"later, after",nachher,Ich rufe nachher nochmal an.,I'll call back later.
 other,durcheinander,mixed up,durcheinander,Alle meine Sachen sind durcheinander. Ich finde nichts mehr.,All my things are mixed up. I can't find anything anymore.,Bitte redet nicht alle durcheinander. Sonst verstehe ich nichts.,Please don't get everyone mixed up. Otherwise I won't understand anything.
@@ -515,7 +515,7 @@ other,beruflich,professional,beruflich,Was machen Sie beruflich?,What do you do 
 other,un-,un- (negation of adjectives),un-,Der Verkäufer war sehr unfreundlich.,The salesman was very unfriendly.,Dieses Geräusch ist mir unangenehm.,This noise is unpleasant for me.,Er kam wie immer unpünktlich.,"As always, he arrived late."
 other,verständlich,understandable,verständlich,"Nach acht Stunden Schule haben die Kinder keine Lust mehr, die Hausaufgaben zu machen. Ich finde das verständlich.","After eight hours of school, the children no longer feel like doing their homework. I think that's understandable."
 other,ausgebildet,"trained, educated",ausgebildet,Für diesen Beruf müssen Sie gut ausgebildet sein.,You need to be well trained for this job.
-other,abhängig,dependent,abhängig von + Dativ,Gregor ist finanziell von seinen Eltern abhängig.,Gregor is financially dependent on his parents.
+other,abhängig,dependent,abhängig (von + Dativ),Gregor ist finanziell von seinen Eltern abhängig.,Gregor is financially dependent on his parents.
 other,geeignet,"suitable, suited",geeignet,Dieses Spiel ist nicht für Kinder unter drei Jahren geeignet.,This game is not suitable for children under the age of three.
 other,fremd,foreign,fremd,Ich reise gern in fremde Länder.,I like traveling to foreign countries.,Ich bin fremd hier.,I am a stranger here.
 other,einschließlich,"including, inclusive",einschließlich,Alles zusammen kostet 200 Euro einschließlich Fahrtkosten.,Everything together costs 200 euros including travel costs.

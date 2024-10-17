@@ -21,7 +21,7 @@ noun,Mädchen,girl,"das Mädchen, -",Familie Kurz hat zwei Mädchen und einen Ju
 noun,Haus,house,"das Haus, ¨-er",Wir haben ein Haus gemietet.,We have rented a house.,Ich komme gerade von zu Hause.,I've just come from home.,Ich muss jetzt nach Hause.,I have to go home now.,Paul ist nicht zu Hause.,Paul is not at home.
 noun,Freund,friend,"der Freund, -e",Ich sehe meine Freunde nur am Wochenende.,I only see my friends at the weekend.
 noun,Essen,food,"das Essen, -",Darf ich Sie zum Essen einladen?,May I invite you to dinner?,Das Essen ist kalt geworden.,The food has gone cold.
-noun,Angst,fear,"die Angst, “-e",Du brauchst keine Angst zu haben. Der Hund tut dir nichts.,You don't need to be afraid. The dog won't hurt you.,"Ich habe Angst, vielleicht ist etwas passiert.","I'm scared, maybe something has happened."
+noun,Angst,fear (of),"die Angst, “-e (vor + Dativ)",Du brauchst keine Angst zu haben. Der Hund tut dir nichts.,You don't need to be afraid. The dog won't hurt you.,"Ich habe Angst, vielleicht ist etwas passiert.","I'm scared, maybe something has happened."
 noun,Welt,world,"die Welt, -en",Überall auf der Welt gibt es Probleme.,There are problems all over the world.,Ich habe die besten Eltern der Welt.,I have the best parents in the world.
 noun,Moment,moment,"der Moment, -e",Warten Sie bitte einen Moment.,Please wait a moment.,Einen Moment bitte.,One moment please.,Ich habe im Moment sehr viel zu tun.,I have a lot to do at the moment.
 noun,Junge,boy,"der Junge, -n (D) 
@@ -365,7 +365,7 @@ noun,"Direktor, Direktorin",director,"der Direktor, -en
 die Direktorin, -nen",Ich möchte gern mit dem Direktor sprechen.,I would like to speak to the director.
 noun,Karriere,career,"die Karriere, -n",Mein Bruder hat große Pläne. Er will Karriere machen.,My brother has big plans. He wants to make a career.
 noun,Erinnerung,"memory, reminder","die Erinnerung, -en",An diese Zeit habe ich viele schöne Erinnerungen.,I have many fond memories of that time.
-noun,Zweifel,doubt,"der Zweifel, -",Da ist ohne Zweifel die beste Lösung.,This is without doubt the best solution.,Allmählich bekomme ich Zweifel daran.,I'm beginning to have doubts about this.
+noun,Zweifel,doubt sth.,"der Zweifel, - (an + Dativ)",Da ist ohne Zweifel die beste Lösung.,This is without doubt the best solution.,Allmählich bekomme ich Zweifel daran.,I'm beginning to have doubts about this.
 noun,Sprache,language,"die Sprache, -n",Franco spricht mehrere Sprachen.,Franco speaks several languages.
 noun,Szene,scene,"die Szene, -n",In dieser Szene des Films stirbt der Held.,"In this scene of the movie, the hero dies.",Ich kenne mich in der Szene nicht aus. Ich bin zu alt.,I don't know my way around the scene. I'm too old.,Bitte mach keine Szene!,Please don't make a scene!
 noun,Pflicht,"obligation, duty","die Pflicht, -en",Als Autofahrer müssen Sie eine Versicherung haben. Das ist Pflicht.,"As a driver, you must have insurance. It is compulsory."
@@ -735,7 +735,7 @@ noun,Ausflug,"excursion, trip","der Ausflug, ¨-e",Am Wochenende machen wir mit 
 noun,Rand,edge,"der Rand, ¨-er",Wir wohnen am Rand der Innenstadt. Dort ist es billiger und ruhiger.,We live on the edge of the city center. It's cheaper and quieter there.
 noun,Aufzug,elevator,"der Aufzug, ¨-e (D, A) 
 → Lift",Im Büro ist leider der Aufzug kaputt.,"Unfortunately, the elevator in the office is broken."
-noun,Abschied,farewell,"der Abschied, -e",Der Abschied von meinen Freunden fiel mir schwer.,It was hard to say goodbye to my friends.
+noun,Abschied,"goodbye (to), farewell","der Abschied, -e (von + Dativ)",Der Abschied von meinen Freunden fiel mir schwer.,It was hard to say goodbye to my friends.
 noun,Amt,office,"das Amt, ¨-er",Das Arbeitsamt befindet sich neben dem Busbahnhof.,The employment office is located next to the bus station.
 noun,Beginn,beginning,der Beginn (Sg.),Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler.,"At the beginning of the lesson, the teacher welcomes her students."
 noun,Marke,"brand, mark","die Marke, -n",Ich brauche bitte fünf Briefmarken zu 1 Euro.,"I need five stamps at 1 euro, please.",Markenschuhe sind mir zu teuer.,Brand shoes are too expensive for me.
