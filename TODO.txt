@@ -1,3 +1,5 @@
-- Add in notes in verbs.csv
-- Create audio for the noun Anki cards
-- Create audio for the other Anki cards
+- Hand sort the 152 not found words
+- Add these notes in afterwards:
+	als - used in the construction (sowohl … als auch) meaning "as well as"
+	an - used when forming the superlative form of adjectives (4)
+- Generate audio
