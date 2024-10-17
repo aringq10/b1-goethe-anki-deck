@@ -1,0 +1,2 @@
+processed B1 Goethe list: https://www.reddit.com/r/German/comments/18fa8r9/goethe_b1_wordlist_as_a_csv_or_html_table/
+frequency list: https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/de/de_50k.txt
