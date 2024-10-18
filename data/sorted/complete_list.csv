@@ -109,6 +109,7 @@ noun,Geld,money,"das Geld, -er",Ich habe nicht genug Geld dabei.,I don't have en
 other,durch,through,durch + Akkusativ,Wir sind mit dem Fahrrad durch den Wald gefahren.,We cycled through the forest.,"Wenn Sie zum Bahnhof gehen, kommen Sie durch die Goethestraße.","If you walk to the station, you will pass through Goethestraße.",Wir haben den ganzen Mai durch geheizt.,We heated throughout the whole of May.,Wir haben unsere Wohnung durch einen Freund bekommen.,We got our apartment through a friend.
 other,ob,whether,ob,"Ich weiß noch nicht, ob ich kommen kann.",I don't know yet whether I can come.
 noun,Mutter,mother,"die Mutter, ¨-",Meine Mutter heißt Klara.,My mother's name is Klara.,Dieser Raum ist für Mütter mit kleinen Kindern reserviert.,This room is reserved for mothers with small children.
+other,als ob,as if,als ob,"Er tut so, als ob wir nie darüber gesprochen hätten.",He acts as if we had never spoken about it.
 other,raus/raus-,out,raus/raus-,Willst du rein oder raus?,Do you want in or out?,Er ist gerade rausgelaufen.,He just walked out.
 noun,Paar,"pair, couple","das Paar, -e",Ina und Pedro sind ein Paar.,Ina and Pedro are a couple.,Gestern habe ich mir ein Paar neue Schuhe gekauft.,Yesterday I bought myself a new pair of shoes.
 other,(ein) paar,"a couple, a few",(ein) paar,Ich komme gleich. Es dauert nur ein paar Minuten.,I'll be right there. It will only take a few minutes.,Wir fahren mit ein paar Freunden in Urlaub.,We're going on vacation with a few friends.
@@ -181,6 +182,7 @@ noun,Halt,stop,"der Halt, -e",Nächster Halt ist am Südbahnhof.,The next stop i
 other,allein,alone,allein,Ich gehe nicht gern allein spazieren.,I don't like walking alone.,"Soll ich Ihnen helfen? – Danke, ich schaffe es schon allein.","Shall I help you? - Thanks, I can manage on my own.",Es war sehr teuer. Allein das Essen hat schon über 50 Euro gekostet.,It was very expensive. The food alone cost over 50 euros.
 other,halt,just,halt,Es gibt leider keine Karten mehr. – Schade. Da kann man nichts machen. Das ist halt so.,Unfortunately there are no more tickets. - What a pity. There's nothing you can do. That's just the way it is.
 verb,sprechen,to speak (about),"sprechen, spricht, sprach, hat gesprochen (über + Akkusativ)",Können Sie bitte etwas lauter sprechen?,Can you please speak a little louder?,Jean spricht sehr gut Deutsch.,Jean speaks very good German.,Ich möchte nicht darüber sprechen.,I don't want to talk about it.,Die Bundeskanzlerin spricht heute Abend im Fernsehen.,The Federal Chancellor is speaking on television this evening.,Kann ich bitte Herrn Müller sprechen?,"Can I speak to Mr. Müller, please?"
+other,beid-,both,beid-,Beide waren mit meinem Vorschlag einverstanden.,Both agreed with my proposal.,"Welche Bluse nehmen Sie, die rote oder die grüne? – Ich nehme beide.","Which blouse will you take, the red or the green? - I'll take both."
 noun,Sache,thing,"die Sache, -n",Wir haben unsere Sachen im Hotel gelassen.,We left our things at the hotel.,Er hat zum Geburtstag viele Sachen bekommen.,He got lots of things for his birthday.,Das geht mich nichts an. Das ist Ihre Sache.,That's none of my business. It's your business.
 noun,Hilfe,help,"die Hilfe, -n",Vielen Dank für Ihre Hilfe.,Thank you very much for your help.,"Haben Sie einen Kurs für Erste Hilfe gemacht? Das müssen Sie, wenn Sie den Führerschein machen wollen.",Have you done a first aid course? You must if you want to get your driver's license.,Hilfe! Jemand hat mir die Handtasche gestohlen. Bitte helfen Sie mir!,Help! Someone has stolen my handbag. Please help me!
 other,"jeder, jedes, jede",each,"jeder, jedes, jede",Das Restaurant hat jeden Tag geöffnet.,The restaurant is open every day.,Jedes Kind bekommt ein Spiel.,Each child gets a game.,Die Prospekte bekommen Sie in jedem Reisebüro.,You can obtain brochures from any travel agency.,Im Supermarkt gibt es keine Schmerztabletten. Das weiß doch jeder.,There are no painkillers in the supermarket. Everyone knows that.
@@ -513,7 +515,9 @@ other,absolut,absolute,absolut,"Was Sie da sagen, ist absolut falsch.",What you 
 noun,Augenblick,moment,"der Augenblick, -e",Ich wollte gerade parken. In dem Augenblick ist ein Wagen aus der Ausfahrt gekommen.,"I was just about to park. At that moment, a car came out of the exit.","Einen Augenblick, bitte!","One moment, please!",Im Augenblick sind keine Plätze frei.,There are no places available at the moment.
 noun,Bescheid,"information, notice","der Bescheid, -e",Den endgültigen Bescheid erhalten Sie in etwa vier Wochen.,You will receive the final decision in about four weeks.
 noun,Ziel,goal,"das Ziel, -e",Ich will die Prüfung unbedingt schaffen. Das ist mein Ziel.,I really want to pass the exam. That is my goal.
+other,Bescheid sagen,to let someone know,Bescheid sagen,Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid.,I will inquire about the dates and then let you know.
 noun,Bewegung,movement,"die Bewegung, -en",Sie brauchen mehr Bewegung. Sie müssen regelmäßig spazieren gehen.,You need more exercise. You need to go for regular walks.
+other,Bescheid geben,to let someone know,Bescheid geben,Kannst du mir bis morgen Bescheid geben?,Can you let me know by tomorrow?
 other,"welcher, welche, welches",which,"welcher, welche, welches",Welcher Tag ist heute?,What day is it today?,Welchen Kurs hast du gemacht?,Which course did you do?
 verb,zahlen,to pay,"zahlen, zahlt, zahlte, hat gezahlt","Herr Ober, zahlen bitte!","Waiter, please pay!",Ich hatte keinen Fahrschein und musste 60 Euro Strafe zahlen.,I didn't have a ticket and had to pay a fine of 60 euros.,Wir müssen im nächsten Jahr mehr Steuern zahlen.,We will have to pay more taxes next year.
 noun,Anfang,beginning,"der Anfang, ¨-e",Wie war der Film? – Ich habe nur den Anfang gesehen.,How was the movie? - I only saw the beginning.,Am Anfang habe ich bei der Arbeit viele Fragen gestellt.,"In the beginning, I asked a lot of questions at work.",Mein Chef ist Anfang fünfzig.,My boss is in his early fifties.,"Meine Mutter war von Anfang an dagegen, dass ich nach Berlin ziehe.",My mother was against me moving to Berlin right from the start.,Wir machen Anfang Juli Ferien.,We go on vacation at the beginning of July.,Meine Freundin wohnt am Anfang der Straße.,My girlfriend lives at the beginning of the street.
@@ -681,6 +685,7 @@ verb,feiern,to celebrate,"feiern, feiert, feierte, hat gefeiert",Wir haben geste
 noun,Situation,situation,"die Situation, -en",Ich bin in einer schwierigen Situation.,I am in a difficult situation.
 other,allerdings,"however, certainly",allerdings,"Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit.","We can meet tomorrow, but I'm not free until midday."
 noun,Rat,"advice, council",der Rat (Sg.),Was soll ich machen? Können Sie mir einen Rat geben?,What should I do? Can you give me any advice?
+other,Achtung!,Attention!,Achtung!,"Achtung, hier endet die Straße!","Attention, the road ends here!"
 noun,Kamera,camera,"die Kamera, -s",Ich habe eine ganz neue Kamera.,I have a brand new camera.
 noun,Glückwunsch,congratulations,"der Glückwunsch, ¨-e",Herzlichen Glückwunsch zum Geburtstag!,Happy birthday to you!
 other,statt,instead of,statt + Dativ/Genitiv,Kann ich diese Woche statt Donnerstag am Freitag kommen?,Can I come on Friday instead of Thursday this week?
@@ -763,6 +768,7 @@ noun,Park,park,"der Park, -s",Ich gehe gern im Park spazieren.,I like going for 
 verb,schätzen,"to esimate, value","schätzen, schätzt, schätzte, hat geschätzt","Wie alt ist der Chef? – Ich weiß nicht, ich schätze, um die Fünfzig.","How old is the boss? - I don't know, I guess around fifty.",Ich schätze deine gute Arbeit.,I appreciate your good work.
 noun,Energie,energy,"die Energie, -n",Wir müssen Energie sparen.,We need to save energy.,"Abends habe ich keine Energie mehr, um Sport zu machen.","In the evening, I have no energy left to do sport."
 noun,Fleisch,meat,das Fleisch (Sg.),Fleisch mag ich nicht.,I don't like meat.
+other,besonder-,special,besonder-,Meine Eltern wollten uns mit dieser Reise eine ganz besondere Freude machen.,My parents wanted to give us a very special treat with this trip.
 verb,reichen,"to reach, suffice","reichen, reicht, reichte, hat gereicht",Ich nehme nur eine Suppe. Das reicht mir.,I only have one soup. That's enough for me.,"Wie lange reicht das Papier noch? Ich glaube, wir müssen neues bestellen.",How long will the paper last? I think we'll have to order more.
 noun,Zeitung,newspaper,"die Zeitung, -en",Ich lese manchmal Zeitung.,I sometimes read the newspaper.
 other,worum,what about,worum,Kann ich Herrn Meier sprechen? – Worum geht es denn?,Can I speak to Mr. Meier? - What is this about?
@@ -1756,6 +1762,7 @@ noun,Ozean,ocean,"der Ozean, -e",Dieses Schiff fährt über den Atlantischen Oze
 noun,Notruf,emergency call,"der Notruf, -e",Der Notruf hat die Nummer 110.,The emergency number is 110.
 verb,bremsen,to brake,"bremsen, bremst, bremste, hat gebremst",Der Mann ist ganz plötzlich über die Straße gegangen. Ich musste stark bremsen.,The man suddenly crossed the road. I had to brake hard.
 other,häufig,frequently,häufig,Haben Sie häufig Kopfschmerzen? Dann sollten Sie nicht so lange am Computer sitzen.,Do you often have headaches? Then you shouldn't sit at the computer for so long.
+other,alternativ,alternative,alternativ,Wir brauchen alternative Energien.,We need alternative energies.
 other,anstrengend,"exhausting, strenuous",anstrengend,Ich finde diese Arbeit sehr anstrengend.,I find this work very strenuous.
 noun,"Kellner, Kellnerin","waiter, waitress","der Kellner, - 
 die Kellnerin, -nen 
@@ -2877,6 +2884,7 @@ noun,Laufwerk,(computer) drive,"das Laufwerk, -e",Für meinen Computer habe ich 
 other,möbliert,furnished,möbliert,Ich suche ein möbliertes Zimmer.,I am looking for a furnished room.
 noun,Angabe,"information, specification","die Angabe,-n","Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum.","We need the following information from you: Name, address, date of birth."
 noun,Umweltschutz,environmental protection,der Umweltschutz (Sg.),Das Land muss mehr Geld für Umweltschutz ausgeben.,The country must spend more money on environmental protection.
+verb,abonnieren,to subscribe,"abonnieren, abonniert, abonnierte, hat abonniert",Diese Zeitschrift würde ich gerne abonnieren.,I would like to subscribe to this magazine.
 noun,Bedienungsanleitung,operating instructions,"die Bedienungsanleitung, -en",Die Bedienungsanleitung verstehe ich nicht.,I don't understand the operating instructions.
 noun,Abgase,exhaust gases,Abgase (Pl.),Abgase aus Industrie und Haushalten verschmutzen die Luft.,Exhaust gases from industry and households pollute the air.
 other,regional,regional,regional,Du kannst mit einer Regionalbahn fahren. Das ist billiger.,You can take a regional train. It's cheaper.

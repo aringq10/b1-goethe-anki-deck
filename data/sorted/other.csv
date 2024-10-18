@@ -77,6 +77,7 @@ other,wohl,"well, probably",wohl,Kann ich nach Hause gehen? Ich fühle mich nich
 other,jemand,someone,jemand,Hat jemand einen Bleistift für mich?,Does anyone have a pencil for me?,"Kennst du jemand, der mir ein Fahrrad leihen kann?",Do you know anyone who can lend me a bike?
 other,durch,through,durch + Akkusativ,Wir sind mit dem Fahrrad durch den Wald gefahren.,We cycled through the forest.,"Wenn Sie zum Bahnhof gehen, kommen Sie durch die Goethestraße.","If you walk to the station, you will pass through Goethestraße.",Wir haben den ganzen Mai durch geheizt.,We heated throughout the whole of May.,Wir haben unsere Wohnung durch einen Freund bekommen.,We got our apartment through a friend.
 other,ob,whether,ob,"Ich weiß noch nicht, ob ich kommen kann.",I don't know yet whether I can come.
+other,als ob,as if,als ob,"Er tut so, als ob wir nie darüber gesprochen hätten.",He acts as if we had never spoken about it.
 other,raus/raus-,out,raus/raus-,Willst du rein oder raus?,Do you want in or out?,Er ist gerade rausgelaufen.,He just walked out.
 other,(ein) paar,"a couple, a few",(ein) paar,Ich komme gleich. Es dauert nur ein paar Minuten.,I'll be right there. It will only take a few minutes.,Wir fahren mit ein paar Freunden in Urlaub.,We're going on vacation with a few friends.
 other,wieso,why,wieso,Wie lange sind Sie hier? – Wieso fragen Sie?,How long have you been here? - Why do you ask?
@@ -115,6 +116,7 @@ other,wann,when,wann,Wann kommst du?,When are you coming?,"Wissen Sie, wann der 
 other,fertig,"finished, done, ready",fertig,Das Essen ist gleich fertig.,The food will be ready soon.,"Wenn ich mit der Arbeit fertig bin, gehe ich nach Hause.","When I've finished work, I go home.",Bist du fertig?,Are you ready?,Das war ein schlimmer Tag. Ich bin total fertig.,That was a bad day. I'm totally exhausted.
 other,halt,just,halt,Es gibt leider keine Karten mehr. – Schade. Da kann man nichts machen. Das ist halt so.,Unfortunately there are no more tickets. - What a pity. There's nothing you can do. That's just the way it is.
 other,allein,alone,allein,Ich gehe nicht gern allein spazieren.,I don't like walking alone.,"Soll ich Ihnen helfen? – Danke, ich schaffe es schon allein.","Shall I help you? - Thanks, I can manage on my own.",Es war sehr teuer. Allein das Essen hat schon über 50 Euro gekostet.,It was very expensive. The food alone cost over 50 euros.
+other,beid-,both,beid-,Beide waren mit meinem Vorschlag einverstanden.,Both agreed with my proposal.,"Welche Bluse nehmen Sie, die rote oder die grüne? – Ich nehme beide.","Which blouse will you take, the red or the green? - I'll take both."
 other,"jeder, jedes, jede",each,"jeder, jedes, jede",Das Restaurant hat jeden Tag geöffnet.,The restaurant is open every day.,Jedes Kind bekommt ein Spiel.,Each child gets a game.,Die Prospekte bekommen Sie in jedem Reisebüro.,You can obtain brochures from any travel agency.,Im Supermarkt gibt es keine Schmerztabletten. Das weiß doch jeder.,There are no painkillers in the supermarket. Everyone knows that.
 other,gern/gerne,"gladly, rather","gern/gerne, lieber, am liebsten",Ich helfe Ihnen gern.,I will be happy to help you.,Kaffee oder Tee? – Ich möchte lieber einen Tee.,Coffee or tea? - I would prefer a tea.,Am liebsten trinke ich Kaffee.,My favorite drink is coffee.
 other,wahr,true,wahr,"Was ich sage, ist wahr.",What I say is true.,Es ist eine wahre Geschichte.,It is a true story.,"Es ist doch schön hier, nicht wahr?","It's nice here, isn't it?"
@@ -242,6 +244,8 @@ other,verheiratet,married,verheiratet,Mit wem sind Sie verheiratet?,Who are you 
 other,Traum-,dream,Traum-,Mein Traumberuf ist Feuerwehrmann.,My dream job is a firefighter.
 other,ständig,"permanent, constant",ständig,Ich habe schon ein paar Mal bei meiner Freundin angerufen. Es ist ständig besetzt.,I've already called my girlfriend a few times. It's always busy.
 other,absolut,absolute,absolut,"Was Sie da sagen, ist absolut falsch.",What you are saying is absolutely wrong.,Ich habe absolutes Vertrauen zu dir.,I have absolute confidence in you.
+other,Bescheid sagen,to let someone know,Bescheid sagen,Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid.,I will inquire about the dates and then let you know.
+other,Bescheid geben,to let someone know,Bescheid geben,Kannst du mir bis morgen Bescheid geben?,Can you let me know by tomorrow?
 other,"welcher, welche, welches",which,"welcher, welche, welches",Welcher Tag ist heute?,What day is it today?,Welchen Kurs hast du gemacht?,Which course did you do?
 other,offen,open,offen,Komm rein. Die Haustür ist offen. (A) (D: auf),Come in. The front door is open. (A) (D: open),"Ich glaube, der Supermarkt ist jetzt noch offen.",I think the supermarket is still open now.,Im Sommer schlafe ich immer bei offenem Fenster.,In summer I always sleep with the window open.,Ich habe mit meinem Kollegen ganz offen über mein Problem gesprochen.,I spoke openly with my colleague about my problem.,Einzelne Fragen sind noch offen.,Some questions are still open.
 other,klein,small,klein,Unsere Wohnung ist klein.,Our apartment is small.,Unser Kind ist noch klein.,Our child is still small.,Wir machen am Sonntag einen kleinen Ausflug.,We're going on a little excursion on Sunday.
@@ -296,6 +300,7 @@ other,sauber,clean,sauber,Bringen Sie mir bitte ein sauberes Glas!,Please bring 
 other,nervös,nervous,nervös,Das Warten macht mich ganz nervös.,The wait makes me nervous.,Bei Prüfungen bin ich immer sehr nervös.,I'm always very nervous during exams.
 other,schuldig,guilty,schuldig,"Was bin ich Ihnen schuldig? – 50 Euro, bitte.","What do I owe you? - 50 euros, please."
 other,allerdings,"however, certainly",allerdings,"Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit.","We can meet tomorrow, but I'm not free until midday."
+other,Achtung!,Attention!,Achtung!,"Achtung, hier endet die Straße!","Attention, the road ends here!"
 other,statt,instead of,statt + Dativ/Genitiv,Kann ich diese Woche statt Donnerstag am Freitag kommen?,Can I come on Friday instead of Thursday this week?
 other,verantwortlich,responsible,verantwortlich,Sie sind für Ihre Kinder verantwortlich.,You are responsible for your children.
 other,gemeinsam,together,gemeinsam,Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.,Need to renovate your apartment? I'll help you. We can do it together.,Wir benutzen die Garage gemeinsam mit dem Nachbarn.,We use the garage together with the neighbor.
@@ -316,6 +321,7 @@ other,einverstanden,"agreeable, agreed",einverstanden,"Als Termin schlage ich de
 other,halb,half,halb,Treffen wir uns um halb neun?,Shall we meet at half past eight?,Bei dieser Firma habe ich ein halbes Jahr gearbeitet.,I worked for this company for six months.,Ich gebe Ihnen die Tomaten zum halben Preis.,I'll give you the tomatoes at half price.,Die Flasche ist ja noch halb voll.,The bottle is still half full.
 other,leise,quiet,leise,Seid leise. Die anderen schlafen schon.,Be quiet. The others are already asleep.,Könntest du das Radio bitte etwas leiser stellen?,Could you please turn the radio down a little?
 other,entlang,along,entlang + Akkusativ,Gehen Sie diese Straße entlang. Dann kommen Sie direkt zum Bahnhof.,Walk along this street. You will then come directly to the station.
+other,besonder-,special,besonder-,Meine Eltern wollten uns mit dieser Reise eine ganz besondere Freude machen.,My parents wanted to give us a very special treat with this trip.
 other,worum,what about,worum,Kann ich Herrn Meier sprechen? – Worum geht es denn?,Can I speak to Mr. Meier? - What is this about?
 other,betrunken,drunk,betrunken,"Wenn Sie betrunken Auto fahren, verlieren Sie Ihren Führerschein.","If you drive drunk, you will lose your driver's license."
 other,offenbar,"apparently, obviously",offenbar,Das Restaurant ist heute offenbar geschlossen.,The restaurant is apparently closed today.
@@ -496,6 +502,7 @@ other,breit,wide,breit,Der Teppich ist zwei Meter lang und einen Meter breit.,Th
 other,sämtliche,all,sämtliche,Sämtliche Fenster müssen geschlossen bleiben.,All windows must remain closed.
 other,verdächtig,suspicious,verdächtig,Die Tür war nicht abgeschlossen. Das ist verdächtig.,The door was not locked. That's suspicious.,Haben Sie etwas Verdächtiges gesehen?,Have you seen anything suspicious?
 other,häufig,frequently,häufig,Haben Sie häufig Kopfschmerzen? Dann sollten Sie nicht so lange am Computer sitzen.,Do you often have headaches? Then you shouldn't sit at the computer for so long.
+other,alternativ,alternative,alternativ,Wir brauchen alternative Energien.,We need alternative energies.
 other,anstrengend,"exhausting, strenuous",anstrengend,Ich finde diese Arbeit sehr anstrengend.,I find this work very strenuous.
 other,wertvoll,valuable,wertvoll,Ich habe einen sehr wertvollen Ring von meiner Großmutter.,I have a very valuable ring from my grandmother.
 other,anwesend,present,anwesend,Bei dem Treffen waren alle Mitglieder anwesend.,All members were present at the meeting.
