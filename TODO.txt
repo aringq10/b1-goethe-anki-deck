@@ -1,5 +1,5 @@
-- Hand sort the 134 not found words
+- Hand sort the 92 not found words
 - Add these verb notes in afterwards:
 	als - used in the construction (sowohl … als auch) meaning "as well as"
 	an - used when forming the superlative form of adjectives (4)
-- Generate audio
+- Generate audio (Total characters for audio-gen: 223598)

@@ -29,6 +29,7 @@ other,als,"when, than",als,"Als mein Mann kam, war die Party schon zu Ende.","Wh
 other,mal,"sometimes, times",mal,"Mal bin ich glücklich, mal traurig.","Sometimes I am happy, sometimes sad.",Drei mal drei ergibt neun.,Three times three equals nine.
 other,jetzt,now,jetzt,Ich muss jetzt gehen.,I have to go now.,Bis jetzt hat alles gut geklappt.,Everything has worked well so far.,Ab jetzt werde ich wieder öfter ins Fitness-Studio gehen.,From now on I'll be going to the gym more often again.,Ich habe jetzt schon dreimal bei meinem Bruder angerufen. Aber er ist nie da.,I've called my brother three times now. But he's never there.,Über viele Dinge denke ich jetzt anders als früher.,I think differently about many things now than I used to.
 other,dann,then,dann,"Ich muss noch schnell zur Post, dann komme ich.","I have to go to the post office quickly, then I'll be there.",Wir waren pünktlich am Bahnhof. Aber dann hatte der Zug Verspätung.,We were at the station on time. But then the train was late.,Ich habe im Moment sehr viel zu tun. – Dann will ich nicht länger stören.,I have a lot to do at the moment. - Then I won't bother you any longer.,"Wenn es nicht regnet, dann kommen wir.","If it doesn't rain, we'll come."
+other,wie viel(e),how much/many,wie viel(e),Wie viel Geld hast du dabei?,How much money do you have with you?,Wie viel ist ein Euro hier wert?,How much is a euro worth here?,Wie viele Kinder haben Sie?,How many children do you have?
 other,aus,"from, made of, out of, off",aus + Dativ,Frau Müller geht jeden Morgen um 8 Uhr aus dem Haus.,Mrs. Müller leaves the house every morning at 8 o'clock.,Frau Özgen kommt aus der Türkei.,Ms. Özgen comes from Turkey.,Die Möbel sind noch aus der Zeit um 1900.,The furniture dates from around 1900.,Ich trage nur Pullover aus reiner Wolle.,I only wear sweaters made of pure wool.,Wir haben aus Liebe geheiratet.,We got married for love.,Wann ist der Kurs aus?,When is the course over?,Ich seh‘ nichts! Das Licht ist aus!,I can't see anything! The light is off!
 other,um,"at (with time), around",um + Akkusativ,Wir treffen uns um 8 Uhr.,We meet at 8 o'clock.,Die Apotheke ist gleich um die Ecke.,The pharmacy is just around the corner.,Die Benzinpreise sind schon wieder um 3 % gestiegen.,Petrol prices have already risen by 3% again.
 other,doch,"yes, but, after all",doch,"Isst du kein Fleisch? – Doch, manchmal schon.","Don't you eat meat? - Yes, sometimes I do.",Ich habe es mir anders überlegt. Ich komme doch mit in die Stadt.,I've changed my mind. I'm coming into town after all.,Ihr kommt doch heute Abend?,"You're coming tonight, right?","Fragen Sie doch Herrn Müller, der ist Computerspezialist.","Just ask Mr. Müller, he is a computer specialist.","Ach, wenn doch schon Sonntag wäre!","Oh, if only it were already Sunday!"
@@ -53,6 +54,7 @@ other,denn,because,denn,"Ich lerne jetzt auch Portugiesisch, denn ich möchte na
 other,vielleicht,"maybe, perhaps",vielleicht,Kommst du mit in die Stadt? - Ich weiß noch nicht. Vielleicht.,Are you coming into town? - I don't know yet. Maybe.,Vielleicht bekomme ich den Job.,Maybe I'll get the job.,Die Fahrkarte war vielleicht teuer!,The ticket may have been expensive!,Hast du vielleicht Kleingeld für mich?,Do you have any change for me?
 other,wer,who,wer,Wer ist das? Kennst du die Frau?,Who is that? Do you know the woman?,Wer will die Prüfung machen?,Who wants to take the exam?
 other,über,"above, over, about",über + Akkusativ/Dativ,Die Müllers wohnen direkt über uns.,The Müllers live directly above us.,"Pass bitte auf, wenn du über die Straße gehst.",Please be careful when you cross the road.,Fahren Sie über Stuttgart oder über Würzburg?,Are you traveling via Stuttgart or via Würzburg?,Übers Wochenende fahren wir in die Berge.,We're going to the mountains for the weekend.,Kinder über zehn Jahre müssen voll bezahlen.,Children over the age of ten must pay in full.,Ich suche ein Buch über die deutsche Küche.,I am looking for a book about German cuisine.
+other,um … zu,in order to,um … zu,"Um gesund zu bleiben, musst du Sport machen und Gemüse essen.","In order to stay healthy, you need to exercise and eat vegetables."
 other,nie,never,nie,Der Chef ist nie da.,The boss is never there.,Warum bist du nie zufrieden?,Why are you never satisfied?,Bis morgen Abend schaffe ich die Arbeit nie.,I'll never get the work done by tomorrow evening.,Ich gehe nie wieder in dieses Restaurant.,I will never go to this restaurant again.
 other,wirklich,really,wirklich,Du glaubst mir nicht? Es ist aber wirklich so.,You don't believe me? But it's really true.,Im Bahnhofsrestaurant isst man wirklich sehr gut.,The station restaurant serves really good food.
 other,kein-,none,kein-,Ich habe leider heute keine Zeit.,"Unfortunately, I don't have time today.",Jetzt habe ich noch keinen Hunger.,I'm not hungry yet.,Ich habe keine Kinder.,I don't have any children.,Was für ein Auto haben Sie? – Ich habe keins.,What kind of car do you have? - I don't have one.
@@ -128,6 +130,7 @@ other,bald,soon,bald,Besuchen Sie uns doch bald mal.,Come and visit us soon.,Geb
 other,toll,great,toll,Ich habe mir ein tolles Kleid gekauft.,I bought myself a great dress.,Unser Urlaub war toll.,Our vacation was great.
 other,bereit,ready,bereit,"Ich bin jederzeit bereit, dir zu helfen.",I am always ready to help you.,Das Paket liegt auf der Post für Sie bereit.,The parcel is ready for you at the post office.
 other,weit,wide,weit,Wie weit ist es noch bis München?,How far is it to Munich?,Wie weit sind Sie mit der Arbeit?,How far along are you with the work?,Die Jacke ist mir zu weit.,The jacket is too wide for me.
+other,ein bisschen,a little,ein bisschen,"Wenn Sie ein bisschen warten, können wir zusammen gehen.","If you wait a bit, we can go together.",Möchten Sie noch ein bisschen Reis?,Would you like some more rice?,Können Sie bitte ein bisschen lauter sprechen?,Can you please speak a little louder?,Sprechen Sie Englisch? – Ein bisschen.,Do you speak English? - A little.
 other,draußen,outside,draußen,Es ist kalt draußen.,It's cold outside.,Wir müssen draußen warten.,We have to wait outside.
 other,fast,almost,fast,Das Konzent ist fast zu Ende.,The concert is almost over.,Ich habe fast alles verstanden.,I understood almost everything.
 other,vorbei/vorbei-,"past, over",vorbei/vorbei-,Die Linie 8 fährt am Krankenhaus vorbei.,Line 8 runs past the hospital.,Keine Sorge! Die Schmerzen sind in ein paar Minuten vorbei.,Don't worry! The pain will be over in a few minutes.,Kommst du um 3 Uhr bei mir vorbei?,Will you come by my place at 3 o'clock?
@@ -139,6 +142,7 @@ other,spät,late,spät,Wie spät ist es?,What time is it?,"Es ist schon spät, i
 other,ziemlich,"pretty, quite",ziemlich,Ich bin schon ziemlich müde. Ich gehe ins Bett.,I'm already pretty tired. I'm going to bed.,Ich musste beim Arzt ziemlich lange warten.,I had to wait quite a long time at the doctor's.
 other,sogar,even,sogar,Auf dem Berg war es so kalt. Es hat sogar geschneit.,It was so cold on the mountain. It even snowed.
 other,kurz,short,kurz,Ricardo hat kurze Haare.,Ricardo has short hair.,Kann ich Sie kurz sprechen?,Can I have a word with you?,Kurz vor 8 Uhr hat das Telefon geklingelt.,The phone rang just before 8 o'clock.,Mein Mann ist kurz nach mir gekommen.,My husband arrived shortly after me.,Ich bin vor Kurzem nach München gezogen.,I recently moved to Munich.,Ich wohne seit Kurzem in München.,I have recently moved to Munich.,Ich habe das Kleid kürzer machen lassen.,I had the dress made shorter.
+other,je (nach),"depending (on), each",je (nach),Die Pullover kosten je nach Qualität zwischen 40 und 60 Euro.,"The sweaters cost between 40 and 60 euros, depending on the quality.","Fahren Sie im Juni oder im Juli? – Je nachdem, wann mein Mann Urlaub bekommt.","Are you going in June or July, depending on when my husband gets his vacation?"
 other,woher,where from,woher,Woher kommst du?,Where are you from?,Unsere Nachbarn ziehen nach Berlin. – Woher wissen Sie das?,Our neighbors are moving to Berlin. - How do you know that?
 other,lang,long,lang,Der Teppich ist 3 m lang und 2 m breit.,The carpet is 3 m long and 2 m wide.,Meine Schwester hat mir einen langen Brief geschrieben.,My sister wrote me a long letter.,Die Hose ist zu lang. Können Sie sie kürzer machen?,The pants are too long. Can you make them shorter?
 other,überhaupt,at all,überhaupt,Die Suppe schmeckt mir überhaupt nicht.,I don't like the soup at all.,Tut mir leid. Ich habe überhaupt keine Zeit.,I'm sorry. I don't have any time at all.,Du willst mit meinem Auto fahren? Hast du überhaupt einen Führerschein?,You want to drive my car? Do you even have a driver's license?
@@ -154,6 +158,7 @@ other,nett,nice,nett,Die Leute sind hier sehr nett.,The people here are very nic
 other,deshalb,therefore,deshalb,Ich war krank. Deshalb war ich nicht im Büro.,I was ill. That's why I wasn't in the office.
 other,bestimmt,"certain, particular, definite",bestimmt,Das hat Nancy bestimmt nicht so gemeint.,Nancy certainly didn't mean that.,Möchtest du ein bestimmtes Brot?,Would you like a specific bread?
 other,hoch,high,hoch,Der Berg ist fast 3000 m hoch.,The mountain is almost 3000 m high.,Das Hotel liegt hoch über dem See.,The hotel is situated high above the lake.,Die Benzinpreise sind sehr hoch.,Gasoline prices are very high.
+other,was für ein-,what kind of,was für ein-,Ich will mir ein Auto kaufen. – Was denn für eins?,I want to buy a car. - What kind of car?
 other,schuld,guilty,schuld,Ich hatte einen Unfall. Aber ich war nicht schuld.,I had an accident. But it wasn't my fault.
 other,ernst,serious,ernst,Der starke Verkehr ist ein ernstes Problem.,The heavy traffic is a serious problem.
 other,manchmal,sometimes,manchmal,Manchmal gehe ich mit meiner Frau ins Café.,Sometimes I go to the café with my wife.,Rauchen Sie? – Manchmal.,Do you smoke? - Sometimes.
@@ -184,6 +189,8 @@ other,zuerst,(at) first,zuerst,Wer war zuerst? – Der Herr hier.,Who was first?
 other,wahrscheinlich,probably,wahrscheinlich,Wahrscheinlich mache ich im Herbst noch einen Deutschkurs.,I'll probably do another German course in the fall.
 other,willkommen,welcome,willkommen,Herzlich willkommen in Köln.,Welcome to Cologne.
 other,hierher,(to) here,hierher,Ich komme oft hierher. In diesem Café gibt es guten Kuchen.,I come here often. This café serves good cakes.
+other,vor allem,"above all, especially",vor allem,"Grüßen Sie alle von mir, vor allem Frau Meier.","Give my best to all of you, especially Mrs. Meier."
+other,nächst-,next,nächst-,Wo ist hier die nächste Apotheke?,Where is the nearest pharmacy?,Rufen Sie bitte nächste Woche noch einmal an.,Please call again next week.,Wann fährt der nächste Zug nach Frankfurt?,When is the next train to Frankfurt?,Wer ist der Nächste bitte?,"Who's next, please?"
 other,langsam,slow,langsam,Könnten Sie bitte etwas langsamer sprechen?,Could you please speak a little slower?,Es wird langsam kalt. Es wird Herbst.,It's getting cold. Fall is coming.
 other,bereits,already,bereits,Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen.,Please get in touch with Ms. Kaiser. She has already called three times.
 other,leider,unfortunately,leider,Da kann ich Ihnen leider nicht helfen.,"Unfortunately, I can't help you there.",Hast du schon eine Antwort auf deinen Brief? – Leider nicht.,Have you received a reply to your letter yet? - Unfortunately not.,Leider kann ich nicht kommen. Ich muss zum Arzt.,"Unfortunately, I can't come. I have to see a doctor."
@@ -227,6 +234,7 @@ other,lustig,funny,lustig,Ich habe einen lustigen Film gesehen.,I saw a funny mo
 other,schlimm,bad,schlimm,Die Wunde sieht schlimm aus.,The wound looks bad.,Keine Angst. Das ist nicht so schlimm.,Don't worry. It's not that bad.
 other,unglaublich,"incredible, unbelievable",unglaublich,Es ist unglaublich. Schon wieder so ein Unglück.,It's unbelievable. Another disaster like this.
 other,vorher,"before, previously",vorher,Ich komme mit ins Café. Vorher muss ich aber noch zur Bank.,I'm coming with you to the café. But I have to go to the bank first.
+other,"meist-, die meisten",most,"meist-, die meisten",Wie gut kannst du Deutsch? – Das Meiste verstehe ich.,How well do you speak German? - I understand most of it.,Ich bin neu im Haus. Die meisten Nachbarn kenne ich noch nicht.,I'm new to the house. I don't know most of the neighbors yet.
 other,perfekt,perfect,perfekt,Die Reiseorganisation war perfekt.,The organization of the trip was perfect.
 other,hinten,at the back,hinten,Wo möchtest du sitzen? Hinten oder vorne?,Where do you want to sit? At the back or the front?,Bitte hinten aussteigen!,Please get out at the back!
 other,nötig,necessary,nötig,"Wenn es nötig ist, nehmen Sie noch eine Tablette.","If necessary, take another tablet.","Kann ich Ihnen helfen? – Danke, nicht nötig.","Can I help you? - Thank you, not necessary."
@@ -294,8 +302,11 @@ other,heim,home,heim,Ich will jetzt heim.,I want to go home now.
 other,rechts,right,rechts,An der nächsten Kreuzung müssen Sie rechts abbiegen.,Turn right at the next intersection.,Der Bahnhof ist da vorne rechts.,The station is in front on the right.
 other,interessant,interesting,interessant,Ich habe einen interessanten Bericht gelesen.,I read an interesting report.,Den Artikel über Brasilien finde ich sehr interessant.,I find the article about Brazil very interesting.
 other,miteinander,with each other,miteinander,Sprechen Sie bitte miteinander.,Please talk to each other.
+other,stilistisch,stylistic,stilistisch,Der Text ist stilistisch sehr schön.,The text is stylistically very beautiful.
 other,indem,by (doing sth.),indem,"Du kannst die Datei öffnen, indem du hier klickst.",You can open the file by clicking here.
+other,weder … noch,neither ... nor,weder … noch,Für Urlaub haben wir weder Zeit noch Geld.,We have neither time nor money for vacations.
 other,kaputt,broken,kaputt,Unsere Waschmaschine ist kaputt.,Our washing machine is broken.,Ich bin noch ganz kaputt von der Reise.,I'm still exhausted from the trip.
+other,entweder ... oder,either ... or,entweder ... oder,"Nur einer kann gewinnen, entweder du oder ich.","Only one person can win, either you or me."
 other,sauber,clean,sauber,Bringen Sie mir bitte ein sauberes Glas!,Please bring me a clean glass!,Ich muss noch das Bad sauber machen.,I still have to clean the bathroom.
 other,nervös,nervous,nervös,Das Warten macht mich ganz nervös.,The wait makes me nervous.,Bei Prüfungen bin ich immer sehr nervös.,I'm always very nervous during exams.
 other,schuldig,guilty,schuldig,"Was bin ich Ihnen schuldig? – 50 Euro, bitte.","What do I owe you? - 50 euros, please."
@@ -303,6 +314,7 @@ other,allerdings,"however, certainly",allerdings,"Wir können uns morgen treffen
 other,Achtung!,Attention!,Achtung!,"Achtung, hier endet die Straße!","Attention, the road ends here!"
 other,statt,instead of,statt + Dativ/Genitiv,Kann ich diese Woche statt Donnerstag am Freitag kommen?,Can I come on Friday instead of Thursday this week?
 other,verantwortlich,responsible,verantwortlich,Sie sind für Ihre Kinder verantwortlich.,You are responsible for your children.
+other,"herein-, rein-",in,"herein-, rein-",Kommt doch herein!,Come on in!
 other,gemeinsam,together,gemeinsam,Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.,Need to renovate your apartment? I'll help you. We can do it together.,Wir benutzen die Garage gemeinsam mit dem Nachbarn.,We use the garage together with the neighbor.
 other,ungefähr,"approximate(ly), about",ungefähr,"Wie weit ist es bis zum Bahnhof? – Nicht weit, ungefähr zehn Minuten zu Fuß.","How far is it to the station? - Not far, about ten minutes on foot."
 other,furchtbar,terrible,furchtbar,Dennis hat furchtbare Schmerzen.,Dennis is in terrible pain.,Das war mir furchtbar unangenehm.,That was terribly unpleasant for me.
@@ -313,6 +325,7 @@ other,zufrieden,satisfied (with),zufrieden (mit + Dativ),Meine Kinder haben heut
 other,worüber,what about,worüber,Worüber lachen Sie?,What are you laughing about?
 other,schließlich,finally,schließlich,Ich musste lange warten. Aber schließlich habe ich den Job doch noch bekommen.,I had to wait a long time. But I finally got the job after all.,Ich helfe dir natürlich. Du bist schließlich mein Freund.,"I'll help you, of course. After all, you're my friend."
 other,schwierig,difficult,schwierig,Die Prüfung war sehr schwierig.,The test was very difficult.
+other,nah(e),"near, close",nah(e),"Wie weit ist es zum Bahnhof? – Das ist ganz nah, nur zwei Minuten von hier.","How far is it to the station? - It's very close, just two minutes from here."
 other,fantastisch,fantastic,fantastisch,Die Aussicht ist fantastisch!,The view is fantastic!
 other,daher,"therefore, from there",daher,"Ich bin erkältet, daher kann ich heute nicht kommen.","I have a cold, so I can't come today."
 other,zufällig,"random, by chance",zufällig,Wir haben uns zufällig am Bahnhof getroffen.,We met by chance at the station.,Hast du zufällig meine Brille gesehen?,Did you happen to see my glasses?
@@ -326,12 +339,14 @@ other,worum,what about,worum,Kann ich Herrn Meier sprechen? – Worum geht es de
 other,betrunken,drunk,betrunken,"Wenn Sie betrunken Auto fahren, verlieren Sie Ihren Führerschein.","If you drive drunk, you will lose your driver's license."
 other,offenbar,"apparently, obviously",offenbar,Das Restaurant ist heute offenbar geschlossen.,The restaurant is apparently closed today.
 other,leer,empty,leer,Das Restaurant war fast leer.,The restaurant was almost empty.,Die Kanne ist fast leer. Ich mache uns neuen Tee.,The pot is almost empty. I'll make us some more tea.
+other,eckig,"angular, square",eckig,"Ich möchte einen eckigen Tisch, keinen runden.","I want a square table, not a round one."
 other,vorhin,earlier,vorhin,Vorhin hat Heidrun angerufen. Du sollst sie zurückrufen.,Heidrun called earlier. She asked you to call her back.
 other,ernsthaft,serious,ernsthaft,"Ich überlege ernsthaft, ob ich in eine andere Stadt ziehen soll.",I'm seriously considering moving to another city.
 other,dankbar,grateful,dankbar,Ich bin Ihnen sehr dankbar für Ihre Hilfe.,I am very grateful for your help.
 other,dorthin,there(in),dorthin,Deine Tasche kannst du dorthin stellen.,You can put your bag there.
 other,vorwärts,forward,vorwärts,Ich kann nicht vorbei. Bitte fahr noch ein Stück vorwärts.,I can't pass. Please drive forward a bit more.
 other,prima,great,prima,Mit diesen Leuten verstehe ich mich prima.,I get on really well with these people.
+other,-weise,"-ly, -wise",-weise,War der Test schwierig? – Teilweise.,Was the test difficult? - Partly.,Das ist möglicherweise nicht so einfach.,This may possibly not be so easy.
 other,dringend,urgent,dringend,Ich muss dich dringend sprechen.,I urgently need to speak to you.,Ich erwarte einen dringenden Anruf.,I'm expecting an urgent call.,Bitte kommen Sie schnell. Es ist dringend.,Please come quickly. It is urgent.
 other,längst,long ago,längst,Wann reparierst du die Heizung. – Die habe ich schon längst repariert.,When are you going to repair the heating? - I've already repaired it.
 other,normalerweise,normally,normalerweise,Wann haben Sie normalerweise Pause?,When do you normally have a break?
@@ -355,8 +370,10 @@ other,umsonst,"free of charge, in vain",umsonst,Ich musste nichts bezahlen. Die 
 other,nirgendwo,nowhere,nirgendwo,Die Schlüssel kann ich nirgendwo finden.,I can't find the keys anywhere.
 other,satt,full,satt,"Möchten Sie noch etwas? – Nein danke, ich bin satt.","Would you like anything else? - No thanks, I'm full."
 other,warm,warm,warm,Hier ist es sehr warm.,It's very warm here.,Abends essen wir oft warm.,We often eat hot food in the evening.,Du musst dich warm anziehen.,You need to dress warmly.,Mittags möchte ich gern ein warmes Essen.,I would like a hot meal at lunchtime.,Für den Winter brauche ich einen warmen Pullover.,I need a warm sweater for the winter.
+other,je … desto …,the ... the ...,je … desto …,"Je länger ich Deutsch lerne, desto besser kann ich es verstehen.","The longer I learn German, the better I can understand it."
 other,verboten,forbidden,verboten,In den meisten Restaurants ist Rauchen verboten.,Smoking is prohibited in most restaurants.
 other,dunkel,dark,dunkel,Um sechs Uhr ist es schon dunkel.,It's already dark at six o'clock.,Meine Schwester hat dunkle Haare.,My sister has dark hair.,Ich habe mir eine dunkelblaue Bluse gekauft.,I bought a dark blue blouse.
+other,getrennt leben,to live separately,getrennt leben,Ich lebe getrennt von meiner Frau.,I live separately from my wife.
 other,ebenso,"likewise, also",ebenso,"Schöne Feiertage. – Danke, ebenso.","Happy holidays. - Thank you, too."
 other,freundlich,friendly,freundlich,Er hat uns sehr freundlich begrüßt.,He gave us a very friendly welcome.,Der Mann ist sehr freundlich zu mir.,The man is very friendly to me.,Mit freundlichen Grüßen,Yours sincerely
 other,dick,"thick, fat",dick,Ich bin zu dick. Ich muss weniger essen.,I am too fat. I need to eat less.,Die Wände sind hier sehr dick.,The walls here are very thick.
@@ -365,10 +382,12 @@ other,erwachsen,"grown-up, adult",erwachsen,Die Kinder sind schon fast erwachsen
 other,teuer,expensive,teuer,Ich finde das Geschäft nicht teuer.,I don't think the store is expensive.
 other,komplett,complete,komplett,Ich habe den Termin komplett vergessen.,I have completely forgotten the date.,Die Wohnung ist jetzt komplett eingerichtet.,The apartment is now fully furnished.
 other,voraus,ahead,voraus,Gehen Sie schon voraus.,Go ahead.,Ich danke Ihnen im Voraus für Ihre Mühe.,Thank you in advance for your efforts.
+other,selb-,same,selb-,Ich habe am selben Tag Geburtstag wie du.,I have the same birthday as you.
 other,irgendein,any,irgendein,"Was für einen Saft möchten Sie? – Ganz egal, irgendeinen.","What kind of juice would you like? - It doesn't matter, just any juice."
 other,scharf,"spicy, sharp",scharf,Bei uns zu Hause essen wir immer sehr scharf.,We always eat very spicy food at home.,Hast du kein schärferes Messer?,Don't you have a sharper knife?
 other,mehrere,several,mehrere,Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.,I asked several people. But no one could help me.,Viele Wörter haben mehrere Bedeutungen.,Many words have several meanings.
 other,innerhalb,within,innerhalb + Genitiv,Diese Fahrkarte gilt nur innerhalb der Stadt.,This ticket is only valid within the city.,Nach dem Umzug müssen Sie sich innerhalb einer Woche ummelden.,"After moving, you must re-register within one week."
+other,haltbar,"durable, good (for food)",haltbar,Diese Tomaten sind mindestens 2 Wochen haltbar.,These tomatoes will keep for at least 2 weeks.
 other,blind,blind,blind,Er ist von Geburt an blind.,He has been blind since birth.
 other,zuletzt,(at) last,zuletzt,Die Kleider packen wir zuletzt ein.,We pack the clothes last.,Wir haben uns vor drei Jahren zuletzt gesehen.,We last saw each other three years ago.
 other,merkwürdig,strange,merkwürdig,Das ist eine merkwürdige Geschichte.,That's a strange story.
@@ -383,11 +402,14 @@ other,"vorn, vorne","at the front, beginning","vorn, vorne",Bitte vorn beim Fahr
 other,inzwischen,"meanwhile, in the meantime",inzwischen,Herr Müller kommt gleich zurück. Sie können inzwischen in seinem Büro warten.,Mr. Müller will be back shortly. You can wait in his office in the meantime.
 other,selten,rarely,selten,Ich gehe ganz selten ins Kino.,I very rarely go to the movies.
 other,beinahe,almost,beinahe,Ich habe heute beinahe den Bus verpasst.,I almost missed the bus today.
+other,gesamt-/Gesamt-,"total, whole",gesamt-/Gesamt-,Ich habe meine gesamten Bücher verschenkt.,I have given away all my books.,"z. B. Gesamtgewicht, Gesamtsumme","z. e.g. total weight, total sum"
 other,extra,extra,extra,Die Getränke kosten extra.,The drinks cost extra.,Warum sind Sie nicht gekommen? Ich habe extra auf Sie gewartet.,Why didn't you come? I waited especially for you.
 other,jedoch,"however, though",jedoch,"Sie ruft immer wieder an, jedoch ohne Erfolg.","She calls again and again, but to no avail."
 other,Prost,cheers,Prost,Wir trinken auf Ihre Gesundheit! Prost!,We drink to your health! Cheers!
+other,berufstätig,employed,berufstätig,Sind Sie berufstätig?,Are you employed?
 other,wild,wild,wild,Das ist ein wilder Fluss.,It's a wild river.,Spielt nicht so wild!,Don't play so wildly!
 other,deutlich,clear,deutlich,Schreiben Sie bitte deutlich!,Please write clearly!
+other,einheitlich,uniform,einheitlich,Die Schüler dieser Schule tragen einheitliche Kleidung.,The pupils at this school wear uniform clothing.
 other,hinterher,after(wards),hinterher,Vor der Prüfung habe ich so viel gelernt. Hinterher habe ich vieles wieder vergessen.,"I learned so much before the exam. Afterwards, I forgot a lot of things."
 other,praktisch,practical,praktisch,Ich finde diese Küchenmaschine sehr praktisch.,I find this food processor very practical.,Ich habe letzte Woche den Führerschein gemacht. Jetzt fehlt mir noch praktische Erfahrung.,I got my driver's license last week. Now I still need practical experience.,"Dieses Handy kann praktisch alles, was ein Computer kann.",This cell phone can do practically everything a computer can do.
 other,schief,"crooked, askew",schief,Der Spiegel hängt ganz schief.,The mirror hangs askew.
@@ -410,12 +432,14 @@ other,dicht,"tight, close, dense",dicht,Unsere Fenster sind nicht dicht. Es zieh
 other,erfolgreich,successful,erfolgreich,Mein Großvater war ein erfolgreicher Geschäftsmann.,My grandfather was a successful businessman.
 other,begeistert,"impressed, thrilled",begeistert,Es war ein tolles Konzert. Ich bin begeistert.,It was a great concert. I am thrilled.
 other,solch-,such,solch-,Solche Schuhe finde ich toll.,I think shoes like these are great.
+other,meist(ens),"usually, mostly",meist(ens),Meistens trinke ich zum Frühstück nur einen Kaffee.,I usually just have a coffee for breakfast.,"Seid ihr am Wochenende zu Hause? – Ja, meistens.","Are you at home at the weekend? - Yes, most of the time."
 other,soviel,as far as,soviel,"Soviel ich weiß, hat dieses Restaurant heute Ruhetag.","As far as I know, this restaurant is closed today."
 other,so viel/so viel wie,as much (as),so viel/so viel wie,Ich habe so viel gegessen. Jetzt ist mir schlecht.,I've eaten so much. Now I feel sick.,Ich verdiene nur halb so viel wie er.,I only earn half as much as he does.
 other,fett,fat(ty),fett,Die Wurst ist mir zu fett.,The sausage is too fatty for me.,Das ist aber eine fette Katze!,That's one fat cat!
 other,gewohnt,"used to, usual",gewohnt,"Ich bin gewohnt, früh ins Bett zu gehen.",I'm used to going to bed early.
 other,freiwillig,voluntary,freiwillig,Manchmal bleibe ich freiwillig länger im Büro.,Sometimes I voluntarily stay in the office longer.
 other,korrekt,correct,korrekt,Ich habe die Rechnung geprüft. Alles ist korrekt.,I have checked the invoice. Everything is correct.
+other,im Freien,outdoors,im Freien,Wir wollen heute im Freien übernachten.,We want to spend the night outdoors tonight.
 other,meinetwegen,"for my sake, for all I care",meinetwegen,Meinetwegen kannst du heute das Auto haben.,You can have the car today for all I care.
 other,pünktlich,"punctual, on time",pünktlich,Seien Sie bitte pünktlich.,Please be on time.,Der Bus fährt pünktlich um acht Uhr.,The bus leaves punctually at eight o'clock.
 other,daneben,next to,daneben,"Du weißt doch, wo die Post ist. Gleich daneben ist die Bank.",You know where the post office is. The bank is right next door.
@@ -434,6 +458,7 @@ other,berühmt,famous,berühmt,Michael Schumacher ist ein berühmter Rennfahrer.
 other,innen,inside,innen,Der Lichtschalter ist innen links.,The light switch is on the inside left.
 other,einig-,"some, several",einig-,In diesem Bericht sind einige Fehler.,There are some errors in this report.,Das wird noch einige Zeit dauern.,That will take some time yet.,"Einige Leute sind für das Gesetz, aber viele sind auch dagegen.","Some people are in favor of the law, but many are also against it."
 other,nützlich,useful,nützlich,Danke für den Tipp. Das war sehr nützlich.,Thanks for the tip. That was very useful.
+other,inner-,internal,inner-,"Wir müssen Sie untersuchen. Es kann sein, dass Sie innere Verletzungen haben.",We need to examine you. You may have internal injuries.
 other,gewöhnlich,usually,gewöhnlich,Um die Zeit ist er gewöhnlich zu Hause.,He is usually at home at this time.
 other,kürzlich,recently,kürzlich,"Wir haben doch kürzlich darüber gesprochen, dass wir am Wochenende wegfahren wollen.",We recently talked about going away for the weekend.
 other,nass,wet,nass,Es hat schrecklich geregnet. Ich bin ganz nass geworden.,It rained terribly. I got all wet.,Geh nicht mit den nassen Schuhen ins Wohnzimmer.,Don't go into the living room with wet shoes.
@@ -453,8 +478,10 @@ other,erschöpft,exhausted,erschöpft,Nach dem Sport bin ich immer sehr erschöp
 other,taub,deaf,taub,"Sie hört schlecht, sie ist schon fast taub.","She can't hear well, she's almost deaf.",Bist du taub? Ich spreche mit dir!,Are you deaf? I'm talking to you!
 other,doppelt,"duplicate, double",doppelt,Das Buch habe ich doppelt.,I have two copies of the book.
 other,herzlich,cordial,herzlich,Herzlichen Glückwunsch!,Congratulations!
+other,heutig-,today,heutig-,Die heutigen Computer können viel mehr als noch vor ein paar Jahren.,Today's computers can do much more than they could a few years ago.
 other,heimlich,secret(ly),heimlich,"Gestern habe ich gehört, dass mein Sohn heimlich raucht.",Yesterday I heard that my son smokes in secret.
 other,sinnlos,pointless,sinnlos,So ein sinnloses Buch habe ich schon lange nicht mehr gelesen.,I haven't read such a pointless book for a long time.
+other,Öko- (ökologisch),eco(logical),Öko- (ökologisch),"z.B. Ökoladen, Ökostrom, ökologischer Anbau","e.g. organic store, green electricity, organic farming"
 other,verabredet,arranged,verabredet,"Tut mir leid, ich habe keine Zeit. Ich bin mit meiner Freundin verabredet.","Sorry, I don't have time. I have an appointment with my girlfriend."
 other,treu,"loyal, faithful",treu,Herr Maier ist ein treuer Kunde von uns.,Mr. Maier is a loyal customer of ours.
 other,positiv,positive,positiv,Wir haben eine positive Nachricht für Sie. Sie bekommen die Stelle.,We have good news for you. You will get the job.,Man muss positiv denken.,You have to think positively.
@@ -466,6 +493,7 @@ other,trocken,dry,trocken,Die Wäsche ist noch nicht trocken.,The laundry is not
 other,entschlossen,determined,entschlossen,"Ich bin fest entschlossen, diese Ausbildung fertigzumachen.",I am determined to complete this training.
 other,illegal,illegal,illegal,"Ohne Steuerkarte zu arbeiten ist illegal. Wenn es herauskommt, musst du Strafe zahlen.","Working without a tax card is illegal. If it comes to light, you will have to pay a fine."
 other,Ferien-,"vacation, holiday",Ferien-,Ich suche eine günstige Ferienwohnung.,I am looking for a cheap vacation apartment.
+other,Einzel-,single,Einzel-,"z. B. Einzelkind, Einzelzimmer","e.g. single child, single room"
 other,gemütlich,"cozy, comfortable",gemütlich,Wir haben eine sehr gemütliche Wohnung.,We have a very cozy apartment.,Es ist sehr gemütlich bei dir.,It's very cozy with you.
 other,zurzeit,currently,zurzeit,Zurzeit habe ich sehr viel zu tun.,I have a lot to do at the moment.
 other,beliebt,popular,beliebt,Dieses Spiel ist bei Jugendlichen sehr beliebt.,This game is very popular with young people.
@@ -474,6 +502,7 @@ other,aufmerksam,attentive,aufmerksam,Die Schülerin hörte aufmerksam zu.,The p
 other,riesig,huge,riesig,Die Stadt ist riesig.,The city is huge.,Ich habe mich über das Geschenk riesig gefreut.,I was delighted with the gift.
 other,höflich,polite,höflich,Unser Nachbar ist sehr höflich. Er sagt immer als Erster Guten Tag.,Our neighbor is very polite. He is always the first to say hello.
 other,privat,private,privat,Hier meine Nummer im Büro und meine private Nummer.,Here is my office number and my private number.,Über meine Probleme möchte ich nicht sprechen. Das ist privat.,I don't want to talk about my problems. That's private.,Ich treffe meine Arbeitskollegen auch privat.,I also meet my work colleagues in private.
+other,interkulturell,intercultural,interkulturell,Wir haben in der Sprachschule ein interkulturelles Fest gefeiert.,We celebrated an intercultural party at the language school.
 other,billig,cheap,billig,Dieses Buch ist nicht ganz billig.,This book is not cheap.
 other,nebenbei,on the side,nebenbei,Mein Freund studiert Geschichte. Und nebenbei arbeitet er in einer Kneipe.,My boyfriend is studying history. And he works in a pub on the side.,Ich mache die Hausarbeit und nebenbei höre ich Radio.,I do the housework and listen to the radio on the side.
 other,glatt,"smooth, slippery",glatt,Fahr vorsichtig! Es ist glatt.,Drive carefully! It's slippery.
@@ -491,6 +520,7 @@ other,geschieden,divorced,geschieden,Ich bin seit drei Jahren geschieden.,I've b
 other,geschieden,divorced,geschieden,Meine Kollegin ist geschieden.,My colleague is divorced.
 other,menschlich,human(e),menschlich,Fehler zu machen ist menschlich.,Making mistakes is human.
 other,fröhlich,"cheerful, happy",fröhlich,Die Musik klingt fröhlich.,The music sounds cheerful.,Sie ist ein fröhlicher Mensch.,She is a cheerful person.
+other,ausländisch,foreign,ausländisch,Die ausländischen Studenten müssen zuerst einen Deutschkurs besuchen.,Foreign students must first attend a German course.
 other,dünn,thin,dünn,Mein Sohn ist sehr dünn. Er isst zu wenig.,My son is very thin. He eats too little.,Warum ziehst du nur so einen dünnen Mantel an? Es ist kalt draußen.,Why are you wearing such a thin coat? It's cold outside.
 other,geradeaus,straight ahead,geradeaus,Fahren Sie geradeaus bis zur nächsten Kreuzung.,Drive straight on until the next intersection.
 other,tödlich,fatal,tödlich,Dieses Gift kann für den Menschen tödlich sein.,This poison can be fatal to humans.
@@ -505,6 +535,7 @@ other,häufig,frequently,häufig,Haben Sie häufig Kopfschmerzen? Dann sollten S
 other,alternativ,alternative,alternativ,Wir brauchen alternative Energien.,We need alternative energies.
 other,anstrengend,"exhausting, strenuous",anstrengend,Ich finde diese Arbeit sehr anstrengend.,I find this work very strenuous.
 other,wertvoll,valuable,wertvoll,Ich habe einen sehr wertvollen Ring von meiner Großmutter.,I have a very valuable ring from my grandmother.
+other,sowohl … als auch,both ... and,sowohl … als auch,Sowohl Sie als auch Ihre Frau müssen unterschreiben.,Both you and your wife must sign.
 other,anwesend,present,anwesend,Bei dem Treffen waren alle Mitglieder anwesend.,All members were present at the meeting.
 other,anfangs,"initially, at first",anfangs,Anfangs ging alles gut.,Everything went well at first.
 other,verwandt,related,verwandt,Sind Sie mit Frau Meyer verwandt?,Are you related to Mrs. Meyer?
@@ -523,6 +554,7 @@ other,un-,un- (negation of adjectives),un-,Der Verkäufer war sehr unfreundlich.
 other,verständlich,understandable,verständlich,"Nach acht Stunden Schule haben die Kinder keine Lust mehr, die Hausaufgaben zu machen. Ich finde das verständlich.","After eight hours of school, the children no longer feel like doing their homework. I think that's understandable."
 other,ausgebildet,"trained, educated",ausgebildet,Für diesen Beruf müssen Sie gut ausgebildet sein.,You need to be well trained for this job.
 other,abhängig,dependent,abhängig (von + Dativ),Gregor ist finanziell von seinen Eltern abhängig.,Gregor is financially dependent on his parents.
+other,Tee ziehen lassen,steep the tea,Tee ziehen lassen,Diesen Tee sollte man 10 Minuten ziehen lassen.,This tea should be left to infuse for 10 minutes.
 other,geeignet,"suitable, suited",geeignet,Dieses Spiel ist nicht für Kinder unter drei Jahren geeignet.,This game is not suitable for children under the age of three.
 other,fremd,foreign,fremd,Ich reise gern in fremde Länder.,I like traveling to foreign countries.,Ich bin fremd hier.,I am a stranger here.
 other,einschließlich,"including, inclusive",einschließlich,Alles zusammen kostet 200 Euro einschließlich Fahrtkosten.,Everything together costs 200 euros including travel costs.
@@ -546,6 +578,7 @@ other,körperlich,physical,körperlich,Körperliche Arbeit macht mir nichts aus.
 other,ideal,ideal,ideal,Eine Wohnung mit Garten wäre für uns ideal.,An apartment with a garden would be ideal for us.
 other,gleichfalls,likewise,gleichfalls,"Schöne Feiertage! – Danke, gleichfalls.",Happy holidays! - Thank you too.
 other,wertlos,worthless,wertlos,Diese alten Geldscheine sind heute völlig wertlos.,These old banknotes are completely worthless today.
+other,mittler-,middle,mittler-,In den mittleren Reihen sind noch Plätze frei.,There are still seats available in the middle rows.
 other,flach,"flat, shallow",flach,Für die Arbeit brauche ich flache Schuhe.,I need flat shoes for work.,An dieser Stelle ist der See sehr flach.,The lake is very shallow at this point.
 other,national/national-,national,national/national-,Das ist ein nationaler Wettbewerb.,This is a national competition.,Die Nationalmannschaft ist ziemlich stark.,The national team is pretty strong.
 other,arbeitslos,unemployed,arbeitslos,Wie lange sind Sie schon arbeitslos?,How long have you been unemployed?
@@ -571,6 +604,7 @@ other,international,international,international,"Die Teilnehmenden in unserem Ku
 other,kritisch,critical,kritisch,Es gab eine Diskussion über die Lebensmittelpreise. Ein Journalist hat kritische Fragen gestellt.,There was a discussion about food prices. A journalist asked critical questions.
 other,bitter,bitter,bitter,Hast du Zucker? Der Tee ist sehr bitter.,Do you have sugar? The tea is very bitter.
 other,modern,modern,modern,Die Wohnung ist modern eingerichtet.,The apartment is modernly furnished.,Das Stadtzentrum von Frankfurt ist ganz modern.,The city center of Frankfurt is very modern.
+other,Schwieger-,in-law,Schwieger-,Wir besuchen morgen meine Schwiegereltern.,We are visiting my parents-in-law tomorrow.,Mein Schwiegervater ist Lehrer.,My father-in-law is a teacher.,Ich verstehe mich gut mit meiner Schwiegertochter.,I get on well with my daughter-in-law.
 other,vorläufig,"temporary, provisional",vorläufig,Ich habe noch keine Wohnung. Ich wohne vorläufig bei einem Freund.,I don't have an apartment yet. I'm staying with a friend for the time being.,Das ist eine vorläufige Entscheidung.,This is a provisional decision.
 other,ober-,upper,ober-,Die Wohnung im oberen Stockwerk ist vermietet.,The apartment on the upper floor is rented out.
 other,intensiv,intensive,intensiv,Ich möchte intensiv Deutsch lernen.,I would like to learn German intensively.
@@ -589,12 +623,15 @@ other,erforderlich,required,erforderlich,Hier ist die Liste der erforderlichen Z
 other,spätestens,at the latest,spätestens,Ich muss spätestens um 9 Uhr bei der Arbeit sein.,I have to be at work by 9 a.m. at the latest.
 other,begrenzt,limited,begrenzt,Die Teilnehmerzahl ist auf 12 begrenzt.,The number of participants is limited to 12.
 other,weiblich,female,weiblich,Kreuzen Sie bitte an: „weiblich“ oder „männlich“.,Please mark with a cross: "female" or "male".
+other,"Speise-/-speise, -n","food, dish","Speise-/-speise, -n","Als Vorspeise nehme ich eine Suppe, aber dafür nehme ich keine Nachspeise. (D, A)","I have a soup as a starter, but I don't have dessert."
 other,maximal,maximum,maximal,Wie lange braucht ein Brief? – Maximal zwei Tage.,How long does a letter take? - A maximum of two days.,Wie schwer darf der Brief sein? – Maximal 20 g.,How heavy can the letter be? - Maximum 20 g.
 other,optimistisch,optimistic,optimistisch,"Glaubst du, dass du den Job bekommst. – Ja, ich bin ganz optimistisch.","Do you think you'll get the job? - Yes, I'm quite optimistic."
 other,sympathisch,"likeable, nice",sympathisch,Ich finde unsere neue Kollegin sehr sympathisch.,I find our new colleague very likeable.
 other,finanziell,financial,finanziell,Finanziell geht es meinem Neffen jetzt besser.,"Financially, my nephew is doing better now."
+other,sogenannt-,so-called,sogenannt-,"Studenten, die lange studieren, sind sogenannte Langzeitstudierende.",Students who study for a long time are so-called long-term students.,Wo bleiben denn deine sogenannten Freunde?,Where are your so-called friends?
 other,giftig,poisonous,giftig,"Vorsicht, das ist giftig!","Careful, it's poisonous!"
 other,eigen-,own,eigen-,Fast jedes Kind hat ein eigenes Zimmer.,Almost every child has their own room.,Manche Leute haben keine eigene Meinung.,Some people have no opinion of their own.
+other,bio(logisch),"biological, organic",bio(logisch),Biologische Lebensmittel gibt es jetzt auch im Supermarkt.,Organic food is now also available in supermarkets.
 other,erkältet,to have a cold,erkältet,Ich bin stark erkältet.,I have a bad cold.
 other,jedes Mal,every time,jedes Mal,Inge erzählt die Geschichte jedes Mal anders.,Inge tells the story differently every time.
 other,link-,left,link-,Er hat sich das linke Bein gebrochen.,He broke his left leg.,Das Haus ist auf der linken Seite.,The house is on the left-hand side.
@@ -613,6 +650,7 @@ other,roh,raw,roh,Du kannst das nicht essen. Das Fleisch ist noch roh.,You can't
 other,abwärts,downwards,abwärts,Von dort führt der Weg abwärts ins Tal.,"From there, the path leads down into the valley."
 other,untersagt,forbidden,untersagt,"Es ist untersagt, hier zu rauchen.",It is forbidden to smoke here.
 other,zugänglich,accessible,zugänglich,Der Park ist für alle zugänglich.,The park is accessible to all.
+other,vorder-,front,vorder-,In den vorderen Reihen sind noch Plätze frei.,There are still seats available in the front rows.
 other,ledig,single,ledig,Wie ist Ihr Familienstand? – Ledig.,What is your marital status? - Single.
 other,letzt-,last,letzt-,Was hast du letzte Woche gemacht?,What did you do last week?,Ich wohne im letzten Haus auf der rechten Seite.,I live in the last house on the right-hand side.,Wann haben Sie Ihre Familie das letzte Mal gesehen?,When was the last time you saw your family?
 other,strafbar,"criminal, punishable",strafbar,"Was du da machst, ist strafbar.",What you are doing is a criminal offense.
@@ -638,6 +676,7 @@ other,parallel,parallel,parallel,Die Goethestraße ist parallel zur Hauptstraße
 other,windig,windy,windig,Es ist heute sehr windig.,It's very windy today.
 other,populär,popular,populär,Diese Musik ist bei Jugendlichen populär.,This music is popular with young people.
 other,historisch,historical,historisch,Wir waren mit unserer Klasse im Historischen Museum.,We went to the Historical Museum with our class.
+other,städtisch,urban,städtisch,Ich gehe gern in die städtische Bibliothek.,I like going to the public library.
 other,befriedigend,satisfactory,befriedigend,Das Ergebnis ist befriedigend.,The result is satisfactory.
 other,schädlich,harmful,schädlich,Rauchen ist schädlich für die Gesundheit.,Smoking is harmful to your health.
 other,minimal,minimal,minimal,Da ist nur ein minimaler Unterschied.,There is only a minimal difference.
@@ -650,6 +689,7 @@ other,mobil/mobil-,mobile,mobil/mobil-,Mit dem Fahrrad bin ich in der Stadt sehr
 other,mild,mild,mild,"Möchten Sie die Soße scharf? – Nein, bitte ganz mild.","Would you like the sauce hot? - No, very mild please.",Wie wird das Wetter? – Es soll etwas milder werden.,What's the weather going to be like?
 other,musikalisch,musical,musikalisch,"Sie ist sehr musikalisch: Sie spielt Klavier, Flöte und Geige.","She is very musical: she plays the piano, flute and violin.",Das musikalische Angebot gefällt mir.,I like the music on offer.
 other,Spezial-,special,Spezial-,Ich brauche eine Spezialpflege für trockenes Haar.,I need special care for dry hair.
+other,virtuell,virtual,virtuell,Auf dieser Website kann man an einer virtuellen Stadtrundfahrt teilnehmen.,You can take part in a virtual city tour on this website.
 other,Lieblings-,favorite,Lieblings-,"z. B. Lieblingsfarbe, Lieblingsfilm, Lieblingsessen Mein Lieblingsessen ist Pizza.","z. e.g. favorite color, favorite movie, favorite food My favorite food is pizza."
 other,zahlreich,numerous,zahlreich,Die Gäste sind zahlreich gekommen. Es gibt zahlreiche Beispiele für gute Zusammenarbeit.,The guests came in large numbers. There are numerous examples of good cooperation.
 other,zukünftig,"in the future, future",zukünftig,"Ich bitte dich, zukünftig früher zu kommen.",I would ask you to come earlier in future.
@@ -657,6 +697,7 @@ other,entspannend,relaxing,entspannend,Der Urlaub war sehr entspannend.,The vaca
 other,elektronisch,electronic,elektronisch,"Wir sollten die Daten elektronisch bearbeiten, sonst dauert es zu lange.","We should process the data electronically, otherwise it will take too long."
 other,chic/schick,fancy,chic/schick,Ich finde dein Kleid sehr chick.,I think your dress is very fancy.
 other,tolerant,tolerant,tolerant,Die Nachbarn hören oft laut Musik. Wir müssen sehr tolerant sein.,The neighbors often listen to loud music. We have to be very tolerant.
+other,Elektro-,electrical,Elektro-,"z.B. Elektrogeschäft, Elektroingenieur, Elektroherd","e.g. electrical store, electrical engineer, electric stove"
 other,passiv,passive,passiv,"Man sollte im Kurs nicht passiv sein, sondern mitdiskutieren.","You should not be passive in the course, but participate in the discussion."
 other,senkrecht,vertical,senkrecht,Ziehen Sie bitte eine senkrechte Linie.,Please draw a vertical line.
 other,voraussichtlich,expected,voraussichtlich,Der Zug hat voraussichtlich 20 Minuten Verspätung.,The train is expected to be 20 minutes late.
@@ -677,3 +718,4 @@ other,neblig,foggy,neblig,Fahr vorsichtig! Es ist neblig.,Drive carefully! It's 
 other,möbliert,furnished,möbliert,Ich suche ein möbliertes Zimmer.,I am looking for a furnished room.
 other,regional,regional,regional,Du kannst mit einer Regionalbahn fahren. Das ist billiger.,You can take a regional train. It's cheaper.
 other,waagerecht,horizontal,waagerecht,Ziehen Sie bitte einen waagerechten Strich.,Please draw a horizontal line.
+other,pauschal,"flat rate, general",pauschal,Sie haben die Reise pauschal gebucht.,You have booked the trip as a packaga (flat rate).,"Das ist mir zu pauschal, ich wüsste es gern genauer.","That's too general for me, I'd like to know more."
