@@ -84,6 +84,7 @@ noun,Mensch,"human, person","der Mensch, -en",Die Menschen sind hier ein bissche
 noun,Sorge,"care, concern, worry","die Sorge, -n",Um Ihre Zukunft brauchen Sie sich keine Sorgen zu machen.,You don't need to worry about your future.
 noun,Ding,thing,"das Ding, -e",Gib mir bitte mal das Ding da drüben.,"Give me that thing over there, please."
 noun,Blut,blood,das Blut (Sg.),Der Verletzte hat viel Blut verloren.,The injured person has lost a lot of blood.
+noun,Eltern,parents,die Eltern (Pl.),Ich wohne noch bei meinen Eltern.,I still live with my parents.
 noun,Herz,heart,"das Herz, -en",Ich bin ganz nervös. Mir klopft das Herz.,I'm really nervous. My heart is pounding.,Wir müssen Ihr Herz untersuchen.,We need to examine your heart.
 noun,Fest,"festival, feast, party","das Fest, -e","Wenn ich 18 werde, feiern wir ein großes Fest.","When I turn 18, we'll have a big party.",Frohes Fest!,Merry Christmas!
 noun,Platz,"place, seat, square","der Platz, ¨-e",In unserer Wohnung haben wir nicht genug Platz.,We don't have enough space in our apartment.,Ist dieser Platz noch frei?,Is this seat still free?,Nehmen Sie bitte Platz.,Please take a seat.,"Die Post ist auf dem Platz, direkt am Markt.","The post office is on the square, right next to the market."
@@ -120,6 +121,7 @@ noun,Stück/-stück,"piece, play","das Stück/-stück, -e",Ich nehme zwei Stück
 noun,Zukunft,future,die Zukunft (Sg.),Du musst mehr für die Schule lernen. Denk an die Zukunft.,You need to study more for school. Think about the future.,In Zukunft werde ich vorsichtiger sein.,I will be more careful in future.
 noun,Licht,light,"das Licht, -er",Kannst du bitte Licht machen? Ich kann so nichts sehen.,Can you please turn on the light? I can't see anything like this.,Es ist so dunkel. Wo macht man hier das Licht an?,It's so dark. Where do you turn on the light here?
 noun,Himmel,sky,der Himmel (Sg.),Wir hatten im Urlaub so tolles Wetter. Immer Sonne und blauer Himmel.,We had such great weather on vacation. Always sunshine and blue skies.
+noun,Überstunde,overtime,"die Überstunde, -n",Ich muss heute Überstunden machen.,I have to work overtime today.
 noun,Nachricht,"message, news","die Nachricht, -en",Ich habe eine gute Nachricht für Sie. Sie haben die Prüfung bestanden.,I have good news for you. You have passed the exam.,Ich habe im Radio die Nachrichten gehört.,I heard the news on the radio.,Im Moment bin ich nicht zu Hause. Aber Sie können eine Nachricht hinterlassen.,I'm not at home at the moment. But you can leave a message.
 noun,Erde,"earth, soil","die Erde, -n",Die Pflanzen brauchen neue Erde.,The plants need new soil.,Mein Sohn hat das Glas auf die Erde fallen lassen.,My son dropped the glass on the ground.,An der Konferenz nehmen Vertreter aus fast allen Ländern der Erde teil.,Representatives from almost every country in the world take part in the conference.
 noun,Schlüssel,key,"der Schlüssel, -",Ich kann meine Schlüssel nicht finden.,I can't find my keys.
@@ -133,6 +135,10 @@ noun,Wohnung,apartment,"die Wohnung, -en","Wir suchen eine möblierte Wohnung, m
 noun,Krankenhaus,hospital,"das Krankenhaus, ¨-er",Er hat sich verletzt und musste ins Krankenhaus.,He injured himself and had to go to hospital.
 noun,Klasse,class,"die Klasse, -n",In der Klasse sind 24 Schülerinnen und Schüler.,There are 24 pupils in the class.,Im Herbst komme ich in die 7. Klasse.,I'll be in 7th grade in the fall.,"Einmal nach Frankfurt, 1. Klasse, bitte.","Once to Frankfurt, 1st class, please."
 noun,Sinn,"sense, meaning, purpose","der Sinn, -e","Es hat keinen Sinn, noch ein Spiel zu beginnen. Es ist schon spät.",There's no point in starting another game. It's already late.
+noun,Klassenarbeit,class work,"die Klassenarbeit, -en (D) 
+→ A: Schularbeit",Mein Sohn schreibt bei Klassenarbeiten immer gute Noten.,My son always gets good marks in class tests.
+noun,Schularbeit,school work,"die Schularbeit, -en (A) 
+→ D: Klassenarbeit",Mein Sohn schreibt bei Schularbeiten immer gute Noten.,My son always gets good marks for his schoolwork.
 noun,Person,person,"die Person, -en",Eintritt pro Person: 2 Euro.,Admission per person: 2 euros.
 noun,Boden,"floor, ground, soil","der Boden, ¨-",Die Bücher lagen alle auf dem Boden.,The books were all on the floor.,Auf diesem Boden wächst Gemüse besonders gut.,Vegetables grow particularly well in this soil.
 noun,Stimme,voice,"die Stimme, -n",Ich habe dich sofort an der Stimme erkannt.,I recognized you immediately by your voice.
@@ -302,6 +308,7 @@ noun,Ecke,corner,"die Ecke, -n (D, CH)
 → A: Eck",Das Regal stellen wir hier in die Ecke.,We put the shelf here in the corner.,Das bekommen Sie im Kiosk an der Ecke.,You can get this at the kiosk on the corner.,Wo ist die Apotheke? ? Gleich um die Ecke.,Where is the pharmacy? ? Just around the corner.
 noun,Brücke,bridge,"die Brücke, -n",Fahren Sie über die nächste Brücke und dann rechts.,Drive over the next bridge and then turn right.
 noun,Druck,"pressure, push","der Druck, "-e",Mit einem Knopfdruck schaltet man das Gerät ein.,The appliance is switched on at the touch of a button.,Wie hoch muss der Druck in den vorderen Reifen sein?,How high must the pressure in the front tires be?
+noun,Nord-/Ostsee,north sea/baltic sea,die Nord-/Ostsee,Warst du schon mal an der Nord/Ostsee?,Have you ever been to the North/Baltic Sea?
 noun,Oma,grandma,"die Oma, -s",Meine Oma ist achtzig Jahre alt geworden.,My grandma turned eighty years old.
 noun,Auftrag,"order, assignment","der Auftrag, ¨-e",Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.,I have been commissioned by Mrs. Müller to give you this letter.,Im Moment hat die Firma besonders viele Aufträge.,The company has a particularly large number of orders at the moment.
 noun,Lösung,solution,"die Lösung, -en",Wir fahren alle zusammen mit dem Zug. Das ist die beste Lösung.,We all travel together by train. That's the best solution.,Die Aufgabe ist nicht schwer. Die Lösung ist ganz einfach.,The task is not difficult. The solution is quite simple.
@@ -351,6 +358,8 @@ noun,Zufall,coincidence,"der Zufall, ¨-e","So ein Zufall, dass ich dich hier tr
 noun,Garten,garden,"der Garten, ¨-",Wir haben einen schönen großen Garten.,We have a beautiful large garden.
 noun,Koffer,suitcase,"der Koffer, -",Ich habe den Koffer schon gepackt.,I've already packed my suitcase.
 noun,Kurs,course,"der Kurs, -e",Ich besuche regelmäßig einen Deutschkurs.,I regularly attend a German course.
+noun,Kursleiter,instructor,"der Kursleiter, - 
+die Kursleiter, -nen",Die Kursleiterin ist mit unserer Kursgruppe manchmal in den Computerraum gegangen.,The course instructor sometimes went into the computer room with our course group.
 noun,Lager,"warehouse, camp","das Lager, -","Ich weiß nicht, ob wir diesen Schuh in Ihrer Größe haben. Ich sehe mal im Lager nach.",I don't know if we have this shoe in your size. I'll have a look in the warehouse.,Unsere Kinder fahren im Sommer ins Zeltlager.,Our children go to camp in the summer.
 noun,Reihe,"row, turn, range","die Reihe, -n",Ich habe Karten für das Konzert. Wir sitzen in der dritten Reihe.,I have tickets for the concert. We're sitting in the third row.,Wer ist jetzt an der Reihe?,Whose turn is it now?
 noun,Strand,beach,"der Strand, ¨-e",Im Urlaub bin ich am liebsten am Strand.,My favorite place to be on vacation is the beach.
@@ -363,6 +372,7 @@ noun,Fluss,river,"der Fluss, ¨-e",Wie heißt dieser Fluss?,What is the name of 
 noun,Test,test,"der Test, -s",Ich bin ganz sicher: Du wirst den Test schaffen.,I am quite sure that you will pass the test.
 noun,"Direktor, Direktorin",director,"der Direktor, -en 
 die Direktorin, -nen",Ich möchte gern mit dem Direktor sprechen.,I would like to speak to the director.
+noun,Intensivkurs,intensive course,"der Intensivkurs, -e",Der Intensivkurs findet täglich von 9 bis 12 Uhr statt.,The intensive course takes place daily from 9 am to 12 pm.
 noun,Karriere,career,"die Karriere, -n",Mein Bruder hat große Pläne. Er will Karriere machen.,My brother has big plans. He wants to make a career.
 noun,Erinnerung,"memory, reminder","die Erinnerung, -en",An diese Zeit habe ich viele schöne Erinnerungen.,I have many fond memories of that time.
 noun,Zweifel,doubt sth.,"der Zweifel, - (an + Dativ)",Da ist ohne Zweifel die beste Lösung.,This is without doubt the best solution.,Allmählich bekomme ich Zweifel daran.,I'm beginning to have doubts about this.
@@ -372,6 +382,8 @@ noun,Pflicht,"obligation, duty","die Pflicht, -en",Als Autofahrer müssen Sie ei
 noun,Knie,knee,"das Knie, -",Ich habe mich am Knie verletzt. Jetzt kann ich nicht laufen.,I injured my knee. Now I can't walk.
 noun,Schutz,protection,der Schutz (Sg.),Das ist ein guter Schutz gegen Kälte.,This is good protection against the cold.,Alle reden heute über den Schutz der Umwelt.,Everyone is talking about protecting the environment today.
 noun,Kuss,kiss,"der Kuss, ¨-e",Gib der Mama einen Kuss!,Give mom a kiss!
+noun,Glace/Glacé,ice cream,"die/das Glace/Glacé, -n (CH) 
+→ D, A: Eis",Zum Dessert gibt es Schokoladenglace.,For dessert there is chocolate ice cream.
 noun,Erklärung,explanation,"die Erklärung, -en",Hast du schon die Steuererklärung gemacht?,Have you already done your tax return?,Die Erklärung der Lehrerin ist besser als die Erklärung im Buch.,The teacher's explanation is better than the explanation in the book.
 noun,Video,video,"das Video, -s",Ich habe den Film auf Video aufgenommen.,I recorded the movie on video.,Lass uns ein Video vom Fest machen!,Let's make a video of the party!
 noun,Opa,grandpa,"der Opa, -s",Mein Opa heißt Hans.,My grandpa's name is Hans.
@@ -380,6 +392,7 @@ noun,Schulden,debts,die Schulden (Pl.),Jetzt habe ich alle meine Schulden bezahl
 noun,Grenze,"border, boundary","die Grenze, -n",An der Grenze musst du deinen Ausweis zeigen.,You must show your ID at the border.
 noun,Form,shape,"die Form, -en",Diese Schuhe haben eine schöne Form.,These shoes have a beautiful shape.,Ich möchte für den Geburtstag einen Kuchen backen. Kannst du mir eine Backform leihen?,I would like to bake a cake for my birthday. Can you lend me a baking tin?
 noun,Mond,moon,"der Mond, -e",Bei Vollmond kann ich nicht schlafen.,I can't sleep under a full moon.
+noun,Daten (Plural),data,die Daten (Plural),Wir haben alle Ihre Daten im Computer.,We have all your data on the computer.
 noun,Sieg,victory,"der Sieg, -e",Unsere Mannschaft hat gewonnen. Wir freuen uns über den Sieg.,Our team has won. We are delighted with the victory.
 noun,Übersetzung,translation,"die Übersetzung, -en",Die Übersetzung des Buches ist sehr gut.,The translation of the book is very good.
 noun,Kunst,art,"die Kunst, ¨-e",Ich verstehe nichts von moderner Kunst.,I don't understand anything about modern art.
@@ -398,6 +411,7 @@ noun,Gast,guest,"der Gast, ¨-e",Wir haben heute Abend Gäste.,We have guests to
 noun,Toilette,toilet,"die Toilette, -n","Wo ist die Toilette, bitte?","Where is the toilet, please?"
 noun,Theater,theater,"das Theater, -",Wir gehen nächste Woche ins Theater.,We're going to the theater next week.
 noun,Regen,rain,"der Regen, -",Bei Regen fällt das Konzert aus.,The concert is canceled in case of rain.
+noun,Zweitsprache,second language,"die Zweitsprache, -n",Deutsch ist seine Zweitsprache.,German is his second language.
 noun,Flughafen,airport,"der Flughafen, ¨-",Der Flughafen liegt 30 km außerhalb der Stadt.,The airport is 30 km outside the city.
 noun,Fahrer,driver,"der Fahrer, -",Die Fahrerin des Wagens wurde nicht verletzt.,The driver of the car was not injured.,Leonid ist von Beruf Busfahrer.,Leonid is a bus driver by profession.,Während der Fahrt bitte nicht mit dem Fahrer sprechen!,Please do not speak to the driver during the journey!
 noun,Star,star,"der Star, -s",Diese Sängerin ist ein großer Star in Deutschland.,This singer is a big star in Germany.
@@ -405,6 +419,7 @@ noun,Alkohol,alcohol,der Alkohol,Du musst die Wunde mit Alkohol reinigen.,You mu
 noun,Post,post,"die Post, -en",Die Post macht erst um 8 Uhr auf.,The post office doesn't open until 8 o'clock.,Meine Frau arbeitet bei der Post.,My wife works at the post office.,Ist Post für mich da?,Is there mail for me?
 noun,Botschaft,"embassy, message","die Botschaft, -en",Das Visum habe ich von der Botschaft bekommen.,I got the visa from the embassy.
 noun,Flucht,escape,"die Flucht, -en",Der Einbrecher war schon auf der Flucht.,The burglar was already on the run.
+noun,Mobilität,mobility,"die Mobilität, -en",Sprachen zu lernen fördert die Mobilität.,Learning languages promotes mobility.
 noun,Gegenteil,opposite,"das Gegenteil, -e",Das Gegenteil von „klein“ ist „groß“.,The opposite of "small" is "large".,Sie ist das genaue Gegenteil von ihrem Bruder.,She is the exact opposite of her brother.,"Du bist sicher müde. – Nein, ganz im Gegenteil!","You must be tired - no, quite the opposite!"
 noun,Projekt,project,"das Projekt, -e",Der Staat fördert Projekte für Kinder und Jugendliche.,The state supports projects for children and young people.
 noun,Absicht,intention,"die Absicht, -en",Entschuldigen Sie bitte. Meine Tochter hat das nicht mit Absicht gemacht.,Please excuse me. My daughter didn't do that on purpose.,Hast du die Absicht zu studieren?,Do you intend to study?
@@ -469,6 +484,8 @@ noun,"Täter, Täterin","perpetrator, criminal","der Täter, -
 die Täterin, -nen",Die Polizei hat den Täter endlich gefasst.,The police have finally caught the perpetrator.
 noun,Dieb,thief,"der Dieb, -e",Ein Dieb hat mir auf dem Markt die Tasche gestohlen.,A thief stole my bag at the market.
 noun,Geschmack,"taste, flavor","der Geschmack, "-e/"-er",Ich möchte bitte Kaugummi mit Erdbeergeschmack.,"I would like strawberry-flavored chewing gum, please."
+noun,Familienstand,marital status,"der Familienstand (D, A) 
+→ Personenstand; CH: Zivilstand",Bei „Familienstand“ musst du „ledig“ ankreuzen.,"You must check ""single"" under ""Marital status""."
 noun,Pech,bad luck,das Pech (Sg.),Es regnet. Unser Picknick fällt leider aus. – So ein Pech!,It's raining. Our picnic is unfortunately canceled. - What bad luck!,Wir hatten im Urlaub Pech mit dem Wetter.,We were unlucky with the weather on our vacation.
 noun,"Schauspieler, Schauspielerin","actor, actress","der Schauspieler, - 
 die Schauspielerin, -nen",Der Film war toll. Die Schauspieler waren sehr gut.,The movie was great. The actors were very good.
@@ -485,6 +502,8 @@ noun,Pizza,pizza,"die Pizza, -s/Pizzen",Lass uns eine Pizza bestellen!,Let's ord
 noun,Hütte,cabin,"die Hütte, -n",Wir übernachten in der Hütte auf dem Berg.,We spend the night in the hut on the mountain.
 noun,Mantel,coat,"der Mantel, ¨-",Es ist sehr kalt. Zieh deinen Mantel an.,It's very cold. Put on your coat.
 noun,Sack,sack,"der Sack, ¨-e",Ich hätte gern einen Sack Kartoffeln.,I would like a sack of potatoes.,Wo soll ich die Säcke mit dem Müll hinstellen?,Where should I put the bags of garbage?
+noun,Personenstand,marital status,"der Personenstand, ¨-e 
+→ D, A: Familienstand; CH: Zivilstand",Bei „Personenstand“ musst du „ledig“ ankreuzen.,"Under ""Marital status"" you must check ""single""."
 noun,Unterhaltung,entertainment,"die Unterhaltung, -en",Wir wünschen Ihnen gute Unterhaltung.,We wish you good entertainment.
 noun,Mittel,"remedy, resource, medium","das Mittel, -",Haben Sie ein Mittel gegen Magenschmerzen?,Do you have a remedy for stomach pain?,Der Arzt hat mir ein Mittel gegen Grippe verschrieben.,The doctor prescribed me a remedy for the flu.,Das neue Waschmittel ist sehr gut.,The new detergent is very good.
 noun,Leitung,management,"die Leitung, -en",Ab 1. Juli übernimmt Herr Meier die Leitung der Abteilung.,Mr. Meier will take over the management of the department from 1 July.,"Tut mir leid, alle Leitungen sind besetzt.","Sorry, all lines are busy.",Wir müssen eine neue Leitung legen lassen.,We have to have a new pipe laid.
@@ -496,6 +515,8 @@ noun,Einladung,invitation,"die Einladung, -en",Danke für die Einladung.,Thank y
 noun,Mitglied,member,"das Mitglied, -er",Für Mitglieder ist der Eintritt zum Konzert gratis.,Admission to the concert is free for members.
 noun,Feld,field,"das Feld, -er",Auf diesem Feld wächst Gemüse.,Vegetables grow in this field.
 noun,Information,information,"die Information, -en",Bitte lesen Sie diese Informationen genau.,Please read this information carefully.,"Wenn Sie Fragen haben, gehen Sie zur Information.","If you have any questions, please go to the information desk."
+noun,Stiege,stairs,"die Stiege, -n (A) 
+→ D, CH: Treppe",Wo ist die Toilette? – Die Stiege hoch und dann links.,Where is the toilet? - Up the stairs and then left.,Meine Oma kann nicht gut Stiegen steigen.,My grandma is not good at climbing stairs.
 noun,Klinik,clinic,"die Klinik, -en","Ich muss in die Klinik, um meinen kranken Onkel zu besuchen.",I have to go to the clinic to visit my sick uncle.
 noun,"Bürger, Bürgerin",citizen,"der Bürger, - 
 die Bürgerin, -nen",EU-Bürgerinnen und Bürger können überall in Europa arbeiten.,EU citizens can work anywhere in Europe.
@@ -522,6 +543,7 @@ noun,"Künstler, Künstlerin",artist,"der Künstler, -
 die Künstlerin, -nen",In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine Musikerin.,Many female artists live in this part of town. A musician lives next door to us.
 noun,Urteil,"judgement, sentence","das Urteil, -e",Dein Urteil ist für mich sehr wichtig.,Your judgment is very important to me.,Das Urteil des Gerichts erscheint mir zu hart.,The court's judgment seems too harsh to me.
 noun,Verlust,loss,"der Verlust, -e",Der Verlust meiner Uhr ärgert mich sehr.,I am very upset about losing my watch.
+noun,Gaststätte,restaurant,"die Gaststätte, -n (D)",Ich arbeite seit einem Monat in einer Gaststätte.,I have been working in a restaurant for a month.
 noun,Schulter,shoulder,"die Schulter, -n",Ich habe Schmerzen in der rechten Schulter.,I have pain in my right shoulder.
 noun,Unterricht,lesson,der Unterricht (Sg.),Der Unterricht dauert von 17 bis 19 Uhr.,The lessons last from 5 to 7 pm.
 noun,Fett,fat,"das Fett, -e",Man soll nicht so viel Fett essen.,You shouldn't eat so much fat.
@@ -561,6 +583,8 @@ noun,Miete,rent,"die Miete, -n",Unsere Miete ist sehr hoch.,Our rent is very hig
 noun,Training,training,"das Training, -s",Jeden Dienstag ist Training.,Training is every Tuesday.,Ich gehe jede Woche zum Training.,I go to training every week.
 noun,Suppe,soup,"die Suppe, -n",Schmeckt dir die Suppe?,Do you like the soup?
 noun,Sitz,seat,"der Sitz, -e",Ich suche für meinen Sohn einen Sitz fürs Auto. Erst ist erst drei Jahre alt.,I am looking for a car seat for my son. He is only three years old.
+noun,Zivilstand,marital status,"der Zivilstand (CH) 
+→ Personenstand; D, A: Familienstand",Bei „Zivilstand“ musst du „ledig“ ankreuzen.,"You must check ""single"" under ""Marital status""."
 noun,Vorteil,advantage,"der Vorteil, -e","Der Vorteil von dieser Wohnung ist, dass sie direkt im Zentrum liegt.",The advantage of this apartment is that it is located right in the center.
 noun,Stern,star,"der Stern, -e",Heute sieht man viele Sterne am Himmel.,Today you can see many stars in the sky.
 noun,Wirklichkeit,reality,"die Wirklichkeit, -en",Das Buch beschreibt die Wirklichkeit um 1900 sehr gut.,The book describes the reality around 1900 very well.,"Man sagte mir, das Buch kostet nur 9 Euro. In Wirklichkeit kostet es 14 Euro.","I was told that the book only costs 9 euros. In reality, it costs 14 euros."
@@ -575,6 +599,8 @@ noun,Dusche,shower,"die Dusche, -n",Wir haben leider nur noch ein Zimmer mit Dus
 noun,"Mitarbeiter, Mitarbeiterin",employee,"der Mitarbeiter, - 
 die Mitarbeiterin, -nen",Unsere Firma hat sieben Mitarbeiter.,Our company has seven employees.
 noun,Fieber,fever,das Fieber,Plötzlich habe ich hohes Fieber bekommen.,Suddenly I got a high temperature.
+noun,Kloß,dumpling,"der Kloß, ¨-e (D) 
+→ D, A: Knödel","Möchten Sie zum Fleisch Kartoffeln oder Klöße? – Klöße, bitte.",Would you like potatoes or dumplings with your meat?
 noun,Ausweis,identification,"der Ausweis, -e",Darf ich mal Ihren Ausweis sehen?,May I see your ID?
 noun,Sport,sport,"der Sport, -e",Für Sport interessiere ich mich sehr.,I am very interested in sport.,Ich mache viel Sport.,I do a lot of sport.
 noun,Text,text,"der Text, -e",Lesen Sie den Text.,Read the text.
@@ -582,12 +608,16 @@ noun,Staub,dust,"der Staub, -e/¨-e",Ich habe überall Staub gewischt.,I dusted 
 noun,Auftritt,"performance, appearance","der Auftritt, -e",Nach dem Auftritt feiern die Musiker.,The musicians celebrate after the performance.
 noun,Gegner,opponent,"der Gegner, -",Sie ist eine Gegnerin von Tierversuchen.,She is an opponent of animal testing.,Die Mannschaft aus Frankreich war ein sehr starker Gegner.,The team from France was a very strong opponent.
 noun,Wunde,wound,"die Wunde, -n",Die Wunde müssen wir sofort verbinden.,We have to dress the wound immediately.
+noun,"Profisportler, Profisportlerin",professional sportsman/sportswoman,"der Profisportler, - 
+die Profisportlerin, -nen",Mein Sohn möchte Profisportler werden.,My son wants to become a professional athlete.
 noun,Linie,line,"die Linie, -n",Zum Hauptbahnhof können Sie mit der Linie 8 fahren.,You can take line 8 to the main station.
 noun,Bauer,farmer,"der Bauer, -n",Wir kaufen unser Gemüse beim Bauern.,We buy our vegetables from the farmer.
 noun,Kreuz,cross,"das Kreuz, -e",Was bedeutet dieses Kreuz hier?,What does this cross here mean?
 noun,"Spieler, Spielerin",player,"der Spieler, - 
 die Spielerin, -nen",Für dieses Spiel braucht man zwei bis vier Spieler.,You need two to four players for this game.,Beim Fußball gibt es elf Spieler.,There are eleven players in soccer.
 noun,Verabredung,appointment,"die Verabredung, -en",Ich habe um 15 Uhr eine Verabredung mit Klaus.,I have an appointment with Klaus at 3 pm.
+noun,"Migrant, Migrantin",migrant,"der Migrant, -en 
+die Migrantin, -nen",Viele Migranten kommen aus Osteuropa.,Many migrants come from Eastern Europe.
 noun,Schild,"sign, label, tag","das Schild, -er","Kannst du lesen, was dort auf dem Schild steht?",Can you read what it says on the sign?,Machen Sie bitte das Schild ab? Der Pullover ist ein Geschenk.,Could you please take the tag off? The sweater is a gift.
 noun,Kühlschrank,refrigerator,"der Kühlschrank, ¨-e",Stell die Milch in den Kühlschrank!,Put the milk in the fridge!
 noun,Start,start,"der Start, -s",Bleiben Sie bitte während des Starts sitzen.,Please remain seated during take-off.
@@ -610,6 +640,7 @@ noun,Technik,"technology, technique","die Technik, -en",Ich verstehe nicht viel 
 noun,Anzeige,"display, advertisement, (criminal) report","die Anzeige, -n","Ich habe alle Anzeigen gelesen, aber die Wohnungen sind zu teuer.","I have read all the ads, but the apartments are too expensive.","Hier dürfen Sie nicht parken, sonst bekommen Sie eine Anzeige.","You are not allowed to park here, otherwise you will be reported to the police."
 noun,Ergebnis,result,"das Ergebnis, -se",Ein so gutes Ergebnis hat uns alle überrascht.,We were all surprised by such a good result.
 noun,Eile,"haste, hurry",die Eile (Sg.),Ich bin sehr in Eile,I am in a great hurry,Das hat keine Eile.,There's no hurry.
+noun,Migration,migration,"die Migration, -en",Gestern gab es im Fernsehen eine Diskussion zum Thema Migration.,Yesterday there was a discussion on TV about migration.
 noun,Ware,goods,"die Ware, -n",Wir liefern Ihnen die Ware direkt ins Haus.,We deliver the goods directly to your home.
 noun,Figur,"figure, shape","die Figur, -en",Lars hat eine gute Figur.,Lars has a good figure.,Bei diesem Spiel hat jeder Spieler vier Figuren.,"In this game, each player has four figures."
 noun,Material,material,"das Material, -en",Aus welchem Material ist der Schrank? – Aus Holz.,What material is the cabinet made of? - Wood.
@@ -645,6 +676,7 @@ noun,Prüfung,"examination, test","die Prüfung, -en",Mein Freund hat die Prüfu
 noun,Versicherung,insurance,"die Versicherung, -en",Sie sollten eine Versicherung für Ihr Gepäck abschließen.,You should take out insurance for your luggage.,Sie müssen den Unfall der Versicherung melden.,You must report the accident to the insurance company.
 noun,"Ehefrau, Ehemann","wife, husband","die Ehefrau, -en
 der Ehemann, ¨-er",Wie heißt Ihre Ehefrau mit Vornamen?,What is your wife's first name?
+noun,Girokonto,current account,"das Girokonto, -en",Mein Girokonto kostet gar nichts.,My current account costs nothing.
 noun,"Reporter, Reporterin",reporter,"der Reporter, - 
 die Reporterin, -nen",Die Reporterin macht gerade ein Interview.,The reporter is doing an interview.
 noun,Bibliothek,library,"die Bibliothek, -en",Die Stadtbibliothek hat bereits geschlossen.,The city library is already closed.
@@ -655,6 +687,8 @@ noun,Vergleich,comparison,"der Vergleich, -e",Ein Vergleich ist schwer möglich.
 noun,Laune,mood,"die Laune, -n","Heute geht es mir besser, aber gestern hatte ich richtig schlechte Laune.","I'm feeling better today, but yesterday I was in a really bad mood."
 noun,Puppe,doll,"die Puppe, -n",Unsere kleine Tochter bekommt zum Geburtstag eine Puppe.,Our little daughter is getting a doll for her birthday.
 noun,Übung,exercise,"die Übung, -en",Diese Übung war sehr schwer.,This exercise was very difficult.,Ich fahre nicht oft Auto. Mir fehlt die Übung.,I don't drive often. I don't get enough practice.
+noun,Versichertenkarte,insurance card,"die Versichertenkarte, -n (D) 
+→ A: e-card",Haben Sie Ihre Versichertenkarte dabei?,Do you have your insurance card with you?
 noun,Couch,couch,"die Couch, -s",Wir haben uns eine Couch und neue Sessel gekauft.,We bought a couch and new armchairs.
 noun,Ausdruck,expression,"der Ausdruck, ¨-e",1. Diesen Ausdruck habe ich noch nie gehört.,1 I have never heard this expression before.
 noun,Ausdruck,printout,"der Ausdruck, -e",2. Machen Sie doch bitte einen Ausdruck von der E-Mail.,2. please make a printout of the e-mail.
@@ -683,6 +717,8 @@ noun,Durst,thirst,der Durst (Sg.),Ich hole Ihnen etwas zu trinken. Sie haben sic
 noun,Stiefel,boot,"der Stiefel, -",Ich habe mir für den Winter ein Paar warme Stiefel gekauft.,I bought a pair of warm boots for the winter.
 noun,Hitze,heat,"die Hitze, -n",Gestern war eine schreckliche Hitze!,Yesterday was a terrible heat!
 noun,Spielzeug,toy,"das Spielzeug, -e",Zu Weihnachten wünschen sich die Kinder vor allem Spielzeug.,Children mainly want toys for Christmas.
+noun,Velo,bike,"das Velo, -s (CH) 
+→ Fahrrad; D, A: Rad",Sie fährt jeden Morgen mit dem Velo zur Arbeit.,She rides her bike to work every morning.,Am Sonntag fahren wir oft Velo.,We often go cycling on Sundays.
 noun,Wolle,wool,"die Wolle, -n",Dieser Pullover ist aus reiner Wolle.,This sweater is made from pure wool.
 noun,Zone,zone,"die Zone, -n",Hier können wir nicht fahren. Das ist eine Fußgängerzone.,We can't drive here. This is a pedestrian zone.
 noun,Paket,package,"das Paket, -e",Hast du das Paket zur Post gebracht?,Did you take the package to the post office?
@@ -700,6 +736,7 @@ noun,Flur,hallway,"der Flur, -e
 noun,Laster,"truck, vice","der Laster, -",Auf der Autobahn waren so viele Laster. Deshalb hat es so lange gedauert.,There were so many trucks on the highway. That's why it took so long.,Rauchen kann ein Laster sein.,Smoking can be a vice.
 noun,Motorrad,motorcycle,"das Motorrad, ¨-er",Oskar fährt jeden Tag mit dem Motorrad zur Arbeit.,Oskar rides his motorcycle to work every day.
 noun,Apartment,apartment,"das Apartment, -s",Wir haben ein Ferienapartment gemietet.,We rented a vacation apartment.
+noun,Ermäßigung,reduction,"die Ermäßigung, -en",Es gibt eine Ermäßigung für Kinder und Senioren.,There is a discount for children and senior citizens.
 noun,Fleck,stain,"der Fleck, -en",Du hast einen Fleck auf der Bluse.,You have a stain on your blouse.
 noun,Führerschein,driver's license,"der Führerschein, -e (D, A) 
 → CH: Führerausweis",Hast du einen Führerschein?,Do you have a driver's license?,Ich habe vor einem halben Jahr den Führerschein gemacht.,I got my driver's license six months ago.
@@ -716,6 +753,8 @@ die Trainerin, -nen",Ich finde unseren Trainer sehr nett.,I think our coach is v
 noun,Schuh,shoe,"der Schuh, -e",Die neuen Schuhe sind mir zu eng.,The new shoes are too tight for me.
 noun,Tradition,tradition,"die Tradition, -en",Eine große Hochzeit mit vielen Leuten ist bei uns Tradition.,A big wedding with lots of people is a tradition for us.
 noun,Fähigkeit,ability,"die Fähigkeit, -en","In seiner Position braucht man die Fähigkeit, andere zu überzeugen.","In your position, you need the ability to convince others.","Ich glaube, sie hat die Fähigkeit dazu.",I believe she has the ability to do so.
+noun,Führerausweis,driver's license,"der Führerausweis, -e (CH) 
+→ D, A: Führerschein",Hast du einen Führerausweis?,Do you have a driver's license?
 noun,Verständnis,understanding,das Verständnis (Sg.),Wir bitten um Ihr Verständnis.,We ask for your understanding.
 noun,Gewinn,"profit, prize","der Gewinn, -e",Ich habe bei einem Ratespiel mitgemacht. Der Hauptgewinn ist ein Auto.,I took part in a guessing game. The main prize is a car.
 noun,Modell,model,"das Modell, -e",Wie findest du dieses Auto? – Dieses Modell gefällt mir nicht.,What do you think of this car? - I don't like this model.
@@ -729,6 +768,7 @@ noun,Verkehr,traffic,der Verkehr (Sg.),Morgens ist hier immer viel Verkehr.,Ther
 noun,Generation,generation,"die Generation, -en",In diesem Haus wohnen drei Generationen zusammen.,Three generations live together in this house.
 noun,Ausnahme,exception,"die Ausnahme, -n",Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme.,Normally I have to work at the weekend. But today is an exception.
 noun,Herausforderung,challenge,"die Herausforderung, -en",Das Spiel ist eine Herausforderung.,The game is a challenge.
+noun,Mehrwertsteuer,value added tax (VAT),"die Mehrwertsteuer, -n",Die Mehrwertsteuer bei diesem Produkt beträgt 20 %.,The VAT rate for this product is 20%.
 noun,Tempo,speed,"das Tempo, -s",Hier darfst du nur Tempo 30 fahren.,You are only allowed to drive at 30 km/h here.,"Achtung, hier ist eine Tempo-30-Zone!","Attention, this is a 30 km/h zone!"
 noun,Tal,valley,"das Tal, ¨-er",Unser Dorf liegt in einem Tal.,Our village lies in a valley.
 noun,Ausflug,"excursion, trip","der Ausflug, ¨-e",Am Wochenende machen wir mit Freunden einen Ausflug nach Heidelberg.,We're going on a trip to Heidelberg with friends at the weekend.
@@ -739,6 +779,7 @@ noun,Abschied,"goodbye (to), farewell","der Abschied, -e (von + Dativ)",Der Absc
 noun,Amt,office,"das Amt, ¨-er",Das Arbeitsamt befindet sich neben dem Busbahnhof.,The employment office is located next to the bus station.
 noun,Beginn,beginning,der Beginn (Sg.),Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler.,"At the beginning of the lesson, the teacher welcomes her students."
 noun,Marke,"brand, mark","die Marke, -n",Ich brauche bitte fünf Briefmarken zu 1 Euro.,"I need five stamps at 1 euro, please.",Markenschuhe sind mir zu teuer.,Brand shoes are too expensive for me.
+noun,Verkehrszeichen,traffic sign,"das Verkehrszeichen, -",Meine Kinder lernen in der Schule gerade die Verkehrszeichen.,My children are learning the traffic signs at school.
 noun,Religion,religion,"die Religion, -en",Religion ist für manche Menschen sehr wichtig.,Religion is very important to some people.
 noun,Unterschrift,signature,"die Unterschrift, -en",Auf dem Schreiben fehlt die Unterschrift.,The signature is missing on the letter.
 noun,Eingang,entrance,"der Eingang, ¨-e",Das Gebäude hat zwei Eingänge.,The building has two entrances.,Der Eingang ist um die Ecke.,The entrance is around the corner.
@@ -749,6 +790,7 @@ noun,Krankenschwester,nurse (female),"die Krankenschwester, -n",Meine Cousine m�
 noun,Symbol,"symbol, icon","das Symbol, -e",Das Herz ist ein Symbol für die Liebe.,The heart is a symbol of love.,Auf dem Bildschirm finden Sie viele Symbole.,You will find many symbols on the screen.
 noun,Fahrzeug,vehicle,"das Fahrzeug, -e",Wem gehört das Fahrzeug?,Who owns the vehicle?
 noun,Tropfen,drops,die Tropfen (Pl.),Hast du die Tropfen schon genommen?,Have you already taken the drops?,Wegen der paar Regentropfen brauchst du doch keinen Schirm.,You don't need an umbrella because of a few raindrops.
+noun,Weiterbildung,further training,"die Weiterbildung, -en",Ich möchte eine Weiterbildung machen.,I would like to do further training.
 noun,Café,café,"das Café, -s",Hier in der Nähe ist ein Café. Lass uns einen Kaffee trinken.,There's a café nearby. Let's have a coffee.
 noun,Aktion,"action, campaign, initiative","die Aktion, -en",Die Stadt sollte eine Aktion für Familien planen.,The city should plan a campaign for families.
 noun,Apparat,apparatus,"der Apparat, -e",Können Sie den Apparat bitte etwas leiser stellen?,Can you please turn the volume down a little?,Wo ist mein Fotoapparat?,Where is my camera?
@@ -758,6 +800,7 @@ noun,Einbruch,"burglary, break in","der Einbruch, ¨-e",In der Urlaubszeit gibt 
 noun,Kostüm,costume,"das Kostüm, -e",In dem Film tragen die Leute bunte Kostüme.,"In the film, people wear colorful costumes."
 noun,Verspätung,delay,"die Verspätung, -en",Unser Zug hatte 10 Minuten Verspätung.,Our train was 10 minutes late.
 noun,Zelt,tent,"das Zelt, -e",Wir machen Camping-Urlaub und nehmen ein Zelt mit.,We go on a camping vacation and take a tent with us.
+noun,Kraftfahrzeug,motor vehicle,"das Kraftfahrzeug, -e",Auf dieser Straße sind Kraftfahrzeuge nicht erlaubt.,Motor vehicles are not permitted on this road.
 noun,Mannschaft,team,"die Mannschaft, -en",Unsere Mannschaft hat 0:1 verloren.,Our team lost 0:1.
 noun,Krise,crisis,"die Krise, -n",Die Wirtschaft steckt in einer schweren Krise.,The economy is in a serious crisis.
 noun,"Verlierer, Verliererin",loser,"der Verlierer, - 
@@ -776,6 +819,8 @@ noun,Praxis,consultation (hour),"die Praxis, Praxen
 → A: Ordination",Die Arztpraxis bleibt bis zum 7. Januar geschlossen.,The doctor's office will remain closed until January 7.
 noun,Zentrum,center,"das Zentrum, Zentren",Im Zentrum gibt es fast keine Parkplätze.,There are almost no parking spaces in the center.,Es gibt ein neues Zentrum mit vielen Geschäften. Es wird am Samstag eröffnet.,There is a new center with many stores. It opens on Saturday.
 noun,Entfernung,distance,"die Entfernung, -en",Aus dieser Entfernung ist das nicht zu erkennen.,This cannot be seen from this distance.
+noun,"Prkatikant, Praktikantin","intern, trainee","der Praktikant, -en 
+die Praktikantin, -nen",Bei dieser Firma habe ich zwei Jahre als Praktikantin gearbeitet.,I worked at this company for two years as an intern.
 noun,Bargeld,cash,"das Bargeld, -er",Ich habe kein Bargeld mehr.,I have no more cash.
 noun,Kissen,pillow,"das Kissen, -",Ohne Kopfkissen kann ich nicht schlafen.,I can't sleep without a pillow.
 noun,Salat,salad,"der Salat, -e",Möchten Sie zum Fisch einen Salat?,Would you like a salad with your fish?
@@ -788,6 +833,8 @@ noun,(Back-)Ofen,(baking) oven,"der (Back-)Ofen, ¨- (D, CH)
 noun,Lohn,"wage, salary","der Lohn, ¨-e",Sie bekommen Ihren Lohn immer am Ende des Monats.,You always receive your salary at the end of the month.,Die Löhne sind hier sehr niedrig.,Wages are very low here.
 noun,Stufe,"step, level, stage","die Stufe, -n","Vorsicht, Stufe!","Careful, step!",Die Volkshochschule bietet Sprachkurse auf verschiedenen Stufen an.,The adult education center offers language courses at various levels.
 noun,Spaziergang,walk,"der Spaziergang, ¨-e",Abends mache ich oft einen Spaziergang durch das Viertel.,I often take a walk through the neighborhood in the evening.
+noun,Ordination,consultation (hour),"die Ordination, -en (A) 
+→ Praxis",Die Ordination bleibt bis zum 7. Jänner geschlossen.,The consultation will remain closed until January 7th.
 noun,Zettel,"note, piece of paper","der Zettel, -",Hast du einen Zettel für mich? Ich muss etwas aufschreiben.,Do you have a piece of paper for me? I need to write something down.
 noun,Medien,media,die Medien (Pl.),Umweltschutz ist in den Medien ein großes Thema.,Environmental protection is a major topic in the media.
 noun,Leistung,"performance, achievement","die Leistung, -en",Meine Leistungen in der Schule sind ganz gut.,My performance at school is quite good.
@@ -845,6 +892,7 @@ noun,Zusammenhang,"context, connection","der Zusammenhang, ¨-e",In diesem Zusam
 noun,Nadel,needle,"die Nadel, -n",Hast du eine Nadel für mich? Ich muss einen Knopf annähen.,Do you have a needle for me? I need to sew on a button.
 noun,Apfel,apple,"der Apfel, ¨-",Zum Frühstück esse ich jeden Tag einen Apfel.,I eat an apple for breakfast every day.
 noun,Notaufnahme,emergency room,"die Notaufnahme, -n",Die Notaufnahme ist gleich hier links.,The emergency room is right here on the left.
+noun,Tierpark,zoo,"der Tierpark, -s",Wollen wir am Samstag mit den Kindern in den Tierpark gehen?,Shall we take the children to the zoo on Saturday?
 noun,Trinkgeld,tip,"das Trinkgeld, -er",Ich habe dem Kellner zwei Euro Trinkgeld gegeben.,I tipped the waiter two euros.
 noun,Datum,date,"das Datum, die Daten",Welches Datum haben wir heute?,What is today's date?,Bitte Datum und Unterschrift nicht vergessen.,Please do not forget date and signature.,Ich brauche noch ein paar Daten von Ihnen.,I need a few more details from you.
 noun,Rasen,lawn,"der Rasen, -",Bitte den Rasen nicht betreten!,Please do not walk on the lawn!
@@ -933,6 +981,8 @@ noun,Honig,honey,der Honig (Sg.),Ich esse gern Brötchen mit Honig und Butter zu
 noun,Feuerwehr,fire department,"die Feuerwehr, -en",Schnell! Rufen Sie die Feuerwehr! Die Nummer ist: 112.,Quickly! Call the fire department! The number is: 112.
 noun,"Vertreter, Vertreterin",representative,"der Vertreter, - 
 die Vertreterin, -nen","Als Herr Dr. Müller in Urlaub war, bin ich zu seiner Vertreterin gegangen.","When Dr. Müller was on vacation, I went to see his deputy.",Die Elternvertreter treffen sich morgen Abend in der Schule.,The parent representatives will meet tomorrow evening at the school.
+noun,Aprikose,apricot,"die Aprikose, -n (D, CH) 
+→ A: Marille",Schmecken dir die Aprikosen?,Do you like the apricots?
 noun,"Hausmeister, Hausmeisterin","caretaker, janitor","der Hausmeister, - 
 die Hausmeisterin, -nen (D, A) 
 → CH: Abwart","Der Hausmeister hat mir geholfen, den Schrank in die Wohnung zu tragen.",The janitor helped me carry the cupboard into the apartment.
@@ -941,6 +991,9 @@ noun,Schein,bill,"der Schein, -e",Kannst du einen Schein in Kleingeld wechseln?,
 noun,Mangel,"defect, shortage","der Mangel, ¨-",In dieser Stadt gibt es einen großen Mangel an Wohnungen.,There is a great shortage of apartments in this city.,Die Maschine hat technische Mängel.,The machine has technical defects.
 noun,Hobby,hobby,"das Hobby, -s",Ich habe keine Zeit mehr für meine Hobbys.,I no longer have time for my hobbies.
 noun,Ernte,harvest,"die Ernte, -n",Die Ernte ist dieses Jahr gut.,The harvest is good this year.
+noun,"Abwart, Abwartin",caretaker,"der Abwart, -e 
+die Abwartin, -nen (CH) 
+-> D, A: Hausmeister","Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.",The caretaker helped me carry the cupboard into the apartment.
 noun,Kennzeichen,license plate,"das Kennzeichen, -",Das Auto hat ein Schweizer Kennzeichen.,The car has a Swiss license plate.
 noun,Dose,"can, tin","die Dose, -n 
 → D, CH: Büchse",Ich habe noch eine Dose Bohnen.,I still have a tin of beans.
@@ -948,11 +1001,15 @@ noun,Wärme,heat,"die Wärme, -n",Wärme ist gut gegen meine Schmerzen.,Heat is 
 noun,Magazin,magazine,"das Magazin, -e",Jugendliche lesen dieses Magazin gern.,Young people enjoy reading this magazine.
 noun,Nagel,nail,"der Nagel, ¨-",Kannst du mir den Nagel in die Wand schlagen?,Can you hammer the nail into the wall for me?,Ich muss mir die Fingernägel schneiden.,I have to cut my fingernails.
 noun,Lehre,"teaching, apprenticeship","die Lehre, -n",Mein Cousin will eine dreijährige Lehre machen.,My cousin wants to do a three-year apprenticeship.
+noun,Marille,apricot,"die Marille, -n (A) 
+→ D, CH: Aprikose",Schmecken dir die Marillen?,Do you like the apricots?
 noun,Produktion,production,"die Produktion, -en",Die Produktion von Käse dauert oft viele Wochen.,The production of cheese often takes many weeks.
 noun,Bedarf,demand,"der Bedarf, -e",An diesem Produkt besteht großer Bedarf.,There is great demand for this product.
 noun,Inhalt,contents,"der Inhalt, -e",Geben Sie den Inhalt der Packung in einen Liter kochendes Wasser.,Add the contents of the packet to one liter of boiling water.
 noun,Messe,"fair, show","die Messe, -n",Kommst du mit zur Automobilmesse?,Are you coming to the motor show?,Vielleicht kann ich auf der Messe einen Job bekommen.,Maybe I can get a job at the fair.
+noun,Pommes frites,french fries,die Pommes frites (Pl.),Die Kinder essen gern Würstchen mit Pommes frites.,The children like to eat sausages with chips.
 noun,Bestätigung,confirmation,"die Bestätigung, -en",Ich brauche eine schriftliche Bestätigung für das Amt.,I need a written confirmation for the office.
+noun,Lehrstelle,apprenticeship,"die Lehrstelle, -n",Es sind noch viele Lehrstellen frei.,There are still many apprenticeships available.
 noun,Ingenieur,engineer,"der Ingenieur, -e",Hans will Bauingenieur werden.,Hans wants to become a civil engineer.
 noun,Zustimmung,"consent, approval","die Zustimmung, -en","Wir brauchen Ihre Zustimmung, um Ihnen Werbung zu schicken.",We need your consent to send you advertising.
 noun,Dokument,document,"das Dokument, -e",Hast du alle Dokumente für die Anmeldung dabei?,Do you have all the documents you need for registration?,Dieser Stein ist ein wichtiges Dokument für die alte römische Kultur.,This stone is an important document of ancient Roman culture.
@@ -1028,6 +1085,8 @@ noun,Diät,diet,"die Diät, -en",Ich möchte abnehmen. Deshalb mache ich eine Di
 noun,Kneipe,pub,"die Kneipe, -n (D)",Gehen wir noch in eine Kneipe ein Bier trinken?,Shall we go to a pub for a beer?
 noun,Apotheke,pharmacy,"die Apotheke, -n",Ist hier in der Nähe eine Apotheke?,Is there a pharmacy nearby?
 noun,Enttäuschung,disappointment,"die Enttäuschung, -en",Das Endspiel war eine große Enttäuschung.,The final was a big disappointment.
+noun,Studierende,students,"der Studierende, -n 
+die Studierende, -n",Zehn Studierende besuchen das Seminar.,Ten students attend the seminar.
 noun,Unterkunft,accommodation,"die Unterkunft, ¨-e",Ich komme drei Tage nach Hamburg und suche eine günstige Unterkunft.,I'm coming to Hamburg for three days and am looking for cheap accommodation.,Ist dieser Preis inklusive Unterkunft und Essen?,Does this price include accommodation and food?
 noun,Tuch,"cloth, scarf","das Tuch, ¨-er",Wo hast du dieses schöne Tuch gekauft?,Where did you buy this beautiful scarf?,Die Handtücher sind im Schrank ganz oben.,The towels are in the cupboard at the top.,Hast du ein Taschentuch für mich?,Do you have a handkerchief for me?
 noun,Limonade,lemonade,"die Limonade, -n",Die Limonade ist sehr süß.,The lemonade is very sweet.
@@ -1039,6 +1098,9 @@ noun,Grippe,flu,"die Grippe, -n",Ich habe eine Grippe und kann leider nicht komm
 noun,(Back-)Rohr,(baking) oven,"das (Back-)Rohr, -e (A) 
 → D, CH: (Back-)Ofen",Ich habe gerade eine Pizza gemacht. Sie ist ganz frisch aus dem Rohr.,I've just made a pizza. It's fresh out of the oven.
 noun,Geschlecht,gender,"das Geschlecht, -er",Bitte kreuzen Sie an: „Geschlecht: weiblich/männlich“.,Please mark with a cross: "Gender: female/male".
+noun,"Coiffeur, Coiffeuse",hairdresser,"der Coiffeur, -e 
+die Coiffeuse, -n (CH) 
+→ D, A: Friseur",Du siehst toll aus! Wer ist dein Coiffeur?,You look great! Who is your hairdresser?,Meine Tochter will Coiffeuse werden.,My daughter wants to be a hairdresser.
 noun,Distanz,distance,"die Distanz, -en",Diese Firma transportiert Waren auch über große Distanzen.,This company also transports goods over long distances.
 noun,Empfehlung,recommendation,"die Empfehlung, -en",Ich rufe auf Empfehlung von Herrn Weber an.,I am calling on the recommendation of Mr. Weber.
 noun,Literatur,literature,"die Literatur, -en",Ich interessiere mich für Literatur.,I am interested in literature.
@@ -1056,6 +1118,8 @@ noun,Gewerkschaft,(trade) union,"die Gewerkschaft, -en",Die Gewerkschaft vertrit
 noun,Konflikt,conflict,"der Konflikt, -e",Das ist ein alter Konflikt.,This is an old conflict.,Ich habe einen Konflikt mit meinen Eltern.,I have a conflict with my parents.
 noun,"Sänger, Sängerin",singer,"der Sänger, - 
 die Sängerin, -nen",Wie findest du diesen Sänger? ? Ich finde seine Stimme toll.,What do you think of this singer? ? I think his voice is great.
+noun,Couvert,envelope,"das Couvert, -s (CH) 
+→ Briefumschlag; A: Kuvert",Ich hätte gern 50 Couverts und Briefmarken dazu.,I would like 50 envelopes and stamps.
 noun,Dessert,dessert,"das Dessert, -s 
 → D, A: Nachspeise",Nach dem Essen gab es noch ein leckeres Dessert.,"After the meal, there was a delicious dessert."
 noun,Rathaus,town hall,"das Rathaus, ¨-er",Hier links sehen Sie das Rathaus.,Here on the left you can see the town hall.,Die Wahl findet im Rathaus statt.,The election takes place in the town hall.
@@ -1077,8 +1141,12 @@ noun,Brötchen,rolls,"das Brötchen, - (D)
 → A: Semmel; CH: Brötli",Ich hole schnell ein paar Brötchen zum Frühstück.,I quickly grab a few rolls for breakfast.
 noun,Haushalt,household,"der Haushalt, -e","Ich kümmere mich um den Haushalt, d. h. ich putze, wasche, koche etc.","I take care of the household, i.e. I clean, wash, cook, etc."
 noun,Zeitschrift,magazine,"die Zeitschrift, -en",Diese Zeitschrift kaufe ich jede Woche.,I buy this magazine every week.
+noun,Brötli,rolls,"das Brötli, - (CH) 
+→ D: Brötchen; A: Semmel",Ich hole schnell ein paar Brötli zum Frühstück.,I quickly grab a few rolls for breakfast.
 noun,Taschentuch,handkerchief,"das Taschentuch, ¨-er",Hast du ein Taschentuch für mich?,Do you have a handkerchief for me?
 noun,Tennis,tennis,das Tennis (Sg.),Ich spiele gern Tennis.,I like playing tennis.
+noun,Kuvert,envelope,"das Kuvert, -s (A) 
+→ der Briefumschlag; CH: Couvert",Ich hätte gern 50 Kuverts und Briefmarken dazu.,I would like 50 envelopes and stamps.
 noun,Kreuzung,"crossing, intersection","die Kreuzung, -en",Fahren Sie an der nächsten Kreuzung rechts.,Turn right at the next intersection.
 noun,Bildschirm,screen,"der Bildschirm, -e",Ich brauche einen größeren Bildschirm für meinen Computer.,I need a larger screen for my computer.,Wir haben einen Fernsehapparat mit einem sehr großen Bildschirm.,We have a TV with a very large screen.
 noun,Geschirr,"tableware, dishes","das Geschirr, -e",Für die Geburtstagsfeier brauche ich Geschirr für zwölf Personen.,I need crockery for twelve people for the birthday party.
@@ -1088,6 +1156,8 @@ noun,Feuerzeug,lighter,"das Feuerzeug, -e",Ist das Feuerzeug neu?,Is the lighter
 noun,Strafzettel,parking ticket,"der Strafzettel, -",So ein Pech! Ich habe einmal falsch geparkt und sofort einen Strafzettel bekommen.,What bad luck! I parked incorrectly once and immediately got a parking ticket.
 noun,Lebenslauf,curriculum vitae,"der Lebenslauf, ¨-e",Hast du den Lebenslauf für die Bewerbung schon geschrieben?,Have you already written your CV for the application?
 noun,Anrufbeantworter,answering machine,"der Anrufbeantworter, -",Ich habe dir eine Nachricht auf den Anrufbeantworter gesprochen.,I left you a message on the answering machine.
+noun,Semmel,(bread etc.) roll,"die Semmel, -n (A) 
+→ D: Brötchen; CH: Brötli",Ich hole schnell ein paar Semmeln zum Frühstück.,I quickly grab a few rolls for breakfast.
 noun,Rücksicht,consideration,"die Rücksicht, -en",Nehmen Sie bitte Rücksicht auf die anderen Gäste.,Please be considerate of the other guests.
 noun,Pullover,sweater,"der Pullover, -",Ich habe mir einen Pullover gekauft.,I bought myself a sweater.
 noun,"Beamte, Beamtin",civil servant,"der Beamte, -n 
@@ -1106,6 +1176,8 @@ noun,Landschaft,landscape,"die Landschaft, -en",Die Landschaft ist sehr hügelig
 noun,Veranstaltung,event,"die Veranstaltung, -en",Am Samstag ist unser Lokal geschlossen. Wir haben eine Veranstaltung.,Our restaurant is closed on Saturday. We have an event.
 noun,Regal,shelf,"das Regal, -e",Das Buch steht im Regal oben rechts.,The book is on the top right-hand shelf.
 noun,Friede,peace,"der Friede/Frieden, -",Endlich ist hier Frieden!,Peace at last!
+noun,(Schlag-)Rahm,(whipped) cream,"der (Schlag-)Rahm (CH) 
+→ D: (Schlag-)Sahne, A: (Schlag-)Obers",Ich hätte gern ein Stück Torte mit (Schlag-)Rahm.,I would like a piece of cake with whipped cream.
 noun,Zinsen,interest,die Zinsen (Pl.),Wie viele Zinsen bekomme ich für mein Sparkonto?,How much interest will I receive on my savings account?
 noun,Umzug,"move, relocation","der Umzug, ¨-e",Der Umzug ist nächste Woche.,The move is next week.
 noun,Birne,pear,"die Birne, -n",Möchten Sie Obst? Die Birnen sind heute besonders schön.,Would you like some fruit? The pears are particularly beautiful today.
@@ -1148,6 +1220,8 @@ noun,Reihenfolge,"order, sequence","die Reihenfolge, -n",Achten Sie auf die Reih
 noun,Ballett,ballet,"das Ballett, -e",Meine Tochter möchte gern Ballett tanzen.,My daughter would like to dance ballet.
 noun,Behörde,authority,"die Behörde, -n",Sie erhalten ein Schreiben von der zuständigen Behörde.,You will receive a letter from the competent authority.
 noun,Orchester,orchestra,"das Orchester, -",Auf unserer Hochzeit hat ein kleines Orchester gespielt.,A small orchestra played at our wedding.
+noun,(Schlag-)Obers,(whipped) cream,"der/das (Schlag-)Obers (A)
+→ D: (Schlag-)Sahne; CH: (Schlag-)Rahm",Ich hätte gern ein Stück Torte mit Schlagobers.,I would like a piece of cake with whipped cream.
 noun,Verwaltung,administration,"die Verwaltung, -en",Sprechen Sie bitte mit der Verwaltung. Die können Ihnen helfen.,Please speak to the administration. They can help you.
 noun,Getränk,beverage,"das Getränk, -e",Besorgst du bitte die Getränke?,"Can you get the drinks, please?",Bitte die Getränkekarte!,The drinks menu please!,Mein Lieblingsgetränk ist Tomatensaft.,My favorite drink is tomato juice.
 noun,"Hörer, Hörerin",listener,"der Hörer, -
@@ -1158,6 +1232,8 @@ noun,Ober,waiter,"der Ober, - (D, A)
 noun,Monitor,monitor,"der Monitor, -e",Ich habe mir einen größeren Monitor gekauft. Das ist besser für meine Augen.,I bought a larger monitor. It's better for my eyes.
 noun,Frucht,fruit,"die Frucht, ¨-e",Welche Früchte kann man essen?,Which fruits can you eat?
 noun,Gabel,fork,"die Gabel, -n",Wir brauchen bitte noch eine Gabel.,"We need another fork, please."
+noun,Fauteuil,armchair,"der Fauteuil, -s (A, CH) 
+→ D, CH: Sessel",Ich hätte gern einen bequemen Fauteuil.,I would like a comfortable armchair.
 noun,Ratschlag,advice,"der Ratschlag, ¨-e",Meine Tochter nimmt meine Ratschläge nicht an.,My daughter doesn't take my advice.
 noun,Eröffnung,opening,"die Eröffnung, -en",Die Eröffnung der neuen Oper ist am 1. Juni.,The opening of the new opera house is on June 1.
 noun,Grill,grill,"der Grill, -s",Kannst du mir deinen Grill leihen? Wir wollen am Wochenende ein Picknick machen.,Can you lend me your barbecue? We want to have a picnic at the weekend.
@@ -1167,6 +1243,9 @@ noun,Kündigung,"termination, notice","die Kündigung, -en",Ich habe die Kündig
 noun,Präsentation,presentation,"die Präsentation, -en",Die Schülerin hat für ihre Präsentation eine gute Note bekommen.,The student received a good grade for her presentation.
 noun,Vermittlung,"mediation, agency","die Vermittlung, -en",Du suchst ein Zimmer? Dann frag bei der Vermittlung am Bahnhof nach.,Are you looking for a room? Then ask at the agency at the station.,Rufen Sie die Vermittlung an und fragen Sie nach der Telefonnummer von Herrn Fischer.,Call the operator and ask for Mr. Fischer's telephone number.
 noun,Zahnbürste,toothbrush,"die Zahnbürste, -n",Ich brauche eine neue Zahnbürste.,I need a new toothbrush.
+noun,Serviceangestellte,service employee,"der Serviceangestellte, -n 
+die Serviceangestellte, -n (CH) 
+→ Kellner; D, A: Ober",Ich bin Serviceangestellte von Beruf.,I am a service employee by profession.
 noun,Vorwurf,"reproach, accusation","der Vorwurf, ¨-e",Eva kann nichts dafür. Mach ihr keine Vorwürfe.,It's not Eva's fault. Don't blame her.
 noun,"Teilnehmer, Teilnehmerin",participant,"der Teilnehmer, - 
 die Teilnehmerin, -nen",Die Teilnehmerinnen aus unserem Kurs kommen aus verschiedenen Ländern.,The participants in our course come from different countries.
@@ -1174,6 +1253,7 @@ noun,Langeweile,boredom,die Langeweile (Sg.),Es ist aus Langeweile eingeschlafen
 noun,Haustier,pet,"das Haustier, -e","Hat deine Familie ein Haustier? ? Ja, wir haben einen Hund.","Does your family have a pet? ? Yes, we have a dog."
 noun,Fernbedienung,remote control,"die Fernbedienung, -en",Hast du die Fernbedienung gesehen?,Have you seen the remote control?
 noun,Banane,banana,"die Banane, -n","1 Kilo Bananen, bitte.","1 kilo of bananas, please."
+noun,Zahncreme/-pasta,toothpaste,"die Zahncreme/-pasta, -s/-pasten",Die neue Zahncreme riecht sehr gut.,The new toothpaste smells very good.
 noun,Terrasse,terrace,"die Terrasse, -n",Setzen wir uns auf die Terrasse!,Let's sit on the terrace!
 noun,"Sekretär, Sekretärin",secretary,"der Sekretär, -e 
 die Sekretärin, -nen",Der neue Sekretär hat sich gestern vorgestellt.,The new secretary introduced himself yesterday.
@@ -1184,6 +1264,7 @@ noun,Briefkasten,mailbox,"der Briefkasten, ¨-",Ist hier in der Nähe ein Briefk
 noun,"Hausfrau, Hausmann","housewife, househusband","die Hausfrau, -en
 der Hausmann, ¨-er",ne Frau ist Hausfrau und kümmert sich um die Kinder.,ne wife is a housewife and looks after the children.,n Mann ist Hausmann und kümmert sich um die Kinder.,n husband is a househusband and looks after the children.
 noun,Reparatur,repair,"die Reparatur, -en",Eine Reparatur wäre zu teuer.,A repair would be too expensive.
+noun,Schreck(en),fright,"der Schreck(en), -en/-",Ich habe einen großen Schreck bekommen.,I got a big fright.
 noun,Vase,vase,"die Vase, -n",Hast du eine Vase für die Blumen?,Do you have a vase for the flowers?
 noun,Mehrheit,majority,"die Mehrheit, -en",Die Mehrheit der Menschen in Deutschland besitzt ein Handy.,The majority of people in Germany own a cell phone.
 noun,Vorstellungsgespräch,job interview,"das Vorstellungsgespräch, -e",Wann hast du dein Vorstellungsgespräch?,When do you have your interview?
@@ -1197,6 +1278,7 @@ noun,Gratulation,congratulations,"die Gratulation, -en",Herzliche Gratulation! S
 noun,Marmelade,jam,"die Marmelade, -n (D, A)",Bring bitte noch ein Glas Marmelade mit.,Please bring a jar of jam.
 noun,Zitrone,lemon,"die Zitrone, -n",Ich hätte gern einen Tee mit Zitrone.,I would like a tea with lemon.
 noun,Phantasie/Fantasie,"fantasy, imagination","die Phantasie/Fantasie, -n",Mein Sohn malt sehr gut. Er hat viel Phantasie.,My son draws very well. He has a lot of imagination.
+noun,Geschwindigkeitsbeschränkung,speed limit,"die Geschwindigkeitsbeschränkung, -en",Bitte beachten Sie die Geschwindigkeitsbeschränkungen.,Please observe the speed limits.
 noun,Pflaster,plaster,"das Pflaster, -",Hast du ein Pflaster? Ich habe mich geschnitten.,Do you have a plaster? I've cut myself.
 noun,Ampel,traffic light,"die Ampel, -n",Dort an der Ampel kannst du über die Straße gehen.,You can cross the road there at the traffic lights.
 noun,Portion,portion,"die Portion, -en","Bitte, eine große Portion Sahne!","Please, a large portion of cream!"
@@ -1232,6 +1314,8 @@ noun,Portemonnaie/Portmonee,"wallet, purse","das Portemonnaie/Portmonee, -s (D, 
 → Brieftasche; A: Geldbörse",Ich habe nur Kleingeld in meinem Portemonnaie.,I only have small change in my wallet.
 noun,Wiese,meadow,"die Wiese, -n",Vor unserem Haus ist eine Wiese mit Bäumen.,There is a meadow with trees in front of our house.
 noun,Pfeffer,pepper,"der Pfeffer, -",Bringen Sie uns bitte Pfeffer und Salz.,Please bring us pepper and salt.
+noun,Billett,ticket,"das Billett, -e/-s 
+→ D, A: Fahrkarte",Ein Billett können Sie am Schalter kaufen.,You can buy a ticket at the ticket counter.
 noun,Stau,traffic jam,"der Stau, -s",Auf der A3 gibt es wegen eines Unfalls 5 km Stau.,There is a 5 km traffic jam on the A3 due to an accident.,Wir standen eine Stunde im Stau.,We were stuck in a traffic jam for an hour.
 noun,Praktikum,internship,"das Praktikum, Praktika",Ich mache diesen Sommer drei Monate ein Praktikum bei einer Firma.,I'm doing a three-month internship at a company this summer.
 noun,Metzger,butcher,"der Metzger, - 
@@ -1241,6 +1325,7 @@ noun,Bäckerei,bakery,"die Bäckerei, -en",Wir kaufen unser Brot immer in der B�
 noun,"Sportler, Sportlerin","sportsman, sportswoman","der Sportler, - 
 die Sportlerin, -nen",Sie ist eine gute Sportlerin.,She is a good sportswoman.
 noun,Ski/Schi,ski,"der Ski/Schi, -er/-",Gehen wir am Wochenende Ski laufen?,Are we going skiing at the weekend?,Das sind aber schöne Skier!,Those are beautiful skis!
+noun,Fortbildung,further training/education,"die Fortbildung, -en","Die Fortbildung, die ich machen will, ist sehr teuer.",The training I want to do is very expensive.
 noun,Bewerbung,application,"die Bewerbung, -en",Wohin soll ich meine Bewerbung schicken?,Where should I send my application?,Hilfst du mir bei meiner Bewerbung?,Can you help me with my application?
 noun,Protest,protest,"der Protest, -e",Alle Proteste haben nichts genützt.,All the protests have been to no avail.
 noun,Panne,breakdown,"die Panne, -n",Kurz vor München hatten wir eine Panne mit dem Auto.,Shortly before Munich we had a breakdown with the car.,"Die Reise war schlecht organisiert, es gab mehrere Pannen.",The trip was poorly organized and there were several breakdowns.
@@ -1249,6 +1334,7 @@ noun,Kompromiss,compromise,"der Kompromiss, -e",Alle wollen etwas anderes. Wir m
 noun,Industrie,industry,"die Industrie, -n",In dieser Gegend gibt es viel Industrie.,There is a lot of industry in this area.
 noun,Hähnchen/Hühnchen,chicken,"das Hähnchen/Hühnchen, - (D) 
 → A: Hend(e)l; Poulet, -s (CH)",Zum Mittagessen gibt es Hühnchen mit Reis.,For lunch we have chicken with rice.
+noun,Vermietung,"renting, leasing","die Vermietung, -en",Mit der Vermietung von Wohnungen kann man viel Geld verdienen.,You can earn a lot of money by renting out apartments.
 noun,"Handwerker, Handwerkerin",craftsman,"der Handwerker, - 
 die Handwerkerin, -nen",Morgen sind bei uns die Handwerker. Wir bekommen eine neue Badewanne.,The workmen will be here tomorrow. We're getting a new bathtub.
 noun,Pfanne,pan,"die Pfanne, -n (CH) 
@@ -1258,12 +1344,18 @@ noun,"Leser, Leserin",reader,"der Leser, -
 die Leserin, -nen",Die Leserinnen und Leser sind mit der Zeitung zufrieden.,Readers are satisfied with the newspaper.,Ich werde einen Leserbrief schreiben.,I will write a letter to the editor.
 noun,Lift,elevator,"der Lift, -e 
 → D, A: Aufzug",Im Büro ist leider der Lift kaputt.,"Unfortunately, the elevator in the office is broken."
+noun,"Fleischhauer, Fleischauerin",butcher,"der Fleischhauer, - 
+die Fleischhauerin, -nen (A) 
+→ Metzger",Dieser Fleischhauer macht sehr gute Wurst.,This butcher makes very good sausage.
 noun,Beratung,"advice, counselling","die Beratung, -en",Beratungen für Familien gibt es jeden Dienstag zwischen 14 und 16 Uhr.,Advice for families is available every Tuesday between 2 and 4 pm.
 noun,Rabatt,discount,"der Rabatt, -e",Sie bekommen zehn Prozent Rabatt.,You get a ten percent discount.
+noun,Hend(e)l,chicken,"das Hend(e)l, - (A) 
+→ D: Hähnchen/Hühnchen; CH: Poulet",Zum Mittagessen gibt es Hendl mit Reis.,For lunch we have chicken with rice.
 noun,Spielplatz,playground,"der Spielplatz, ¨-e",Die Kinder sind auf dem Spielplatz.,The children are in the playground.
 noun,"Pfleger, Pflegerin",caregiver,"der Pfleger, - 
 die Pflegerin, -nen",Meine Freundin ist Pflegerin in einem Altersheim.,My friend is a carer in a retirement home.
 noun,Einfahrt,"(car) entrance, driveway","die Einfahrt, -en",Da parkt wieder jemand vor unserer Einfahrt.,Someone parks in front of our driveway again.,Können Sie nicht lesen: Einfahrt freihalten!,Can you not read? Keep driveway clear!
+noun,Suchtmittel,addictive substances,"das Suchtmittel, -",Manche Medikamente sind auch Suchtmittel.,Some drugs are also addictive.
 noun,Durchschnitt,average,"der Durchschnitt, -e",Der Durchschnitt der Ausgaben liegt bei 150 Euro im Monat.,The average expenditure is 150 euros per month.,Im Durchschnitt brauchen wir täglich 20 Minuten zur Arbeit.,"On average, we need 20 minutes a day to get to work.",Die Studentin gehört zum Durchschnitt.,The student is average.
 noun,Empfänger,"recipient, reciever","der Empfänger, -",Es fehlt die genaue Adresse des Empfängers.,The recipient's exact address is missing.
 noun,Klick,click,"der Klick, - s","Um das Wort zu markieren, genügt ein Doppelklick mit der linken Maustaste.","To select the word, simply double-click with the left mouse button."
@@ -1271,10 +1363,14 @@ noun,Heimweh,homesickness,"das Heimweh, -e",Ich habe oft Heimweh nach meiner Fam
 noun,Treppenhaus,stairwell,"das Treppenhaus, ¨-er (D, CH) -> A: Stiegenhaus",Im Treppenhaus ist kein Licht.,There is no light in the stairwell.
 noun,Gleis,"track, platform","das Gleis, -e",Der Zug fährt heute von Gleis 7 ab.,The train departs from platform 7 today.
 noun,Breite,width,"die Breite, -n","Welche Maße hat der Tisch? – Länge: 1 m, Breite: 80 cm, Höhe: 1,20 m.","What are the dimensions of the table? - Length: 1 m, width: 80 cm, height: 1.20 m."
+noun,Poulet,chicken,"das Poulet, -s (CH) 
+→ D: Hähnchen/Hühnchen; A: Hend(e)l",Zum Mittagessen gibt es Poulet mit Reis.,For lunch we have chicken with rice.
 noun,Stecker,plug,"der Stecker, -",Der Stecker passt nicht in diese Steckdose.,The plug does not fit into this socket.
 noun,Konsulat,consulate,"das Konsulat, -e",Ein Visum bekommst du auch im Konsulat.,You can also get a visa at the consulate.
 noun,Taschengeld,pocket money,"das Taschengeld, -er",Wie viel Taschengeld bekommst du im Monat?,How much pocket money do you get per month?
 noun,Reservierung,reservation,"die Reservierung, -en",Was kostet eine Reservierung?,What does a reservation cost?
+noun,Stiegenhaus,stairwell,"das Stiegenhaus, ¨-er (A) 
+→ D, CH: Treppenhaus",Im Stiegenhaus ist kein Licht.,There is no light in the stairwell.
 noun,Zahlung,payment,"die Zahlung, -en",Bitte geben Sie bei der Zahlung die Rechnungsnummer an.,Please state the invoice number when paying.
 noun,Biologie,biology,die Biologie (Sg.),Meine Freundin studiert Biologie.,My girlfriend is studying biology.
 noun,Bleistift,pencil,"der Bleistift, -e",Hast du einen Bleistift für mich?,Do you have a pencil for me?
@@ -1306,6 +1402,7 @@ die Spezialistin, -nen",Mein Arzt hat mich zur Spezialistin geschickt.,My doctor
 noun,Zange,pliers,"die Zange, -n","Um das Fahrrad zu reparieren, brauchst du eine Zange.",You will need pliers to repair the bike.
 noun,Souvenir,souvenir,"das Souvenir, -s",Ich habe ein paar Souvenirs aus dem Urlaub mitgebracht.,I brought a few souvenirs from my vacation.
 noun,Erholung,"recovery, rest","die Erholung, -en",Ich habe zu viel gearbeitet. Jetzt brauche ich etwas Erholung.,I've been working too much. Now I need some rest.
+noun,Abonnement,subscription,"das Abonnement, -s/-e",Ich habe das Abonnement gekündigt.,I have canceled my subscription.
 noun,Imbiss,snack,"der Imbiss, -e (D) 
 → A: Jause, CH: Znüni/Zvieri",Es ist Zeit für einen kleinen Imbiss.,It's time for a small snack.
 noun,Ausfahrt,(car) exit,"die Ausfahrt, -en","Hier ist eine Ausfahrt, da dürfen Sie nicht parken.","There is an exit here, you are not allowed to park there.",Wie weit ist es noch bis zur Ausfahrt Freiburg?,How far is it to the Freiburg exit?
@@ -1315,12 +1412,16 @@ noun,Kartoffel,potato,"die Kartoffel, -n
 noun,Tablette,"tablet, pill","die Tablette, -n",Nehmen Sie dreimal täglich eine Tablette.,Take one tablet three times a day.
 noun,Stempel,"stamp, mark","der Stempel, -",Der Poststempel trägt das Datum von letzter Woche. Das Paket war lange unterwegs.,The postmark bears the date from last week. The parcel was on the road for a long time.
 noun,Verbot,"prohibition, ban","das Verbot, -e",Ich bin für das Verbot dieses neuen Videospiels.,I am in favor of banning this new video game.
+noun,Zündholz,match,"das Zündholz, ¨-er 
+→ Streichholz; A: Zünder",Ich hätte gern eine Schachtel Zündhölzer.,I would like a box of matches.
 noun,Buffet,buffet,"das Buffet, -s",Das Buffet ist eröffnet!,The buffet is open!
 noun,Karneval,carnival,"der Karneval, -s/-e (D) 
 → D, A: Fasching; CH: Fasnacht",Dort hängt mein Kostüm für den Karnevals(um)zug.,My costume for the carnival parade is hanging there.
 noun,Angehörige,relative,"der Angehörige, -n 
 die Angehörige, -n",Der Arzt darf nur Familienangehörigen Auskunft geben.,The doctor may only give information to family members.
 noun,Erdgeschoss/ Ergeschoß,ground/first floor,"das Erdgeschoss/ Ergeschoß, -e",Unsere Wohnung befindet sich im Erdgeschoss.,Our apartment is located on the first floor.
+noun,Erdapfel,potato,"der Erdapfel, ¨- (A) 
+→ Kartoffel",Kann ich bitte noch Erdäpfel bekommen?,"Can I have some more potatoes, please?"
 noun,Visum,visa,"das Visum, Visa",Das Visum ist für drei Monate gültig.,The visa is valid for three months.
 noun,Verlag,publisher,"der Verlag, -e (A: ¨-e)",Von welchem Verlag ist dieses Buch?,Which publisher is this book from?
 noun,Gasthaus,"inn, restaurant","das Gasthaus, ¨-er (A)",Gehen wir noch in ein Gasthaus ein Bier trinken?,Shall we go to a pub for a beer?
@@ -1340,6 +1441,8 @@ noun,Bub,boy,"der Bub, -en (A, CH)
 → D: Junge",In der Schulklasse sind 15 Buben und 10 Mädchen.,There are 15 boys and 10 girls in the class.
 noun,Kanne,"pot, jug","die Kanne, -n","Das ist aber eine schöne Teekanne. – Ja, die ist aus China.","That's a beautiful teapot. - Yes, it's from China.",Bitte einen Kaffee! – Eine Tasse oder ein Kännchen?,A coffee please! - A cup or a pot?
 noun,Nachhilfe,tutoring,"die Nachhilfe, -n",Der Schüler braucht Nachhilfe in Mathematik.,The student needs tutoring in math.
+noun,Fasching,carnival,"der Fasching, - (D, A) 
+→ D: Karneval; CH: Fasnacht",Dort hängt mein Kostüm für den Faschings(um)zug.,My costume for the carnival parade is hanging there.
 noun,Träne,tear,"die Träne, -n",Sie trocknet dem Kind die Tränen. Wie willst du die Möbel denn transportieren?,She dries the child's tears. How are you going to transport the furniture?
 noun,Drucker,printer,"der Drucker, -",Ich brauche einen neuen Drucker für meinen Computer.,I need a new printer for my computer.
 noun,Einführung,introduction,"die Einführung, -en",Leider habe ich die Einführung des Kurses verpasst.,"Unfortunately, I missed the introduction of the course."
@@ -1357,6 +1460,7 @@ noun,Beschäftigung,employment,"die Beschäftigung, -en","Ich suche eine Halbtag
 noun,Nachwuchs,"young people, offspring",der Nachwuchs (Sg.),Der Nachwuchs bei Forschern soll gefördert werden.,The next generation of researchers is to be promoted.,Die Katze hat Nachwuchs bekommen.,The cat has had kittens.
 noun,"Tourist, Touristin",tourist,"der Tourist, -en 
 die Touristin, -nen",Es kommen immer mehr Touristen in unsere Stadt.,More and more tourists are coming to our city.
+noun,Hallenbad,indoor swimming pool,"das Hallenbad, ¨-er",Sie geht jeden Tag zum Schwimmen ins Hallenbad.,She goes swimming in the indoor pool every day.
 noun,Faktor,factor,"der Faktor, -en",Die Creme hat einen hohen Sonnenschutzfaktor.,The cream has a high sun protection factor.
 noun,Hackfleisch,minced meat,"das Hackfleisch (Sg.) (D, CH) 
 → A: Faschierte",Geben Sie mir bitte 500g Hackfleisch.,Please give me 500g of minced meat.
@@ -1364,20 +1468,28 @@ noun,Tomate,tomato,"die Tomate, -n
 → A: Paradeiser",Kauf bitte noch Tomaten auf dem Markt.,Please buy tomatoes at the market.
 noun,Fotografie,photography,"die Fotografie, -n",Ich interessiere mich für Fotografie.,I am interested in photography.
 noun,Rechner,"computer, calculator","der Rechner, -",Mein Rechner ist kaputt.,My computer is broken.
+noun,Fasnacht,carnival,"die Fasnacht (CH) 
+→ D, A: Fasching; D: Karneval",Dort hängt mein Kostüm für den Fasnachtsumzug.,My costume for the carnival parade is hanging there.
 noun,Schnupfen,common cold,"der Schnupfen, -",Ich habe Schnupfen. Welches Medikament empfehlen Sie?,I have a cold. Which medicine do you recommend?
 noun,"Absender, Absenderin",sender,"der Absender, - 
 die Absenderin, -nen",Schicken Sie das Paket an den Absender zurück.,Return the parcel to the sender.
 noun,Tätigkeit,activity,"die Tätigkeit, -en",Welche Tätigkeit würde Ihnen Spaß machen?,Which activity would you enjoy?
 noun,Essig,vinegar,"der Essig, -e",Am Salat fehlt noch etwas Essig.,The salad still needs a little vinegar.
+noun,Schwammerl,mushroom,"das Schwammerl, -n (A) 
+→ Pilz",Haben Sie frische Schwammerln? Meine Frau ist im dritten Monat schwanger.,Do you have fresh mushrooms? My wife is three months pregnant.
 noun,Wörterbuch,dictionary,"das Wörterbuch, ¨-er",Ich muss das Wort im Wörterbuch nachschlagen.,I'll have to look the word up in the dictionary.
 noun,Geldbörse,"purse, wallet","die Geldbörse, -n (A) 
 → Brieftasche; D, CH: Portemonnaie/Portmonee",Ich habe nur Kleingeld in meiner Geldbörse.,I only have small change in my wallet.
 noun,Taste,"button, key","die Taste, -n",An der Fernbedienung ist eine Taste kaputt.,A button on the remote control is broken.,Du musst jetzt die Stopp-Taste drücken.,You must now press the stop button.
 noun,Muskel,muscle,"der Muskel, -n",Im Fitness-Studio trainieren wir unsere Muskeln.,We train our muscles in the gym.
 noun,Terminkalender,appointment calendar,"der Terminkalender, -",Hast du unser Treffen schon in deinen Terminkalender eingetragen?,Have you already entered our meeting in your diary?
+noun,Faschierte,minced meat,"das Faschierte (A) 
+→ D, CH: Hackfleisch",Geben Sie mir bitte 500 g Faschiertes.,Please give me 500 g of minced meat.
 noun,Statistik,statistic,"die Statistik, -en","Die Statistik zeigt, dass jeder zweite ein Fahrrad besitzt.",Statistics show that every second person owns a bicycle.
+noun,"Kriminal-, Kriminalpolizei",criminal investigation department,Kriminal- die Kriminalpolizei,Ein Nachbar von uns arbeitet bei der Kriminalpolizei.,A neighbor of ours works for the criminal investigation department.
 noun,Begründung,justification,"die Begründung, -en",Die Miete wurde ohne Begründung erhöht.,The rent was increased without justification.
 noun,Teilnahme,participation,"die Teilnahme, -n",Die Teilnahme am Gewinnspiel ist kostenlos.,Participation in the competition is free of charge.
+noun,Müesli/Müsli,muesli,"das Müesli/Müsli, -",Zum Frühstück gibt es Müsli mit Obst.,For breakfast there is muesli with fruit.
 noun,Mineralwasser,mineral water,"das Mineralwasser, -/¨-",Kann ich bitte ein Mineralwasser haben?,"Can I have a mineral water, please?"
 noun,Alphabet,alphabet,"das Alphabet, -e",Wie viele Buchstaben hat das Alphabet in Ihrer Sprache?,How many letters does the alphabet have in your language?
 noun,Bahnsteig,platform,"der Bahnsteig, -e (D, A) 
@@ -1386,6 +1498,8 @@ noun,Reklame,advertising,"die Reklame, -n",Ich möchte keine Reklame im Briefkas
 noun,Briefträger,letter carrier,"der Briefträger, - 
 → CH: die Briefträgerin, -nen Pöstler",War die Briefträgerin schon da?,Has the letter carrier arrived yet?
 noun,Hersteller,manufacturer,"der Hersteller, -",Ihr Handy ist kaputt? Wir schicken es an den Hersteller zurück und lassen es reparieren.,Is your cell phone broken? We'll send it back to the manufacturer and have it repaired.
+noun,Perron,"platform, track","der Perron, -s (CH) 
+→ D, A: Bahnsteig",Auf Hauptbahnhöfen gibt es meist viele Perrons.,There are usually many platforms at main stations.
 noun,Salbe,ointment,"die Salbe, -n",Diese Salbe gibt es nur auf Rezept.,This ointment is only available on prescription.
 noun,Buchstabe,letter (of an alphabet),"der Buchstabe, -n",Gibt es diesen Buchstaben auch in deiner Muttersprache?,Does this letter also exist in your mother tongue?,Ihr Name beginnt mit K. – Buchstabe K ist in Zimmer 3. Bitte warten Sie dort.,"Your name begins with K. - Letter K is in room 3, please wait there."
 noun,"Fachmann, Fachfrau",specialist,"der Fachmann, ¨-er 
@@ -1393,6 +1507,8 @@ die Fachfrau, -en",Meine Schwester ist Computerfachfrau.,My sister is a computer
 noun,Bohne,bean,"die Bohne, -n",Ich esse gern Bohnen.,I like to eat beans.
 noun,Überweisung,"transfer, referral","die Überweisung, - en",Sie können bar oder per Überweisung bezahlen.,You can pay in cash or by bank transfer.,Der Hausarzt hat mir eine Überweisung fürs Krankenhaus gegeben.,The family doctor gave me a referral for the hospital.
 noun,Haltestelle,stop,"die Haltestelle, -n",An der nächsten Haltestelle müssen wir aussteigen.,We have to get off at the next stop.
+noun,Paradeiser,tomato,"der Paradeiser, - (A) 
+→ Tomate",Kauf bitte noch Paradeiser auf dem Markt.,Please buy tomatoes at the market.
 noun,Flohmarkt,flea market,"der Flohmarkt, ¨-e",Diesen Hut habe ich am Flohmarkt gekauft.,I bought this hat at a flea market.
 noun,Bürste,brush,"die Bürste, -n",Hast du eine Bürste? Meine Schuhe sind so schmutzig.,Do you have a brush? My shoes are so dirty.,Ich brauche eine Bürste für meine Haare.,I need a brush for my hair.
 noun,Mappe,folder,"die Mappe, -n",Mein Pass ist in dieser Mappe.,My passport is in this folder.
@@ -1403,15 +1519,23 @@ noun,Broschüre,"brochure, leaflet","die Broschüre, -n",In der Broschüre finde
 noun,Abitur,"Abitur, school leaving examination","das Abitur (D) 
 → A, CH: Matura",Meine Tochter hat gerade Abitur gemacht.,My daughter has just graduated from high school.
 noun,Dialekt,dialect,"der Dialekt, -e","Ich verstehe dich besser, wenn du nicht Dialekt sprichst.",I understand you better when you don't speak dialect.
+noun,"Pöstler, Pöstlerin",postman,"der Pöstler, - 
+die Pöstlerin, -nen (CH) 
+→ Briefträger",War die Pöstlerin schon da?,Has the postwoman arrived yet?
 noun,Anmeldung,registration,"die Anmeldung, -en",Wo bekomme ich die Formulare für die Anmeldung?,Where can I get the registration forms?,"Die Anmeldung ist im Erdgeschoss, Zimmer 55.","Registration is on the first floor, room 55."
 noun,Ordner,folder,"der Ordner, -",Für meine Übungen im Deutschkurs habe ich mir einen Ordner gekauft.,I bought a folder for my exercises in my German course.
 noun,Wetterbericht,weather forecast,"der Wetterbericht, -e",Hast du schon den Wetterbericht gehört?,Have you heard the weather forecast yet?
 noun,Vitamin,vitamin,"das Vitamin, -e","Der Arzt sagt, ich soll viele Vitamine essen.",The doctor says I should eat lots of vitamins.
+noun,"Pensionist, Pensionistin",pensioner,"der Pensionist, -en 
+die Pensionistin, -nen (A) 
+→ D, CH: Rentner",Meine Großmutter arbeitet nicht mehr. Sie ist Pensionistin.,My grandmother no longer works. She is a pensioner.
 noun,Straßenbahn,tram,"die Straßenbahn, -en",Nehmen Sie die Straßenbahn Nr. 16.,Take tram no. 16.
 noun,Straßenbahn,tram,"die Straßenbahn, -en (D, A) 
 → CH: Tram",Fahren wir mit der Straßenbahn oder der U-Bahn?,Are we taking the tram or the subway?
 noun,Schaufenster,shop window,"das Schaufenster, -",Ich habe im Schaufenster eine schicke Bluse gesehen.,I saw a chic blouse in the shop window.
 noun,Umfrage,survey,"die Umfrage, -n",Wir machen eine Umfrage zum Thema Umweltschutz.,We are conducting a survey on the subject of environmental protection.
+noun,Matura,school leaving examination,"die Matura (Sg.) (A, CH) 
+→ D: Abitur",Meine Tocher hat gerade die Matura gemacht.,My daughter has just graduated from high school.
 noun,Tastatur,keyboard,"die Tastatur, -en",Die Tastatur an meinem Computer ist ganz neu.,The keyboard on my computer is brand new.
 noun,Gebirge,"mountains, mountain range","das Gebirge, -",Wir haben unseren Urlaub im Gebirge verbracht.,We spent our vacation in the mountains.
 noun,Fläche,"area, surface","die Fläche, -n",Unsere Wohnung hat eine Wohnfläche von 100 m².,Our apartment has a living space of 100 m².
@@ -1431,6 +1555,8 @@ noun,Vorort,"suburbs, outskirts","der Vorort, -e",Wir wohnen in einem Vorort von
 noun,Einkauf,"purchase, shopping","der Einkauf, ¨-e",Achten Sie beim Einkauf auf Sonderangebote.,Look out for special offers when shopping.,Ich habe alle Einkäufe erledigt. Jetzt können wir einen Kaffee trinken.,I've done all the shopping. Now we can have a coffee.
 noun,"Übersetzer, Übersetzerin",translator,"der Übersetzer, - 
 die Übersetzerin, -nen",Meine Tochter möchte als Übersetzerin arbeiten.,My daughter would like to work as a translator.
+noun,Jause,snack,"die Jause, -n (A) 
+→ D: Imbiss; CH: Znüni/Zvieri",Es ist Zeit für eine kleine Jause.,It's time for a little snack.
 noun,Aussprache,pronunciation,"die Aussprache, -n",Ali hat eine gute Aussprache.,Ali has good pronunciation.
 noun,Gebühr,fee,"die Gebühr, -en",Die Gebühr liegt bei 60 Euro.,The fee is 60 euros.
 noun,Reportage,report,"die Reportage, -n",Hast du die Reportage über Afrika gesehen?,Have you seen the report on Africa?
@@ -1440,12 +1566,16 @@ noun,Briefmarke,stamp,"die Briefmarke, -n",Briefmarken bekommen Sie am Schalter 
 noun,Karotte,carrot,"die Karotte, -n 
 → D: Möhre; CH: Rüebli",Hasen fressen gern Karotten.,Rabbits like to eat carrots.
 noun,Nahrungsmittel,food(stuff),"das Nahrungsmittel, -",In diesen Ländern fehlen vor allem Nahrungsmittel.,There is a shortage of food in these countries.
+noun,Tram,"streetcar, tram","das Tram, -s 
+→ D, A: Straßenbahn",Fahren wir mit dem Tram oder dem Bus?,Are we taking the streetcar or the bus?
 noun,Aufforderung,request,"die Aufforderung, -en","Sie erhalten eine Aufforderung, den Betrag bis Juni zu zahlen.",You will receive a request to pay the amount by June.
 noun,Beleg,receipt,"der Beleg, -e",Brauchen Sie einen Beleg?,Do you need a receipt?
 noun,"Steward, Stewardess","steward, stewardess","der Steward, -s 
 die Stewardess, -en",Die Stewardess bringt das Mittagessen.,The stewardess brings lunch.
 noun,Vollzeit,full-time,"die Vollzeit, -en",Ich möchte gerne Vollzeit arbeiten.,I would like to work full-time.
 noun,Forum,forum,"das Forum, Foren (Internetforum)",Ich melde mich heute bei diesem Forum an.,I am registering for this forum today.
+noun,Möhre,carrot,"die Möhre, -n (D) 
+→ Karotte; CH: Rüebli",Hasen fressen gern Möhren.,Rabbits like to eat carrots.
 noun,Minderheit,minority,"die Minderheit, -en",Frauen sind in unserer Firma in der Minderheit.,Women are in the minority in our company.
 noun,Voraussetzung,"prerequisite, condition","die Voraussetzung, -en",Gesunde Ernährung ist die Voraussetzung für ein langes Leben.,A healthy diet is a prerequisite for a long life.,"Er will die Arbeit nur unter der Voraussetzung annehmen, dass ihm die Firma eine Wohnung organisiert.",He only wants to accept the job on the condition that the company organizes an apartment for him.
 noun,Vorwahl,area code,"die Vorwahl, -en",Wie ist die Vorwahl von Hamburg?,What is the area code for Hamburg?
@@ -1458,21 +1588,29 @@ noun,Rückfahrt,return (journey),"die Rückfahrt, -en",Auf der Rückfahrt besuch
 noun,Schnitzel,schnitzel,"das Schnitzel, -",Bitte ein Schnitzel mit Kartoffeln und Salat.,Please a schnitzel with potatoes and salad.
 noun,Kopierer,copier,"der Kopierer, -",Der Kopierer ist schon wieder kaputt.,The photocopier is broken again.
 noun,Sonderangebot,special offer,"das Sonderangebot, -e",Das ist ein Sonderangebot: 25 % reduziert.,This is a special offer: 25% off.
+noun,Diskothek,discotheque,"die Diskothek, -en/Disko, -s",Wir gehen heute Abend in die Disko(thek).,We're going to the disco(thek) tonight.
 noun,Wanderung,hike,"die Wanderung, -en",Wir haben in den Ferien eine schöne Wanderung gemacht.,We went on a lovely hike during the vacations.
 noun,Rind,beef,"das Rind, -er",Ich esse nur Fleisch vom Rind.,I only eat beef.
 noun,Schwierigkeit,difficulty,"die Schwierigkeit, -en",Ich hatte große Schwierigkeiten einen Parkplatz zu bekommen.,I had great difficulty getting a parking space.
 noun,Notausgang,emergency exit,"der Notausgang, ¨-e",Der Notausgang ist gleich hier bei der Treppe.,The emergency exit is right here by the stairs.
+noun,Sehenswürdigkeit,"place of interest, sight","die Sehenswürdigkeit, -en",Welche Sehenswürdigkeiten gibt es hier?,What sights are there here?
 noun,Pflaume,plum,"die Pflaume, -n",Ich esse gern Pflaumen und noch lieber Pflaumenkuchen.,I love eating plums and even more plum cake.
 noun,Sprechstunde,consultation hour,"die Sprechstunde, -n 
 → A: Ordination",Frau Dr. Berger hat von 8 bis 12 Uhr Sprechstunde.,Dr. Berger has consultation hours from 8 a.m. to 12 noon.
+noun,Halbpension,half board,"die Halbpension, -en",Wir möchten ein Hotel mit Halbpension.,We would like a hotel with half board.
 noun,Senioren,seniors,die Senioren (Pl.),Dieser Computerkurs ist für Senioren.,This computer course is for seniors.
+noun,Mobilbox,voicemail,"die Mobilbox, -en",Ich habe zwei Nachrichten auf meiner Mobilbox.,I have two messages on my voicemail.
 noun,Krimi,(crime) thriller,"der Krimi, -s",Heute Abend kommt ein spannender Krimi im Fernsehen.,There's an exciting thriller on TV tonight.
 noun,Förderung,"promotion, funding","die Förderung, -en",Für das Projekt bekommen wir eine Förderung von der Stadt.,We receive funding from the city for the project.
+noun,Umtausch,exchange,"der Umtausch, ¨-e",Ein Umtausch ist leider nicht möglich.,An exchange is unfortunately not possible.
 noun,Buchhandlung,bookstore,"die Buchhandlung, -en",In der Buchhandlung in der Stadt haben sie das Buch sicher.,They certainly have the book in the bookstore in town.
 noun,Mahnung,reminder,"die Mahnung, -en","Wenn du die Rechnung nicht pünktlich bezahlst, bekommst du eine Mahnung.","If you do not pay the bill on time, you will receive a reminder."
 noun,"Fußgänger, Fußgängerin",pedestrian,"der Fußgänger, - 
 die Fußgängerin, -nen",Dieser Weg ist nur für Fußgänger.,This path is for pedestrians only.
+noun,Ordination,"consultation (hour), surgery","die Ordination, -en (A) 
+→ Sprechstunde",Frau Dr. Berger hat von 8 bis 12 Uhr Ordination.,Dr. Berger has consultation hours from 8 am to 12 pm.
 noun,Drogerie,drugstore,"die Drogerie, -n",Waschmittel bekommst du in der Drogerie.,You can buy detergent at the drugstore.
+noun,Fußgängerzone,pedestrian zone,"die Fußgängerzone, -n",Wir treffen uns um 15 Uhr in der Fußgängerzone.,We meet at 3 p.m. in the pedestrian zone.
 noun,Einbahnstraße,one-way street,"die Einbahnstraße, -n",Die Goethestraße ist jetzt eine Einbahnstraße.,Goethestrasse is now a one-way street.
 noun,Qualifikation,qualification,"die Qualifikation, -en",Für diese Arbeit haben Sie gute Qualifikationen.,You have good qualifications for this work.
 noun,Teilzeit,part-time,"die Teilzeit, -en",Ich arbeite im Moment nur Teilzeit.,I only work part-time at the moment.
@@ -1483,6 +1621,8 @@ noun,Annonce,advertisement,"die Annonce, -n","Ich habe alle Annoncen gelesen, ab
 noun,Volleyball,volleyball,"der Volleyball, -¨e",Im Sommer spiele ich gern Volleyball.,I like to play volleyball in the summer.
 noun,Automat,automatic machine,"der Automat, -en",Zigaretten bekommst du am Automaten.,You can get cigarettes from the vending machine.,Der Fahrkartenautomat ist auf dem Bahnsteig.,The ticket machine is on the platform.
 noun,Reform,reform,"die Reform, -en",Die Regierung plant für nächstes Jahr eine Reform. Die Steuern sollen steigen.,The government is planning a reform for next year. Taxes are to rise.
+noun,Rüebli,carrot,"das Rüebli, - (CH) 
+→ Karotte; D: Möhre",Hasen fressen gern Rüebli.,Rabbits like to eat carrots.
 noun,Nudel,"noodle, pasta","die Nudel, -n",Möchten Sie Nudeln oder Reis? – Lieber Nudeln.,Would you prefer pasta or rice?
 noun,Krankenpfleger,nurse,"der Krankenpfleger, -",Mein Bruder arbeitet als Krankenpfleger im Krankenhaus.,My brother works as a nurse in the hospital.
 noun,Altenheim,old people's home,"das Altenheim, -e 
@@ -1492,6 +1632,8 @@ noun,Fahrplan,timetable,"der Fahrplan, ¨-e",Der Fahrplan hat sich geändert.,Th
 noun,Strumpf,stocking,"der Strumpf, ¨-e",Wo sind meine roten Strümpfe?,Where are my red stockings?
 noun,Steckdose,socket,"die Steckdose, -n",Es gibt drei Steckdosen in diesem Zimmer.,There are three sockets in this room.
 noun,Kuli,pen,"der Kuli, -s",Hast du einen Kuli für mich?,Do you have a pen for me?
+noun,Zvieri/Znüni,snack,"das/der Zvieri/Znüni, -s (CH) 
+→ D: Imbiss; A: Jause",Es ist Zeit für ein kleines Zvieri.,It's time for a little snack.
 noun,Fotoapparat,camera,"der Fotoapparat, -e",Ich möchte mir einen Fotoapparat kaufen.,I would like to buy a camera.
 noun,Müllabfuhr,garbage collection,"die Müllabfuhr, -en",Die Müllabfuhr kommt zweimal pro Woche.,The refuse collection service comes twice a week.
 noun,Integration,integration,"die Integration, -en",Gute Deutschkenntnisse sollen bei der Integration helfen.,Good German language skills should help with integration.
@@ -1533,11 +1675,17 @@ noun,Nachspeise,dessert,"die Nachspeise, -n (D, A)
 noun,Fundbüro,lost and found office,"das Fundbüro, -s",Sie haben Ihren Schirm verloren. Da fragen Sie am besten im Fundbüro.,You have lost your umbrella. The best place to ask is the lost and found office.
 noun,Vorfahrt,right of way,die Vorfahrt (Sg.),Achtung! Das Auto rechts hat Vorfahrt!,Attention! The car on the right has right of way!
 noun,Abfalleimer,garbage can,"der Abfalleimer, -",Wirf das bitte in den Abfalleimer!,Please throw this in the garbage can!
+noun,Bankleitzahl,bank code,"die Bankleitzahl, -en",Bitte geben Sie Ihre Bankleitzahl an.,Please enter your bank sort code.
 noun,Kunststoff,plastic,"der Kunststoff, -e",Der Stuhl ist aus Kunststoff.,The chair is made of plastic.
+noun,Fachleute,experts,die Fachleute (Pl.),Die suchen Fachleute für dieses Computerprogramm.,They are looking for experts for this computer program.
 noun,Zertifikat,certificate,"das Zertifikat, -e","Wenn ich die Prüfung schaffe, bekomme ich ein Zertifikat.","If I pass the exam, I will receive a certificate."
+noun,Bankomat-Karte,ATM card,"die Bankomat-Karte, -n (A) 
+→ ec-Karte/EC-Karte",Sie können auch mit Bankomat-Karte zahlen.,You can also pay with an ATM card.
 noun,Konfitüre,jam,"die Konfitüre, -n (CH)",Bring bitte noch ein Glas Konfitüre mit.,Please bring a jar of jam with you.
 noun,Stadtplan,city map,"der Stadtplan, ¨-e",Haben Sie einen Stadtplan?,Do you have a city map?
 noun,Rufnummer,phone number,"die Rufnummer, -n",Wir möchten Sie gerne anrufen. Wie ist Ihre Rufnummer?,We would like to call you. What is your phone number?
+noun,ec-Karte,ec card,"die ec-Karte/EC-Karte 
+→ A: Bankomat-Karte",Bezahlen Sie bar? Sie können auch mit der ec-Karte zahlen.,Do you pay in cash? You can also pay by debit card.
 noun,Gebrauchsanweisung,"instructions for use, manual","die Gebrauchsanweisung, -en",Lesen Sie bitte zuerst die Gebrauchsanweisung.,Please read the instructions for use first.
 noun,"Lerner, Lernerin",learner,"der Lerner, - 
 die Lernerin, -nen",Sie ist eine fleißige Lernerin.,She is a diligent learner.
@@ -1545,6 +1693,7 @@ noun,Knödel,dumpling,"der Knödel, - (D, A)
 → D: Kloß",Möchten Sie zum Fleisch Erdäpfel oder Knödel? – Knödel bitte.,Would you like potatoes or dumplings with your meat?
 noun,"Radfahrer, Radfahrerin",cyclist,"der Radfahrer, - 
 die Radfahrerin, -nen",Achtung! Da kommt eine Radfahrerin.,Watch out! Here comes a cyclist.
+noun,Chipkarte,chip card,"die Chipkarte, -n",Ich habe eine Chipkarte für diesen Automaten.,I have a chip card for this machine.
 noun,Eck,corner,"das Eck, -en (A) 
 → D, CH: Ecke",Das Regal stellen wir hier ins Eck.,We put the shelf in the corner here.,Das bekommen Sie im Kiosk am Eck.,You can get this at the kiosk on the corner.,Wo ist die Apotheke? ? Gleich ums Eck.,Where is the pharmacy? ? Just around the corner.
 noun,Geldautomat,cash machine,"der Geldautomat, -en (D) 
@@ -1555,6 +1704,8 @@ noun,Inserat,advertisement,"das Inserat, -e",Was kostet ein Inserat in der Zeitu
 noun,Gewürz,spice,"das Gewürz, -e",Von den scharfen Gewürzen bekommt man Durst.,The hot spices make you thirsty.
 noun,Anbieter,provider,"der Anbieter, -",Ist das ein privater Telefonanbieter?,Is this a private telephone provider?
 noun,Verkehrsmittel,means of transportation,"das Verkehrsmittel, -",Es gibt kaum Parkplätze. Sie sollten mit öffentlichen Verkehrsmitteln fahren.,There are hardly any parking spaces. You should use public transportation.
+noun,Bancomat/Bankomat,ATM,"der Bancomat/Bankomat, -en (A, CH) 
+→ D: Geldautomat",Ich hole noch schnell Geld vom Bankomaten.,I quickly get some money from the ATM.
 noun,Laufwerk,(computer) drive,"das Laufwerk, -e",Für meinen Computer habe ich mir ein neues Laufwerk gekauft.,I bought a new drive for my computer.
 noun,Angabe,"information, specification","die Angabe,-n","Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum.","We need the following information from you: Name, address, date of birth."
 noun,Umweltschutz,environmental protection,der Umweltschutz (Sg.),Das Land muss mehr Geld für Umweltschutz ausgeben.,The country must spend more money on environmental protection.
@@ -1569,5 +1720,7 @@ noun,Gehsteig,sidewalk,"der Gehsteig, -e (D, A)
 → CH: Trottoir",Das Fahrradfahren auf dem Gehsteig ist nicht erlaubt.,Cycling on the sidewalk is not permitted.
 noun,Abbildung,illustration,"die Abbildung, -en","Auf der Abbildung sehen Sie, wie man das Gerät einschaltet.",The illustration shows you how to switch on the device.
 noun,Margarine,margarine,"die Margarine, -n",Meine Frau isst nur Margarine und keine Butter.,My wife only eats margarine and no butter.
+noun,Trottoir,sidewalk,"das Trottoir, -s (CH) 
+→ Gehsteig (D, A)",Das Velofahren auf dem Trottoir ist nicht erlaubt.,Cycling on the sidewalk is not permitted.
 noun,Rundfahrt,"tour, round trip","die Rundfahrt, -en",Am zweiten Tag haben wir eine Rundfahrt durch den Hafen gemacht.,"On the second day, we took a tour of the port."
 noun,Jugendherberge,youth hostel,"die Jugendherberge, -n",Wo habt ihr übernachtet? – In einer Jugendherberge.,Where did you stay overnight? - In a youth hostel.
