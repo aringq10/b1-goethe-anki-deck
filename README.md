@@ -19,6 +19,6 @@
 **Notes:** The "B1_goethe" note type used in the deck has a "notes" field where you can write a personal note or hint for any flashcard.
 
 (1) [Original B1 List by Goethe Institut](https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf)<br>
-(2) [Processed B1 Goethe List](https://www.reddit.com/r/German/comments/18fa8r9/goethe_b1_wordlist_as_a_csv_or_html_table)<br>
+(2) [Processed B1 Goethe List](https://wejn.org/2023/12/extracting-data-from-goethe-zertifikat-b1-wortliste/#solution)<br>
 (3) [Prepositional Verbs Game/List](http://deutsch.ie/german-grammar/german-exercises/german-verbs/game-verbs-with-prepositions)<br>
 (4) [German Words by Frequency List](https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/de/de_50k.txt)<br>
