@@ -16,4 +16,4 @@
 
 **Notes:** The "B1_goethe" note type used in the deck has a "notes" field where you can write a personal note or hint for any flashcard.
 
-### [Link to the AnkiWeb page for this deck](https://ankiweb.net/shared/info/1388389436?cb=1729351372567)
+### [Link to the AnkiWeb page for this deck](https://ankiweb.net/shared/info/1388389436?cb=1729410219051)
