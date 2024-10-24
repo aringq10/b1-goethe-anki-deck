@@ -1,10 +1,10 @@
 # This is the Anki deck of the B1 german word list by Goethe Institut **[(1)](https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf)**.
 
 ### It includes:
-- 5740 Cards (Including Reverse Cards)
-- 2870 Total Words
+- 5742 Cards (Including Reverse Cards)
+- 2871 Total Words
 - 1499 Nouns
-- 651 Verbs (with prepositions and their case where appropriate)
+- 652 Verbs (with prepositions and their case where appropriate)
 - 720 Adjectives, Adverbs, prepositions etc.
 - 4589 Example Sentences with Audio
 
@@ -17,7 +17,8 @@
 
 **Notes:** The "B1_goethe" note type used in the deck has a "notes" field where you can write a personal note or hint for any flashcard.
 
-### [Link to the AnkiWeb page for this deck](https://ankiweb.net/shared/info/1388389436)
+### [Link to the AnkiWeb page for the main deck](https://ankiweb.net/shared/info/1388389436)
+### [Link to the AnkiWeb page for the example sentences deck](https://ankiweb.net/shared/info/1447961280)
 ---
 ### How To Delete The Reverse Cards On:
 #### Android:
