@@ -6,7 +6,7 @@
 - 1499 Nouns
 - 651 Verbs (with prepositions and their case where appropriate)
 - 720 Adjectives, Adverbs, prepositions etc.
-- 4587 Example Sentences with Audio
+- 4589 Example Sentences with Audio
 
 ### How It Was Made:
 1. Having found an already processed list of the words and their example sentences **[(2)](https://wejn.org/2023/12/extracting-data-from-goethe-zertifikat-b1-wortliste/#solution)**, I sorted them into three categories: Nouns, Verbs and Other.
